@@ -8738,6 +8738,25 @@
     "Sets": []
   },
   {
+    "ClassName": "ExpansionBanknoteHryvnia",
+    "Chance": 0.05,
+    "Quantity": {
+      "Min": 10,
+      "Max": 30
+    },
+    "Health": [
+      {
+        "Min": 0.7,
+        "Max": 1,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
     "ClassName": "CarpFilletMeat",
     "Chance": 0.05,
     "Quantity": {
