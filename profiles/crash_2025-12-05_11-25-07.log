@@ -1,0 +1,77 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\crash_2025-12-05_11-25-07.log started at 05.12. 11:25:11
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:25:11
+Can't compile "World" script module!
+
+ExpansionAIRaids/Scripts/4_World/ uqbzr3ft \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\com2.c(10): Unknown type 'eAIBase'
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:25:19
+Can't compile "World" script module!
+
+ExpansionAIRaids/Scripts/4_World/ uqbzr3ft \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\com2.c(10): Unknown type 'eAIBase'
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:25:21
+Unhandled exception
+
+Program: C:\Users\grand\Desktop\servers\Dayz\DayZServer_x64.exe
+Reason: Access violation. Illegal read by 0x7ff6df09fdd5 at 0xffffffffffffffff
+
+
+Class:      'EntityAI'
+Entity id:-9223196114608337471
+
+Function: 'InitAttachmentExclusionValues'
+Stack trace:
+scripts/3_Game/entities\entityai.c:4168 Function InitAttachmentExclusionValues
+scripts/3_Game/entities\entityai.c:891 Function OnInventoryInit
+scripts/3_Game/systems\inventory\inventory.c:831 Function Init
+
+SymGetSymFromAddr:487, addr:0x7ff6df09fdd5
+SymGetSymFromAddr:487, addr:0x7ff6df12364c
+SymGetSymFromAddr:487, addr:0x7ff6df105541
+SymGetSymFromAddr:487, addr:0x7ff6df1076f1
+SymGetSymFromAddr:487, addr:0x7ff6df10784f
+SymGetSymFromAddr:487, addr:0x7ff6df1079af
+SymGetSymFromAddr:487, addr:0x7ff6df30087e
+[CDPCreateServer]: ??? addr:0x7ff6df644630
+[CDPCreateServer]: ??? addr:0x7ff6df644e4f
+[CDPCreateServer]: ??? addr:0x7ff6df71047f
+[CDPCreateServer]: ??? addr:0x7ff6df63204b
+[CDPCreateServer]: ??? addr:0x7ff6df6329b3
+[CDPCreateServer]: ??? addr:0x7ff6df62f88e
+[CDPCreateServer]: ??? addr:0x7ff6df6361a0
+[CDPCreateServer]: ??? addr:0x7ff6df6373a0
+[CDPCreateServer]: ??? addr:0x7ff6df62ea03
+[CDPCreateServer]: ??? addr:0x7ff6df661ae2
+[CDPInitServer]: ??? addr:0x7ff6df4c9ea5
+[CDPInitServer]: ??? addr:0x7ff6df4cb9da
+[CDPCreateServer]: ??? addr:0x7ff6df65e174
+[CDPCreateServer]: ??? addr:0x7ff6df7b723e
+[CDPCreateServer]: ??? addr:0x7ff6df7b7ac4
+[CDPCreateServer]: ??? addr:0x7ff6df7b9df9
+SymGetSymFromAddr:487, addr:0x7ff6df20b6cf
+[CDPCreateServer]: ??? addr:0x7ff6df7ba7cd
+SymGetSymFromAddr:487, addr:0x7ff6df336d4e
+[CDPCreateServer]: ??? addr:0x7ff6df9190ce
+[BaseThreadInitThunk]: ??? addr:0x7ff84f807374
+[RtlUserThreadStart]: ??? addr:0x7ff85053cc91
+[RtlUserThreadStart]: ??? addr:0x7ff85053cc91
+
+
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  

@@ -1,0 +1,228 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-12-10_20-44-56
+====================================================================================
+20:44:56 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+20:44:56 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+20:44:56 | [PermissionManager] Perm (FreeCamera) has been registered!
+20:44:56 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuItemManager) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuServerManager) has been registered!
+20:44:56 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+20:44:56 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+20:44:56 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+20:44:56 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+20:44:56 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+20:44:56 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+20:44:56 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+20:44:56 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+20:44:56 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+20:44:56 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+20:44:56 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+20:44:56 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+20:44:56 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+20:44:56 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+20:44:56 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+20:44:56 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+20:44:56 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+20:44:56 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuBansManager) has been registered!
+20:44:56 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+20:44:56 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+20:44:56 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+20:44:56 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+20:44:56 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+20:44:56 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+20:44:56 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+20:44:56 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+20:44:56 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+20:44:56 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+20:44:56 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+20:44:56 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+20:44:56 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+20:44:56 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+20:44:56 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+20:44:56 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+20:44:56 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+20:44:56 | [PermissionManager] Adding Super Admin (76561198040522771)
+20:44:56 | [PermissionManager] Loaded UserGroups.json
+20:44:56 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+20:44:56 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+20:44:56 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+20:44:56 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+20:44:56 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+20:44:56 | Building Sets Loaded: 0
+20:44:56 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+20:44:56 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:47:49 | Player "Vex" (steamId=76561198040522771) connected to server!
+20:48:23 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4672.071289, 1.949925, 2144.287109>)
+20:48:24 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4684.400391, 3.213185, 2155.842773>)
+20:48:24 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4693.307129, 4.732068, 2164.413086>)
+20:48:27 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4723.130371, 6.000000, 2176.239990>)
+20:48:28 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4754.022949, 5.999999, 2196.539063>)
+20:48:28 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4770.574707, 6.801260, 2208.612061>)
+20:48:30 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4779.115723, 7.740216, 2221.644531>)
+20:48:30 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4830.257813, 5.763967, 2319.417236>)
+20:48:34 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4801.647949, 6.078028, 2346.164551>)
+20:48:34 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4772.151367, 6.371315, 2360.644775>)
+20:48:36 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4754.887695, 6.500000, 2373.149170>)
+20:48:37 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4741.217285, 6.589419, 2384.206787>)
+20:48:37 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4721.059082, 6.752540, 2396.063721>)
+20:48:39 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4725.389648, 7.477655, 2412.466064>)
+20:48:39 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4732.176270, 8.780041, 2421.600342>)
+20:48:43 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4782.729980, 6.920765, 2431.211182>)
+20:48:44 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4799.937500, 7.306036, 2432.456543>)
+20:48:45 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4818.576172, 8.236100, 2438.609863>)
+20:48:46 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4835.522949, 9.004141, 2444.594971>)
+20:48:47 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4855.549316, 8.467752, 2453.277832>)
+20:48:47 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4871.552246, 8.927041, 2460.416504>)
+20:49:38 | "Vex" (steamid=76561198040522771) toggled godmode
+20:51:17 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4946.986816, 9.608919, 2482.831787>)
+20:51:19 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4963.611328, 9.499998, 2465.984863>)
+20:51:22 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4958.267578, 9.499992, 2449.696533>)
+20:51:23 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4945.867676, 9.514892, 2442.013428>)
+20:51:52 | "76561198040522771" (steamid=76561198040522771) teleported to (pos=<4634.509766, 339.144714, 9853.669922>)
+20:51:52 | "Vex": (steamid=76561198040522771) teleported to (pos=4634.51,0,9853.67)
+20:52:0 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4626.703613, 339.070953, 9868.696289>)
+20:52:1 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4626.642578, 339.027954, 9885.222656>)
+20:52:3 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4629.868164, 338.756348, 9920.474609>)
+20:52:3 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4632.979980, 338.735413, 9946.392578>)
+20:52:4 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4637.408691, 338.718079, 9975.609375>)
+20:52:4 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4642.740723, 338.893188, 10003.743164>)
+20:52:4 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4647.820801, 339.282257, 10028.750000>)
+20:52:4 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4654.269043, 339.268646, 10060.529297>)
+20:52:5 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4661.235840, 339.075562, 10094.900391>)
+20:52:5 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4667.720215, 339.053772, 10126.747070>)
+20:52:5 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4673.286621, 339.076782, 10154.194336>)
+20:52:5 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4679.174316, 339.045441, 10183.361328>)
+20:52:6 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4681.277832, 339.000031, 10213.723633>)
+20:52:6 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4681.030273, 339.000000, 10214.467773>)
+20:52:7 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4682.488770, 339.000031, 10242.797852>)
+20:52:7 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4683.907227, 339.000000, 10270.821289>)
+20:52:8 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4680.412598, 339.000031, 10303.934570>)
+20:52:13 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4666.004395, 339.000000, 10334.587891>)
+20:52:23 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4660.656738, 338.923950, 10368.314453>)
+20:52:34 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4646.601563, 339.084442, 10374.093750>)
+20:53:54 | "76561198040522771" (steamid=76561198040522771) teleported to (pos=<4142.870117, 370.779755, 11627.400391>)
+20:53:54 | "Vex": (steamid=76561198040522771) teleported to (pos=4142.87,0,11627.4)
+20:54:0 | [WeatherManager] Send Data Count is 0
+20:54:7 | [Time Manager] Setting Date to 2025/9/21 8:6
+20:54:13 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4122.965332, 370.600861, 11626.999023>)
+20:54:13 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4104.217285, 370.318390, 11626.753906>)
+20:54:18 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4074.455078, 369.959991, 11627.091797>)
+20:54:22 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4048.512451, 369.866028, 11630.601563>)
+20:54:25 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4022.727051, 369.799957, 11619.804688>)
+20:54:26 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4010.266113, 369.922455, 11611.756836>)
+20:55:47 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4018.141602, 369.799957, 11634.469727>)
+20:55:50 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4040.645020, 369.803711, 11644.626953>)
+20:55:50 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4054.807861, 369.792389, 11648.803711>)
+20:56:31 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4029.386230, 371.014587, 11680.496094>)
+20:56:33 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4036.501709, 376.691193, 11689.438477>)
+20:56:34 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4036.227295, 375.937073, 11699.897461>)
+20:58:27 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4014.652100, 376.158325, 11753.261719>)
+20:58:28 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4008.317627, 375.730011, 11769.900391>)
+20:58:30 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<3996.114502, 375.729980, 11785.866211>)
+20:58:30 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<3986.494873, 376.009979, 11796.030273>)
+20:58:32 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<3986.442139, 375.881378, 11799.089844>)
+20:58:41 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<3976.966309, 376.785400, 11802.779297>)
+20:58:42 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<3980.413574, 375.718445, 11809.498047>)
+20:58:42 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<3983.787842, 375.710938, 11816.537109>)
+20:58:51 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<3984.749756, 375.918762, 11822.746094>)
+20:58:52 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<3986.798828, 375.718445, 11815.226563>)
+20:58:53 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<3995.676025, 376.274628, 11815.559570>)
+20:58:53 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<3996.659180, 377.893066, 11815.191406>)
+20:58:54 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4007.358643, 375.681763, 11826.841797>)
+20:58:56 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4013.330322, 375.837830, 11834.224609>)
+20:58:58 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4013.412842, 377.172455, 11834.341797>)
+20:58:58 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4010.253418, 375.637451, 11843.473633>)
+20:58:59 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4007.824219, 375.618683, 11849.383789>)
+20:58:59 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4005.635254, 375.591980, 11856.791016>)
+20:58:59 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4003.625000, 375.565796, 11866.583008>)
+20:59:0 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4005.563721, 375.538208, 11874.504883>)
+20:59:4 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4001.722412, 375.743225, 11883.689453>)
+20:59:12 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<3998.063477, 375.576355, 11891.097656>)
+20:59:20 | "76561198040522771" (steamid=76561198040522771) teleported to (pos=<1683.109985, 451.730011, 14344.900391>)
+20:59:20 | "Vex": (steamid=76561198040522771) teleported to (pos=1683.11,0,14344.9)
+20:59:31 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1673.763672, 451.730011, 14369.986328>)
+20:59:32 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1670.465820, 451.657898, 14388.346680>)
+20:59:50 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1672.550659, 451.671997, 14378.628906>)
+20:59:51 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1676.807129, 451.717682, 14368.176758>)
+20:59:52 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1681.458252, 451.730011, 14360.997070>)
+20:59:54 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1691.157959, 451.694946, 14362.126953>)
+20:59:55 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1692.073120, 453.225037, 14363.363281>)
+20:59:55 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1692.380127, 451.665985, 14362.889648>)
+20:59:56 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1691.580322, 453.265656, 14363.051758>)
+20:59:56 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1691.302856, 454.277130, 14362.875977>)
+20:59:57 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1689.316406, 455.321259, 14363.303711>)
+20:59:57 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1690.086792, 454.968964, 14367.290039>)
+20:59:58 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1692.529663, 454.498840, 14370.351563>)
+21:0:14 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1680.840332, 451.774200, 14370.918945>)
+21:0:36 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1700.098633, 451.712585, 14356.632813>)
+21:0:37 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1700.169312, 451.730011, 14340.369141>)
+21:0:40 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1698.372681, 451.730011, 14316.866211>)
+21:0:41 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1697.402222, 451.730011, 14307.562500>)
+21:0:41 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1694.017578, 451.730011, 14295.053711>)
+21:0:43 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1713.696655, 451.730011, 14287.272461>)
+21:0:44 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<1738.310425, 453.397034, 14285.159180>)
+21:0:44 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<2824.608398, 418.806824, 14095.684570>)
+21:0:45 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4988.916504, 202.678452, 13486.570313>)
+21:0:46 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<4997.272949, 194.024429, 13485.453125>)
+21:0:46 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<5003.217773, 194.171356, 13483.979492>)
+21:0:47 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<5010.148438, 194.445313, 13482.791016>)
+21:0:47 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<5021.174805, 194.872131, 13480.741211>)
+21:0:58 | "76561198040522771" (steamid=76561198040522771) teleported to (pos=<8456.839844, 205.355804, 13957.099609>)
+21:0:58 | "Vex": (steamid=76561198040522771) teleported to (pos=8456.84,0,13957.1)
+21:1:6 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<8447.905273, 204.856079, 13967.615234>)
+21:1:24 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<8488.709961, 203.909210, 13978.234375>)
+21:1:25 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<8503.750000, 203.704010, 13980.175781>)
+21:1:25 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<8517.175781, 203.619720, 13982.194336>)
+21:1:29 | "Vex" (steamid=76561198040522771) teleported to crosshair (pos=<8506.138672, 203.829376, 13978.374023>)
+21:1:44 | Player "Vex" (steamId=76561198040522771) initiated disconnect process...
+21:1:45 | Player "Vex" (steamId=76561198040522771) disconnected early from server (EXIT NOW).

@@ -1,0 +1,114 @@
+State dump started at 2025-12-14 12:00:26.595
+eAI_SurvivorM_Boris:7:INSTANCETYPE_AI_SERVER<239fa010>
+|- Name Boris
+|- Position 3615.05 304.19 8834.1
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.992611
+|  |- Volumetric fog 0.920371
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat SPRINT/SPRINT
+|- Current velocity 1.367169 m/s
+|- Group ID 3  (3 members)
+|  |- Faction East
+|  |- Formation StarDot IN
+|  \- Waypoints 1 ROAMING
+|- Is group leader false
+|- Is formation leader false
+|- Accuracy min 40% max 60.000004%
+|- Damage in 100% out 30%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold -200 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  \- DEFAULT
+|- Unlimited reload
+|  \- NONE
+|- FSM state FollowFormation
+|- Path progression 2/2
+|  |- Current point 3615.38 304.13 8834.16
+|  |  \- 2D distance to AI 0.378396 m
+|  |- Endpoint 3615.38 304.13 8834.16
+|  |  \- 2D distance to AI 0.332863 m
+|  |- Target position 3615.38 304.13 8834.16 (3615.42 304.2 8834.17)
+|  |  |- 2D distance to AI 0.332863 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final true
+|  \- Is AI position final false
+|- Target look H V -0.0219116° 2.70583° (static)
+|- Current look H V 78.5307° 2.71057°
+|- Target aim H V -0.0219116° 2.70583° (static)
+|- Current aim H V 78.5299° 2.71024°
+|- Current absolute threat to AI 0.102793
+|- Current active threat to AI 0.0789976
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 1/1
+|- Target 0 Player Vex
+|  |- Is seen as enemy
+|  |- Is moving true
+|  |- Can be friendly false
+|  |- Is targeted false
+|  |- Absolute threat to AI 0.102793
+|  |- Active threat to AI 0.0789976
+|  |- LOS state false
+|  |- Actual position 4238.28 324.55 8912.08
+|  |- Actual distance to AI 628.423 m
+|  |- Search position 4211.49 324.43 8908.59
+|  |- Search distance to AI 601.413 m
+|  |- Found at time 11:59:44.000 UTC
+|  \- Max time 120s
+|- Water 100% Energy 100% Heat -1%
+|- Health 100% Blood 100% Shock 100%
+|- Item in hands SVD:28347<945364d0>
+|- Weapon SVD:28347<945364d0>
+|  |- Is chambered true
+|  |- Has attached mag Mag_SVD_10Rnd:28348<be0de020> (9/10)
+|  \- Ammo/mag to reload not evaluated
+|- Weapon MakarovIJ70:28354<945348b0>
+|  |- Is chambered false
+|  |- Has no attached mag
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 0
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 2
+|  |- Mag_IJ70_8Rnd:28353<be0e76e0> (12/12)
+|  \- Mag_SVD_10Rnd:28361<be0ea920> (10/10)
+|- Food 1/5
+.  \- Apple:28360<be0e8370>
+|- Cargo space taken 11/100
+\- Items in cargo 5
+.  |- Apple:28360<be0e8370> (100%)
+.  |- Mag_SVD_10Rnd:28361<be0ea920> (10/10)
+.  |- Mag_IJ70_8Rnd:28353<be0e76e0> (12/12)
+.  |- MakarovIJ70:28354<945348b0>
+.  \- RDG2SmokeGrenade_Black:28355<21dcc8a0>

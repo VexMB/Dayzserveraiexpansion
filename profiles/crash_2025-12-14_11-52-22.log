@@ -1,0 +1,101 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\crash_2025-12-14_11-52-22.log started at 14.12. 11:53:02
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 14.12 2025 11:53:02
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:BasicMap\ServerMarkers.json":
+JSON ERROR:
+The document is empty.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+BasicMap/scripts/3_Game/basicmapcontroller.c:168 Function LoadServerMarkers
+BasicMap/scripts/3_Game/basicmapcontroller.c:44 Function Init
+BasicMap/scripts/5_Mission/mission\missionserver.c:4 Function MissionServer@368#1
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 14.12 2025 11:53:02
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\Loadout.json":
+JSON ERROR:
+Invalid value.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:35 Function Init
+DayZExpansion/SpawnSelection/Scripts/5_Mission/dayzexpansion_spawnselection\mission\missionserver.c:31 Function MissionServer@544#16
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 14.12 2025 11:53:02
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\NBCLoadout.json":
+JSON ERROR:
+Missing a comma or ']' after an array element.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:35 Function Init
+DayZExpansion/SpawnSelection/Scripts/5_Mission/dayzexpansion_spawnselection\mission\missionserver.c:31 Function MissionServer@544#16
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 14.12 2025 11:53:02
+[::LoadData] :: [ERROR] :: Cannot load data from "$mission:cfggameplay.json":
+JSON ERROR:
+Invalid value.
+Function: 'LoadData'
+Stack trace:
+scripts/3_Game/cfggameplayhandler.c:72 Function LoadData
+scripts/5_Mission/mission\missionserver.c:79 Function OnInit
+ExpansionAIRaids/Scripts/5_Mission/ nzkmefql \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt7.c:7 Function OnInit
+InediaInfectedAI/scripts/5_mission/inediainfectedai\mission\missionserver.c:21 Function OnInit
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:29 Function OnInit
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:38 Function OnInit
+ZenSleep/scripts/5_mission/mission\missionserver.c:5 Function OnInit
+KnockKnockAI/scripts/5_Mission/knockknockai.c:51 Function OnInit
+AIWarZones/scripts/5_Mission/aiwarzones.c:34 Function OnInit
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 14.12 2025 12:15:27
+[wpnfsm] CZ550:22778 chamberFromAttachedMagazine, error - cannot load chamber!
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\fsm\weapon_utils.c:23 Function pushToChamberFromAttachedMagazine
+scripts/4_World/entities\firearms\fsm\states\weaponchamberfromattmag.c:16 Function OnEntry
+scripts/4_World/entities\firearms\weaponfsm.c:50 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/4_World/entities\firearms\weaponfsm.c:289 Function ProcessEvent
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83 Function ProcessEvent
+scripts/4_World/entities\firearms\weaponfsm.c:243 Function ProcessEvent
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:557 Function ProcessWeaponEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:390 Function HandleWeaponEvents
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:8979 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6656 Function CommandHandler
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@Bullet Stacking - More Ammo dologs  adminlog  

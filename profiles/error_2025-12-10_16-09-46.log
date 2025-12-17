@@ -1,0 +1,86 @@
+---------------------------------------------
+Log error_2025-12-10_16-09-46.log started at 2025-12-10 16:42:58
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-10
+16:42:58.628 [ExpansionP2PMarketModule<f3b21340>::SendCategoryListingsData] :: [ERROR] :: ::SendCategoryListingsData - Could not get P2P category data!
+Class:      'ExpansionP2PMarketModule'
+Function: 'SendCategoryListingsData'
+Stack trace:
+DayZExpansion/P2PMarket/Scripts/4_World/dayzexpansion_p2pmarket\systems\p2pmarket\expansionp2pmarketmodule.c:1203
+DayZExpansion/P2PMarket/Scripts/4_World/dayzexpansion_p2pmarket\classes\useractionscomponent\interact\expansionactionopenp2pmarketmenu.c:153
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:197
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\animatedactionbase.c:17
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:224
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:232
+InediaInfectedAI/scripts/4_World/inediainfectedai\classes\useractionscomponent\actions\armsbreakdebuffactions.c:139
+scripts/4_World/classes\useractionscomponent\actionmanagerbase.c:122
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:198
+scripts/4_World/entities\manbase\playerbase.c:2976
+MedicalAttention/Core/4_World/entities\manbase\playerbase.c:758
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-10
+16:49:40.499 [ExpansionQuestModule<7cc14bb0>::SaveAndSyncQuestData] :: [ERROR] :: [Expansion Quests] Could not get player with UID=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+Class:      'ExpansionQuestModule'
+Function: 'SaveAndSyncQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3749
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3673
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:480
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:64
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:197
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:44
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:32
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:91
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-10
+16:49:40.506 [ExpansionQuestModule<7cc14bb0>::SaveAndSyncQuestData] :: [ERROR] :: [Expansion Quests] Could not get player with UID=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+Class:      'ExpansionQuestModule'
+Function: 'SaveAndSyncQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3749
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3673
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:480
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:64
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:197
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:44
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:32
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:91
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-10
+16:49:40.514 [ExpansionQuestModule<7cc14bb0>::SaveAndSyncQuestData] :: [ERROR] :: [Expansion Quests] Could not get player with UID=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+Class:      'ExpansionQuestModule'
+Function: 'SaveAndSyncQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3749
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3673
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:480
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:64
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:197
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:44
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:32
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:91
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-10
+16:49:40.522 [ExpansionQuestModule<7cc14bb0>::SaveAndSyncQuestData] :: [ERROR] :: [Expansion Quests] Could not get player with UID=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+Class:      'ExpansionQuestModule'
+Function: 'SaveAndSyncQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3749
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3673
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:480
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:64
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:197
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:44
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:32
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:91

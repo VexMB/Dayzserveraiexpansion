@@ -1,0 +1,840 @@
+=====================================================================
+== C:\Users\grand\Desktop\servers\Dayz\DayZServer_x64.exe
+== C:\Users\grand\Desktop\servers\Dayz\DayZServer_x64.exe -config=C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg -port=2302 -profiles=C:\Users\grand\Desktop\servers\Dayz\profiles 
+=====================================================================
+Exe timestamp: 2025/10/08 16:09:27
+Current time:  2025/12/05 09:25:49
+Version 1.28.160123
+=====================================================================
+
+ 9:25:49.503 [Inputs] Loading inputs default "bin/constants.xml"
+ 9:25:49.505 [Inputs] Loading inputs default "bin/specific.xml"
+ 9:25:49.506 [Inputs] Loading inputs cfg "C:\Users\grand\Desktop\servers\Dayz\profiles\Users\Survivor\Server.core.xml"
+ 9:25:49.509 [Inputs] Exporting inputs cfg "C:\Users\grand\Desktop\servers\Dayz\profiles\Users\Survivor\Server.core.xml"
+ 9:25:53.65 Hostname of server: "Bathtub Ballers Test"
+ 9:26:02.89 [CE][Hive] :: Initializing OFFLINE
+ 9:26:02.89 [StorageDirs] :: Selected storage directory: C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\
+ 9:26:02.89 [CE][Hive] :: Loading core data ... 
+ 9:26:02.90 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+ 9:26:05.278 [CE][TypeSetup] :: 563 classes setuped...
+ 9:26:05.279 [CE][TypeSetup] :: 3 classes setuped...
+ 9:26:05.597 [CE][RegisterBind] :: 0 classes binded...
+ 9:26:05.597 [CE][RegisterConfig] :: 5500 config classes registered, 0 sub-counters...
+ 9:26:05.597 [CE][Hive] :: Loading map data ... 
+ 9:26:05.600 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+ 9:26:05.633 [CE][LoadPrototype] :: loaded 426 prototypes
+ 9:26:05.633   821 containers, 10956 points
+ 9:26:05.633   71 dispatches, 250 proxies
+ 9:26:05.633 !!! [CE][LoadPrototype] 5 groups have no points...
+ 9:26:05.633 [CE][LoadPrototype] :: last group name: Land_Wreck_S1023_Medic_Beige_DE...
+ 9:26:05.637 [CE][LoadPrototype] :: loaded 0 prototypes
+ 9:26:05.637   55 containers, 232 points
+ 9:26:05.637   0 dispatches, 0 proxies
+ 9:26:05.637 [CE][LoadPrototype] :: last group name: Rail9...
+ 9:26:06.294 [CE][LoadMap] "Group" :: loaded 11680 groups, groups failed: 1, largest group range: 34.2
+ 9:26:06.297 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+ 9:26:06.563 [CE][Links] found 1946 total links between groups, of 11679
+ 9:26:06.563 [CE][LoadClusters] "Cluster" :: Loading files...
+ 9:26:06.693 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+ 9:26:06.829 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+ 9:26:06.967 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+ 9:26:07.107 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+ 9:26:07.163 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17373 instances
+ 9:26:07.167 [CE][Storage] ver:21 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\types.bin"
+ 9:26:07.167 [CE][Storage] ver:21 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\types.001"
+ 9:26:07.168 [CE][Storage] ver:21 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\types.002"
+ 9:26:07.168 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\types.bin".
+ 9:26:07.197 !!! [CE][offlineDB] :: No Shutdown message present.
+ 9:26:07.199 [CE][offlineDB] :: Loaded 50 dynamic events 235 total types.
+ 9:26:07.200 !!! [CE][DE] (VehicleHatchback02) :: Unable to create child (Hatchback_02_BanditKitty) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Black) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Lime) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Red) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_White) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Wine) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Yellow) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_YellowBright) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZ) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZ_Black) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZ_LightGreen) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZRoofless) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZRoofless_Black) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZRoofless_LightGreen) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargo) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargo_Black) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargo_LightGreen) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargoRoofless) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargoRoofless_Black) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargoRoofless_LightGreen) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleVodnik) :: Unable to create child (ExpansionVodnik) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleBus) :: Unable to create child (ExpansionBus) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleBus) :: Unable to create child (ExpansionBus_Weeb) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleBus) :: Unable to create child (ExpansionBus_Red) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleTractor) :: Unable to create child (ExpansionTractor) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleTractor) :: Unable to create child (ExpansionTractor_Blue) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleTractor) :: Unable to create child (ExpansionTractor_Green) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Yellow) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Red) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Green) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Grey) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Orange) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Blue) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Blueline) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Digital) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Elliptical) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Furious) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_GrayWatcher) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Jeans) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Resistance) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Shadow) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Sheriff) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Speedy) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Sunset) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Vrana) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Wasp) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Wave) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin_Dahoman) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin_Ion) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin_President) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin_Vrana) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin_Wave) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUh1hHelicopter) :: Unable to create child (ExpansionUh1h) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUh1hHelicopter) :: Unable to create child (ExpansionUh1h_Medical) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUh1hHelicopter) :: Unable to create child (ExpansionUh1h_Uber) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUh1hHelicopter) :: Unable to create child (ExpansionUh1h_Resistance) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleUtilityBoat) :: Unable to create child (ExpansionUtilityBoat) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleZodiacBoat) :: Unable to create child (ExpansionZodiacBoat) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleZodiacBoat) :: Unable to create child (ExpansionZodiacBoat_Black) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleZodiacBoat) :: Unable to create child (ExpansionZodiacBoat_Green) as the type does not exist.
+ 9:26:07.200 !!! [CE][DE] (VehicleGyroHelicopter) :: Unable to create child (ExpansionGyrocopter) as the type does not exist.
+ 9:26:07.200 [CE][offlineDB] :: Loaded 61 dynamic events 235 total types.
+ 9:26:07.217 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 9:26:07.218 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.223 !!! [CE][offlineDB] :: Type 'OffroadHatchback_WhiteRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.223 !!! [CE][offlineDB] :: Type 'OffroadHatchback_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.223 !!! [CE][offlineDB] :: Type 'OffroadHatchback_GreenRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.223 !!! [CE][offlineDB] :: Type 'Hatchback_02_BlackRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.223 !!! [CE][offlineDB] :: Type 'Hatchback_02_BlueRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.223 !!! [CE][offlineDB] :: Type 'Hatchback_02_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.223 !!! [CE][offlineDB] :: Type 'Hatchback_02_RedRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Hatchback_02_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_1_1_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_1_2_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_2_1_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_2_2_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Hatchback_02_Hood_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Hatchback_02_Trunk_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_GreyRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_RedRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_YellowRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_YellowBright' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_2_YellowBright' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_2_YellowBright' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Hood_YellowBright' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Trunk_YellowBright' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_1_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_2_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_1_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_2_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Hood_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Trunk_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_BlueRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_1_BlueRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_2_BlueRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_1_BlueRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_2_BlueRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Hood_BlueRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Sedan_02_Trunk_BlueRust' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_White' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_White' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_White' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_White' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Wine' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Wine' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Wine' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Wine' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Lime' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Lime' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Lime' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Lime' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_YellowBright' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_YellowBright' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Blueline' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Digital' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Elliptical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Furious' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Jeans' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Resistance' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Shadow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Sheriff' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Speedy' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Sunset' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Vrana' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Wasp' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Wave' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionHatchBird' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionUh1h' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Civilian' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Medical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Resistance' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Uber' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMerlin' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Dahoman' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Ion' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_President' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Vrana' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Wave' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionGyrocopter' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMh6Wreck' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionUh1hWreck' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionMerlinWreck' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionGyrocopterWreck' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionUtilityBoat' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.224 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Orange' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionLHD' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZ' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZRoofless' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargo' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargoRoofless' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZ_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargo_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZ_LightGreen' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargo_LightGreen' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargoRoofless_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargoRoofless_LightGreen' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZRoofless_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZRoofless_LightGreen' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionVodnik' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBus' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBus_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBus_Weeb' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionTractor' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionTractor_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionTractor_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Orange' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Grey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Ruined' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Orange' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Orange' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Orange' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Orange' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Orange' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Orange' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Orange' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Grey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Grey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Grey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Grey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Grey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Grey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Grey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionHelicopterBattery' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAircraftBattery' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionIgniterPlug' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionHydraulicHoses' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBusWheel' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBusWheelDouble' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZWheel' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionTractorFrontWheel' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionTractorBackWheel' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionTractorDoorsDriver' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionTractorDoorsCoDriver' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionVodnikWheel' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionVodnikDoorDriver' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionVodnikDoorCoDriver' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorHood' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorDriver' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCoDriver' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo1' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo2' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorHood_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorDriver_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCoDriver_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo1_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo2_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorHood_LightGreen' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorDriver_LightGreen' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCoDriver_LightGreen' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo1_LightGreen' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo2_LightGreen' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Civilian' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Civilian' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Civilian' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Civilian' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Medical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Medical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Medical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Medical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Uber' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Uber' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Uber' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Uber' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Blueline' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Blueline' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Blueline' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Blueline' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Digital' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Digital' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Digital' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Digital' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Elliptical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Elliptical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Elliptical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Elliptical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Furious' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Furious' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Furious' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Furious' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Jeans' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Jeans' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Jeans' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Jeans' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Shadow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Shadow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Shadow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Shadow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Sheriff' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Sheriff' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Sheriff' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Sheriff' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Speedy' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Speedy' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Speedy' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Speedy' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Sunset' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Sunset' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Sunset' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Sunset' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Vrana' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Vrana' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Vrana' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Vrana' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Wasp' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Wasp' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Wasp' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Wasp' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Wave' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Wave' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Wave' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Wave' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionKar98ScopeOptic' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionDeltapointOptic' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionEXPS3HoloOptic' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionHAMROptic' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_PMII25Optic' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionReflexMRSOptic' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_M1A_RailAtt' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_ANPEQ15_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Kar98_Bayonet' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSatchel' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Crossbow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionRPG7' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionLAW' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Taser_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Taser_Black' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_M9' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_G36' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_MPX' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_MP5' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_MP5SD' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_MP5_RailAtt' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_MP7' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Kedr' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_VityazSN' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_M16' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_M1A' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_M14' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_DT11' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_BenelliM4' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_AWM' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Kar98' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'AmmoBox_Expansion_46x30_25rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'AmmoBox_Expansion_338_15rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_AmmoBox_8mm_15rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Ammo_8mm' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAmmoRPG' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAmmoLAW' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_White' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Purple' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Teargas' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_White' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Red' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Green' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Yellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Purple' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Teargas' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_HE' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_46x30' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_338' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Ammo_ArrowBolt' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Taser' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Vityaz_30Rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M14_20Rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M14_10Rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M9_15Rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Mag_Expansion_MPX_50Rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Mag_Expansion_G36_30Rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Kedr_20Rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Mag_Expansion_MP7_40Rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Mag_Expansion_AWM_5Rnd' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionGoldBar' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSilverBar' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionGoldNugget' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSilverNugget' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteUSD' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteEuro' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteHryvnia' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionTemporaryOwnedContainer' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionLumber1' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionLumber1_5' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionLumber3' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionFloorKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionWoodPillarKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionRampKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionStairKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionWallKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCamoBoxKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBarrierGateKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCamoTentKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSafeLarge' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSafeMini' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSafeMedium' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionGunrack' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionHelipadKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBarbedWireKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionHescoKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCodeLock' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCone' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSignDanger' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSignDanger2' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSignDanger3' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSignRoadBarrier' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBarbedWire' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionHesco' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBarrierGate' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCamoBox' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCamoTent' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionHelipad' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionStove' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionWoodPillar' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionWall6x3' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionFloor6x6' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionFloor3x3' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionRamp6x1_5x6' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionStairS1_5x3x3' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionParkingMeter' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionParkingMeterKit' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCircuitBoard_MK1' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCircuitBoard_MK2' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCircuitBoard_MK3' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCarAdminKey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAdminHammer' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAdminChest' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCarKey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionGPS' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBoltCutters' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionPropaneTorch' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionToolBox' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionMilkBottle' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBread1' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBread2' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBread3' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCheese1' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCheese2' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCheese3' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionCheese4' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Gravecross_LowLifetime' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Gravecross' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanGreen' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanBlue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWhite' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanRed' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanBlack' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanGrey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWine' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanYellow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWeeb' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanDahoman' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanIon' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanPresident' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanVrana' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWave' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanCivilian' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanMedical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanUber' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanBlueline' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanDigital' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanElliptical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanFurious' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanGrayWatcher' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanJeans' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanShadow' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanSpeedy' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanSunset' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWasp' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Medical' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Basebuilding' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Grey' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Blue' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Olive' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_GreenCamo' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_MarineCamo' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_OliveCamo' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_OliveCamo2' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_Generic_Vehicle_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionGarageVehicle' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'CivilianSedan_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Hatchback_02_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'OffroadHatchback_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Offroad_02_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Sedan_02_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionBus_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionGyrocopter_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'Expansion_LandRover_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionTractor_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUAZ_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionVodnik_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionUtilityBoat_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Cover' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.225 !!! [CE][offlineDB] :: Type 'ExpansionDebugGoat' will be ignored. (Type does not exist. (Typo?))
+ 9:26:07.261 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+ 9:26:07.261 [CE][DE][SPAWNS] :: Total positions: 1096
+ 9:26:07.262 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+ 9:26:07.262 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\events.bin"
+ 9:26:07.262 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\events.001"
+ 9:26:07.263 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\events.002"
+ 9:26:07.263 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\events.bin".
+ 9:26:07.263 [CE][DynamicEvent] Load  Events:[61] Primary spawners: 61 Secondary spawners: 4
+ 9:26:07.264 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin"
+ 9:26:07.264 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.001"
+ 9:26:07.265 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.002"
+ 9:26:07.265 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin" 881 items.
+ 9:26:07.703   881 items loaded. (0 failed)
+ 9:26:07.704 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin"
+ 9:26:07.705 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.001"
+ 9:26:07.705 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.002"
+ 9:26:07.705 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin" 1775 items.
+ 9:26:08.194   1775 items loaded. (0 failed)
+ 9:26:08.195 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin"
+ 9:26:08.195 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.001"
+ 9:26:08.196 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.002"
+ 9:26:08.196 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin" 2423 items.
+ 9:26:08.750   2423 items loaded. (0 failed)
+ 9:26:08.751 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin"
+ 9:26:08.752 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.001"
+ 9:26:08.752 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.002"
+ 9:26:08.752 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin" 2039 items.
+ 9:26:09.230   2039 items loaded. (0 failed)
+ 9:26:09.230 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin"
+ 9:26:09.231 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.001"
+ 9:26:09.231 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.002"
+ 9:26:09.231 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin" 1781 items.
+ 9:26:09.623   1781 items loaded. (0 failed)
+ 9:26:09.624 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin"
+ 9:26:09.624 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.001"
+ 9:26:09.625 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.002"
+ 9:26:09.625 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin" 2139 items.
+ 9:26:10.103   2139 items loaded. (0 failed)
+ 9:26:10.104 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin"
+ 9:26:10.104 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.001"
+ 9:26:10.105 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.002"
+ 9:26:10.105 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin" 1505 items.
+ 9:26:10.425   1505 items loaded. (0 failed)
+ 9:26:10.425 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin"
+ 9:26:10.426 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.001"
+ 9:26:10.427 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.002"
+ 9:26:10.427 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin" 1460 items.
+ 9:26:10.765   1460 items loaded. (0 failed)
+ 9:26:10.766 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin"
+ 9:26:10.766 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.001"
+ 9:26:10.767 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.002"
+ 9:26:10.767 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin" 2116 items.
+ 9:26:11.276   2116 items loaded. (0 failed)
+ 9:26:11.277 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin"
+ 9:26:11.277 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.001"
+ 9:26:11.278 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.002"
+ 9:26:11.278 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin" 2684 items.
+ 9:26:11.901   2684 items loaded. (0 failed)
+ 9:26:11.903 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin"
+ 9:26:11.903 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.001"
+ 9:26:11.904 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.002"
+ 9:26:11.904 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin" 1849 items.
+ 9:26:12.355   1849 items loaded. (0 failed)
+ 9:26:12.355 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin"
+ 9:26:12.356 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.001"
+ 9:26:12.356 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.002"
+ 9:26:12.356 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin" 149 items.
+ 9:26:12.389   149 items loaded. (0 failed)
+ 9:26:12.390 [CE][Storage] ver:26 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\building.bin"
+ 9:26:12.390 [CE][Storage] ver:26 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\building.001"
+ 9:26:12.390 [CE][Storage] ver:26 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\building.002"
+ 9:26:12.390 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\building.bin" 0 items.
+ 9:26:12.390   0 items loaded. (0 failed)
+ 9:26:12.390 [CE][Storage] ver:25 stamp:705, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin"
+ 9:26:12.391 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.001"
+ 9:26:12.391 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.002"
+ 9:26:12.391 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin" 222 items.
+ 9:26:12.720   222 items loaded. (0 failed)
+ 9:26:12.733 [CE][Hive] :: Storage load took:5.47 seconds, recovery stamp:705
+ 9:26:12.733   entity: 22519, building: 0
+ 9:26:12.733   no lifetime: 65
+ 9:26:12.733   pathgraph's: 511
+ 9:26:12.733 [CE][Hive] :: Initializing ... 
+ 9:26:12.779 [CE][InitializeMap] :: initialized: 0
+ 9:26:12.779 [CE][Hive] :: Initializing spawners ... 
+ 9:26:13.569 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:20698, Total in Map: 20973 at 0 (sec)
+ 9:26:13.569   tests:0, repeats:0 fails:0, overtime:0
+ 9:26:13.571 !!! [CE][DE] DynamicEvent "VehicleUAZ" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+ 9:26:13.571 !!!!!! [CE][DE] DynamicEvent "VehicleUAZ" setup is invalid, event will be disabled.
+ 9:26:13.571 !!! [CE][DE] DynamicEvent "VehicleVodnik" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+ 9:26:13.571 !!!!!! [CE][DE] DynamicEvent "VehicleVodnik" setup is invalid, event will be disabled.
+ 9:26:13.571 !!! [CE][DE] DynamicEvent "VehicleBus" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+ 9:26:13.571 !!!!!! [CE][DE] DynamicEvent "VehicleBus" setup is invalid, event will be disabled.
+ 9:26:13.571 !!! [CE][DE] DynamicEvent "VehicleTractor" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+ 9:26:13.571 !!!!!! [CE][DE] DynamicEvent "VehicleTractor" setup is invalid, event will be disabled.
+ 9:26:13.571 !!! [CE][DE] DynamicEvent "VehicleLandRover" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+ 9:26:13.571 !!!!!! [CE][DE] DynamicEvent "VehicleLandRover" setup is invalid, event will be disabled.
+ 9:26:13.571 !!! [CE][DE] DynamicEvent "VehicleMH6Helicopter" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+ 9:26:13.571 !!!!!! [CE][DE] DynamicEvent "VehicleMH6Helicopter" setup is invalid, event will be disabled.
+ 9:26:13.571 !!! [CE][DE] DynamicEvent "VehicleMerlinHelicopter" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+ 9:26:13.571 !!!!!! [CE][DE] DynamicEvent "VehicleMerlinHelicopter" setup is invalid, event will be disabled.
+ 9:26:13.571 !!! [CE][DE] DynamicEvent "VehicleUh1hHelicopter" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+ 9:26:13.571 !!!!!! [CE][DE] DynamicEvent "VehicleUh1hHelicopter" setup is invalid, event will be disabled.
+ 9:26:13.571 !!! [CE][DE] DynamicEvent "VehicleUtilityBoat" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+ 9:26:13.571 !!!!!! [CE][DE] DynamicEvent "VehicleUtilityBoat" setup is invalid, event will be disabled.
+ 9:26:13.571 !!! [CE][DE] DynamicEvent "VehicleZodiacBoat" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+ 9:26:13.571 !!!!!! [CE][DE] DynamicEvent "VehicleZodiacBoat" setup is invalid, event will be disabled.
+ 9:26:13.571 !!! [CE][DE] DynamicEvent "VehicleGyroHelicopter" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+ 9:26:13.571 !!!!!! [CE][DE] DynamicEvent "VehicleGyroHelicopter" setup is invalid, event will be disabled.
+ 9:26:13.571 [CE][DynEvent] :: 61 types
+ 9:26:13.571 [00] AmbientFox
+ 9:26:13.571   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 9:26:13.571 [01] AmbientHare
+ 9:26:13.571   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 9:26:13.571 [02] AmbientHen
+ 9:26:13.571   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 9:26:13.571 [03] AnimalBear
+ 9:26:13.571   Primary Spawner: "Animal", active: yes, repeat: 1
+ 9:26:13.571 [04] AnimalCow
+ 9:26:13.571   Primary Spawner: "Animal", active: yes, repeat: 1
+ 9:26:13.571 [05] AnimalDeer
+ 9:26:13.571   Primary Spawner: "Animal", active: yes, repeat: 1
+ 9:26:13.571 [06] AnimalGoat
+ 9:26:13.571   Primary Spawner: "Animal", active: yes, repeat: 1
+ 9:26:13.571 [07] AnimalPig
+ 9:26:13.571   Primary Spawner: "Animal", active: yes, repeat: 1
+ 9:26:13.571 [08] AnimalRoeDeer
+ 9:26:13.571   Primary Spawner: "Animal", active: yes, repeat: 1
+ 9:26:13.571 [09] AnimalSheep
+ 9:26:13.571   Primary Spawner: "Animal", active: yes, repeat: 1
+ 9:26:13.571 [10] AnimalWildBoar
+ 9:26:13.571   Primary Spawner: "Animal", active: yes, repeat: 1
+ 9:26:13.571 [11] AnimalWolf
+ 9:26:13.571   Primary Spawner: "Animal", active: yes, repeat: 1
+ 9:26:13.571 [12] InfectedArmy
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [13] InfectedArmyHard
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [14] InfectedCity
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [15] InfectedCityTier1
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [16] InfectedFirefighter
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [17] InfectedIndustrial
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [18] InfectedMedic
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [19] InfectedNBC
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [20] InfectedPolice
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [21] InfectedPoliceHard
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [22] InfectedPrisoner
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [23] InfectedReligious
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [24] InfectedSanta
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [25] InfectedSolitude
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [26] InfectedVillage
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [27] InfectedVillageTier1
+ 9:26:13.571   Primary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [28] ItemPlanks
+ 9:26:13.571   Primary Spawner: "Item", active: yes, repeat: 1
+ 9:26:13.571 [29] Loot
+ 9:26:13.571   Primary Spawner: "Loot", active: yes, repeat: 2
+ 9:26:13.571 [30] StaticAirplaneCrate
+ 9:26:13.571   Primary Spawner: "Static", active: yes, repeat: 1
+ 9:26:13.571 [31] StaticContaminatedArea
+ 9:26:13.571   Primary Spawner: "Static", active: yes, repeat: 1
+ 9:26:13.571 [32] StaticHeliCrash
+ 9:26:13.571   Primary Spawner: "Static", active: yes, repeat: 1
+ 9:26:13.571   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [33] StaticMilitaryConvoy
+ 9:26:13.571   Primary Spawner: "Static", active: yes, repeat: 1
+ 9:26:13.571   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [34] StaticPoliceSituation
+ 9:26:13.571   Primary Spawner: "Static", active: yes, repeat: 1
+ 9:26:13.571   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [35] StaticTrain
+ 9:26:13.571   Primary Spawner: "Static", active: yes, repeat: 1
+ 9:26:13.571   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 9:26:13.571 [36] TrajectoryApple
+ 9:26:13.571   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 9:26:13.572 [37] TrajectoryConiferous
+ 9:26:13.572   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 9:26:13.572 [38] TrajectoryDeciduous
+ 9:26:13.572   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 9:26:13.572 [39] TrajectoryHumus
+ 9:26:13.572   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 9:26:13.572 [40] TrajectoryPear
+ 9:26:13.572   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 9:26:13.572 [41] TrajectoryPlum
+ 9:26:13.572   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 9:26:13.572 [42] TrajectoryStones
+ 9:26:13.572   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 9:26:13.572 [43] VehicleBoat
+ 9:26:13.572   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 9:26:13.572 [44] VehicleCivilianSedan
+ 9:26:13.572   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 9:26:13.572 [45] VehicleHatchback02
+ 9:26:13.572   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 9:26:13.572 [46] VehicleOffroad02
+ 9:26:13.572   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 9:26:13.572 [47] VehicleOffroadHatchback
+ 9:26:13.572   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 9:26:13.572 [48] VehicleSedan02
+ 9:26:13.572   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 9:26:13.572 [49] VehicleTruck01
+ 9:26:13.572   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 9:26:13.572 [50] VehicleUAZ
+ 9:26:13.572   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 9:26:13.572 [51] VehicleVodnik
+ 9:26:13.572   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 9:26:13.572 [52] VehicleBus
+ 9:26:13.572   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 9:26:13.572 [53] VehicleTractor
+ 9:26:13.572   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 9:26:13.572 [54] VehicleLandRover
+ 9:26:13.572   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 9:26:13.572 [55] VehicleMH6Helicopter
+ 9:26:13.572   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 9:26:13.572 [56] VehicleMerlinHelicopter
+ 9:26:13.572   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 9:26:13.572 [57] VehicleUh1hHelicopter
+ 9:26:13.572   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 9:26:13.572 [58] VehicleUtilityBoat
+ 9:26:13.572   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 9:26:13.572 [59] VehicleZodiacBoat
+ 9:26:13.572   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 9:26:13.572 [60] VehicleGyroHelicopter
+ 9:26:13.572   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 9:26:13.572 [CE][Hive] :: Initializing of spawners done.
+ 9:26:13.580 [CE][Hive] :: Init sequence finished.
+ 9:26:13.580 Player connect enabled
+ 9:26:14.124 [IdleMode] Entering IN - save processed
+ 9:28:13.877  --- Termination successfully completed --- 

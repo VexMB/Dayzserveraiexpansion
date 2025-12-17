@@ -1,0 +1,51 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-11 at 21:18:05
+21:20:33 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) is connected
+21:21:11 | Player "Bonesaw"(id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk=) is connected
+21:21:40 | Player "Vex" (DEAD) (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<13173.5, 5872.3, 132.1>) died. Stats> Water: 490.705 Energy: 368.739 Bleed sources: 2
+21:23:49 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14181.2, 13051.5, 3.7>)[HP: 95.725] hit by SmallStone with InediaInfectedAI_ThrowingProjectile
+21:23:56 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14174.4, 13034.7, 2.3>)[HP: 95.2151] hit by Infected into LeftArm(18) for 6.5 damage (MeleeInfected)
+21:23:59 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14172.6, 13030.8, 2.3>)[HP: 87.4151] hit by Infected into Head(0) for 3.25 damage (MeleeInfected)
+21:24:00 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14174.1, 13027.9, 2.2>)[HP: 85.6526] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+21:24:06 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14170.2, 13028.7, 2.2>)[HP: 78.0326] hit by Infected into Head(0) for 3.25 damage (MeleeInfected)
+21:24:06 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14170.7, 13028.6, 2.2>) is unconscious
+21:24:11 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14171.6, 13028, 2.2>) is choosing to respawn
+21:24:11 | Player "Bonesaw" (DEAD) (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14171.6, 13028, 2.2>) died. Stats> Water: 478.275 Energy: 460.413 Bleed sources: 1
+21:24:12 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14171.9, 13024.8, 2.3>)[HP: 92.2] hit by Infected into Head(0) for 3.25 damage (MeleeInfected)
+21:24:13 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14171.8, 13024.9, 2.3>)[HP: 82] hit by Infected into Head(0) for 4.25 damage (MeleeInfectedLong)
+21:24:14 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14172.1, 13024.8, 2.3>)[HP: 80.1475] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+21:24:15 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14172.6, 13023.6, 2.3>)[HP: 70.037] hit by Infected into Head(0) for 4.25 damage (MeleeInfectedLong)
+21:24:15 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14172.3, 13024.1, 2.3>) is unconscious
+21:24:16 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14171.5, 13023.5, 2.3>)[HP: 62.237] hit by Infected into Head(0) for 3.25 damage (MeleeInfected)
+21:24:16 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14171.4, 13023.5, 2.3>)[HP: 61.457] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+21:24:20 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14170.6, 13023.6, 2.3>) is choosing to respawn
+21:24:20 | Player "Vex" (DEAD) (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14170.6, 13023.6, 2.3>) died. Stats> Water: 485.046 Energy: 466.104 Bleed sources: 1
+21:25:54 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14110.9, 13277.1, 3.6>)[HP: 90] hit by Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14111.7, 13277.8, 3.6>) into Head(0) for 5 damage (MeleeBluntLight_2) with Pipe
+21:25:55 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14110.7, 13277, 3.6>)[HP: 80] hit by Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14111.7, 13277.7, 3.6>) into Head(0) for 5 damage (MeleeBluntLight_2) with Pipe
+21:25:55 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14110.6, 13277, 3.6>) is unconscious
+21:26:01 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14110.8, 13277.1, 3.6>)[HP: 91.55] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+21:26:05 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14110.6, 13277.4, 3.6>)[HP: 89.1538] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+21:26:07 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14110.6, 13277.4, 3.6>)[HP: 88.1388] hit by Infected into RightArm(17) for 8.5 damage (MeleeInfectedLong)
+21:26:16 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14108.4, 13280.4, 3.6>)[HP: 86.1983] hit by Infected into Head(0) for 4.25 damage (MeleeInfectedLong)
+21:26:34 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109, 13277.2, 3.6>)[HP: 85.0447] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+21:26:35 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.2, 13277, 3.6>)[HP: 82.9237] hit by Infected into Torso(1) for 8.5 damage (MeleeInfectedLong)
+21:26:37 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.3, 13276.8, 3.6>)[HP: 80.7137] hit by Infected into Torso(1) for 8.5 damage (MeleeInfectedLong)
+21:26:38 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.5, 13276.5, 4.1>)[HP: 80.3335] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+21:26:39 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.4, 13276.6, 4.0>)[HP: 78.7324] hit by Infected into Head(0) for 3.25 damage (MeleeInfected)
+21:26:42 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.5, 13276.6, 4.2>)[HP: 77.1312] hit by Infected into Head(0) for 3.25 damage (MeleeInfected)
+21:26:43 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.6, 13276.4, 4.2>)[HP: 75.4412] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+21:26:44 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.6, 13276.4, 4.2>)[HP: 70.4412] hit by WoodenStick with InediaInfectedAI_ThrowingProjectile
+21:26:44 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14107.7, 13279.6, 3.6>) is choosing to respawn
+21:26:44 | Player "Vex" (DEAD) (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<14107.7, 13279.6, 3.6>) died. Stats> Water: 33.0006 Energy: 168.182 Bleed sources: 2
+21:26:47 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.6, 13276.4, 4.2>)[HP: 68.1326] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+21:26:49 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.6, 13276.4, 4.2>)[HP: 67.0276] hit by Infected into RightArm(17) for 8.5 damage (MeleeInfectedLong)
+21:26:53 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.6, 13276.4, 4.2>)[HP: 62.6162] hit by WoodenStick with InediaInfectedAI_ThrowingProjectile
+21:26:53 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) has been disconnected
+21:26:58 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.6, 13276.4, 4.2>)[HP: 61.9482] hit by Infected into LeftArm(18) for 6.5 damage (MeleeInfected)
+21:26:58 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.6, 13276.4, 4.2>)[HP: 59.4619] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+21:27:01 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.6, 13276.4, 4.2>)[HP: 58.4452] hit by Infected into LeftArm(18) for 8.5 damage (MeleeInfectedLong)
+21:27:03 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.5, 13276.5, 4.4>) is unconscious
+21:27:03 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14109.6, 13276.4, 4.2>)[HP: 56.0472] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+21:27:14 | Player "Bonesaw"(id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk=) has been disconnected

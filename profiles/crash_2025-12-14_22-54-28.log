@@ -1,0 +1,41 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\crash_2025-12-14_22-54-28.log started at 14.12. 22:55:06
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 14.12 2025 22:55:06
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:BasicMap\ServerMarkers.json":
+JSON ERROR:
+The document is empty.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+BasicMap/scripts/3_Game/basicmapcontroller.c:168 Function LoadServerMarkers
+BasicMap/scripts/3_Game/basicmapcontroller.c:44 Function Init
+BasicMap/scripts/5_Mission/mission\missionserver.c:4 Function MissionServer@368#1
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 14.12 2025 22:55:07
+[::LoadData] :: [ERROR] :: Cannot load data from "$mission:cfggameplay.json":
+JSON ERROR:
+Invalid value.
+Function: 'LoadData'
+Stack trace:
+scripts/3_Game/cfggameplayhandler.c:72 Function LoadData
+scripts/5_Mission/mission\missionserver.c:79 Function OnInit
+ExpansionAIRaids/Scripts/5_Mission/ nzkmefql \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt7.c:7 Function OnInit
+InediaInfectedAI/scripts/5_mission/inediainfectedai\mission\missionserver.c:21 Function OnInit
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:29 Function OnInit
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:38 Function OnInit
+ZenSleep/scripts/5_mission/mission\missionserver.c:5 Function OnInit
+KnockKnockAI/scripts/5_Mission/knockknockai.c:51 Function OnInit
+AIWarZones/scripts/5_Mission/aiwarzones.c:34 Function OnInit
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@Bullet Stacking - More Ammo dologs  adminlog  

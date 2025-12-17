@@ -1,0 +1,41 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-16 at 17:42:01
+17:57:30 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) is connected
+18:02:07 | AI "Taiki" (DEAD) (group=4 faction="Mercenaries" pos=<5303.7, 7856.3, 331.9>) bled out
+18:05:16 | AI "Eva" (group=4 faction="Mercenaries" pos=<5141.1, 7628.4, 339.9>) is unconscious
+18:05:29 | AI "Eva" (group=4 faction="Mercenaries" pos=<5142.3, 7627.6, 339.9>) regained consciousness
+18:08:55 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5264.1, 8583.5, 338.3>)[HP: 98.0492] hit by Infected into Torso(1) for 2.1675 damage (MeleeInfectedLong)
+18:09:26 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5223.9, 8576.5, 343.5>)[HP: 98.2758] hit by Infected into Torso(1) for 1.275 damage (MeleeZombie)
+18:09:49 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5201.5, 8570.2, 346.2>)[HP: 95.6891] hit by Infected into Head(0) for 1.7875 damage (MeleeInfected)
+18:12:05 | AI "Naomi" (group=14 faction="Mercenaries" pos=<4171.1, 8934.8, 324.4>) is unconscious
+18:12:18 | AI "Naomi" (group=14 faction="Mercenaries" pos=<4170.6, 8935.4, 324.4>) regained consciousness
+18:15:07 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4515.1, 8272.2, 316.5>)[HP: 94.39] hit by Infected into Head(0) for 2.3375 damage (MeleeSoldierInfected)
+18:17:29 | AI "Niki" (group=15 faction="Raiders" pos=<3838.4, 8836.7, 311.2>) is unconscious
+18:18:00 | AI "Niki" (group=15 faction="Raiders" pos=<3837.8, 8837.1, 311.2>) regained consciousness
+18:19:26 | AI "Irena" (group=17 faction="Raiders" pos=<3892.6, 8820.4, 311.1>) is unconscious
+18:19:33 | AI "Irena" (group=17 faction="Raiders" pos=<3893.5, 8820.5, 311.1>) regained consciousness
+18:21:20 | AI "Irena" (DEAD) (group=17 faction="Raiders" pos=<3872.0, 8902.2, 311.0>) bled out
+18:22:13 | AI "Niki" (group=15 faction="Raiders" pos=<3743.8, 8794.3, 307.1>) is unconscious
+18:22:45 | AI "Niki" (group=15 faction="Raiders" pos=<3743.8, 8795.2, 307.2>) regained consciousness
+18:24:44 | AI "Niki" (DEAD) (group=15 faction="Raiders" pos=<3745.0, 8791.2, 307.1>) bled out
+18:33:05 | AI "Peter" (group=10 faction="West" pos=<5151.9, 7627.4, 340.0>) is unconscious
+18:33:22 | AI "Peter" (group=10 faction="West" pos=<5152.6, 7627.1, 340.0>) regained consciousness
+18:33:23 | AI "Judy" (group=10 faction="West" pos=<5130.7, 7678.7, 339.2>) is unconscious
+18:33:33 | AI "Judy" (group=10 faction="West" pos=<5131.3, 7678.0, 339.2>) regained consciousness
+18:33:34 | AI "Baty" (group=10 faction="West" pos=<5133.3, 7697.6, 338.3>) is unconscious
+18:41:09 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5961.3, 7654.6, 310.4>)[HP: 98.6837] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+18:42:30 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5991.0, 7668.5, 307.3>)[HP: 98.5375] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+18:42:33 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5990.7, 7668.4, 307.4>)[HP: 95.0525] hit by Infected into Head(0) for 1.7875 damage (MeleeInfected)
+18:42:58 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<6029.1, 7690.0, 302.2>)[HP: 95.5178] hit by Infected into LeftArm(18) for 4.25 damage (MeleeZombie)
+18:43:05 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<6025.7, 7695.9, 302.5>)[HP: 94.3254] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+19:01:49 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<8092.2, 9345.4, 458.3>)[HP: 87.9789] hit by AI "Eva" (group=28 faction="Civilian" pos=<8071.6, 9356.0, 455.8>) into RightArm(17) for 120.211 damage (Bullet_308Win) with LAR from 23.3133 meters 
+19:01:50 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<8092.3, 9345.7, 458.2>)[HP: 76.0371] hit by AI "Eva" (group=28 faction="Civilian" pos=<8071.2, 9353.5, 456.2>) into LeftArm(18) for 120.322 damage (Bullet_308Win) with LAR from 22.6056 meters 
+19:01:50 | AI "Eva" (group=28 faction="Civilian" pos=<8071.2, 9353.0, 456.2>) is unconscious
+19:01:50 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<8092.4, 9345.7, 458.2>) is unconscious
+19:02:01 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<8093.2, 9345.7, 458.3>) regained consciousness
+19:14:43 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<8105.7, 10967.1, 252.1>)[HP: 92.3583] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+19:24:24 | AI "Rolf" (group=36 faction="Raiders" pos=<9535.6, 11845.8, 240.9>) is unconscious
+19:24:38 | AI "Rolf" (group=36 faction="Raiders" pos=<9535.0, 11845.9, 240.9>) regained consciousness
+19:25:48 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) has been disconnected

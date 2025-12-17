@@ -1,0 +1,54 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-13 at 18:47:02
+18:49:19 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) is connected
+18:52:04 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1003.6, 1996.3, 5.7>)[HP: 97] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+18:52:09 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1009.7, 2002.9, 5.7>)[HP: 96.5951] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+18:52:11 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1007.4, 2005.9, 5.7>)[HP: 96.0101] hit by Infected into LeftArm(18) for 6.5 damage (MeleeInfected)
+18:52:12 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1007.7, 2007.1, 5.7>)[HP: 90.1601] hit by Infected into Head(0) for 3.25 damage (MeleeInfected)
+18:52:14 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1008.3, 2010, 5.7>)[HP: 89.5751] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+18:52:15 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1009.3, 2011.7, 5.7>)[HP: 83.8151] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+18:52:17 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1009.2, 2011.4, 5.7>)[HP: 77.9651] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+18:56:44 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<775.5, 1855.3, 6.1>)[HP: 99.65] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+18:56:45 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<776.6, 1852.7, 6.1>)[HP: 99.3] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+18:59:01 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<738.0, 1859.5, 8.8>)[HP: 99.9063] hit by WoodenStick with InediaInfectedAI_ThrowingProjectile
+19:00:05 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<740.6, 1861.0, 6.1>)[HP: 98.7356] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+19:00:06 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<740.2, 1862.9, 6.1>)[HP: 95.2356] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+19:00:08 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<737.0, 1863.0, 6.1>)[HP: 94.9757] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+19:00:08 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<735.2, 1863.5, 6.1>)[HP: 94.6257] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+19:00:09 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<734.9, 1863.6, 6.1>)[HP: 93.8819] hit by Infected into RightLeg(3) for 4.25 damage (MeleeZombie)
+19:00:11 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<733.0, 1864.4, 6.1>)[HP: 92.6969] hit by Infected into Head(0) for 0.53125 damage (MeleeSoldierInfected)
+19:00:13 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<738.0, 1869.7, 6.1>)[HP: 91.512] hit by Infected into Head(0) for 0.53125 damage (MeleeSoldierInfected)
+19:00:16 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<735.1, 1868.9, 6.1>)[HP: 89.4345] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+19:00:16 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<735.4, 1869.4, 6.1>)[HP: 87.267] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+19:00:21 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<733.5, 1871.6, 6.1>)[HP: 86.037] hit by Infected into LeftArm(18) for 11 damage (MeleeSoldierInfectedLong)
+19:00:22 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<732.6, 1867.1, 6.1>)[HP: 85.3833] hit by Infected into RightLeg(3) for 4.25 damage (MeleeZombie)
+19:00:25 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<731.7, 1864.0, 6.1>)[HP: 81.9733] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+19:00:26 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<731.6, 1862.5, 6.1>)[HP: 78.4733] hit by Infected into Torso(1) for 5 damage (MeleeZombie)
+19:00:27 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<732.0, 1862.0, 6.1>)[HP: 77.4533] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
+19:00:28 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<732.4, 1861.8, 6.1>)[HP: 76.5234] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
+19:00:29 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<732.7, 1862.6, 6.1>)[HP: 72.0234] hit by BallisticHelmet_Green with InediaInfectedAI_ThrowingProjectile
+19:01:32 | Chat("Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=)): \ireload
+19:03:32 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<739.4, 1899, 6.1>)[HP: 98.98] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
+19:27:59 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<385.4, 4601.7, 133.4>)[HP: 99.4735] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+19:28:46 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<334.5, 4604.4, 138.2>)[HP: 99.4735] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
+19:35:18 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<462.7, 5155.8, 131.9>)[HP: 98.7569] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+19:37:58 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<574.1, 5293.4, 142.9>)[HP: 98.3744] hit by Infected into RightLeg(3) for 7.225 damage (MeleeInfectedLong)
+19:53:22 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<2491.5, 5261.7, 190.2>)[HP: 95.788] hit by Infected into Torso(1) for 4.68 damage (MeleeInfected)
+19:53:50 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<2558.1, 5212.6, 191.8>)[HP: 92.3483] hit by BaseballBat with InediaInfectedAI_ThrowingProjectile
+19:58:20 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<2480.3, 5193.3, 190.5>)[HP: 99.3419] hit by Infected into Head(0) for 0.365625 damage (MeleeInfected)
+20:27:22 | Chat("Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=)): \ireload
+20:40:13 | Chat("Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=)): \ireload
+20:44:07 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<2735.8, 5190.2, 200.9>)[HP: 99.415] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+20:44:41 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<2717.8, 5202.3, 200.1>)[HP: 99.4735] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
+20:44:52 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<2726.0, 5204.1, 200.0>)[HP: 99.2171] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
+20:47:23 | Chat("Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=)): \ireload
+20:49:07 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<2846.2, 5408.9, 210.7>)[HP: 96.2092] hit by Infected into Torso(1) for 4.212 damage (MeleeInfected)
+20:57:15 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<3688.2, 5985.3, 402.6>)[HP: 98.725] hit by Infected into Head(0) for 0.53125 damage (MeleeSoldierInfected)
+20:57:16 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<3688.5, 5985.2, 402.6>)[HP: 97.807] hit by Infected into RightArm(17) for 7.65 damage (MeleeSoldierInfected)
+21:04:45 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4476.1, 6434.6, 295.0>)[HP: 98.7569] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+21:09:03 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4755.1, 6781.9, 269.9>)[HP: 99.6139] hit by Infected into RightArm(17) for 4.29 damage (MeleeInfected)
+21:19:12 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4448.5, 8304.6, 313.8>)[HP: 97.8325] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+21:19:59 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4472.5, 8272.3, 314.3>)[HP: 96.3708] hit by Infected into LeftLeg(8) for 9.35 damage (MeleeSoldierInfectedLong)
+21:33:13 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) has been disconnected

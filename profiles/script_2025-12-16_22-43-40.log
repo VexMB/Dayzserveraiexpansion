@@ -1,0 +1,2284 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\script_2025-12-16_22-43-40.log started at 16.12. 22:43:40
+
+SCRIPT       : Registered 432 temporary action enum(s), UAN==432
+SCRIPT    (W): @"MedicalAttention/Core/3_Game/enums\ma_agents.c,15": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"MedicalAttention/Core/3_Game/enums\ma_agents.c,16": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"MedicalAttention/Core/3_Game/enums\ma_agents.c,17": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"Nine\compass\scripts\3_Game/ninerpc.c,3": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"Nine\compass\scripts\3_Game/json\nine_config.c,75": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,47": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,48": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,49": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,50": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,51": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,52": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,53": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,54": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,47": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,48": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,49": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,50": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,51": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,52": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,53": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,54": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,64": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,65": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,66": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,67": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,68": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,69": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,70": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,71": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,72": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,73": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/KQgaX42x/ pfC dEor/089toQBs/﻿﻿﻿﻿/BFArY82B/GyXEadgJ/4ZsZRHQb.xuvnaINC,24": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/KQgaX42x/ pfC dEor/089toQBs/﻿﻿﻿﻿/BFArY82B/GyXEadgJ/4ZsZRHQb.xuvnaINC,25": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,305": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,447": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,453": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/gui\basicmapmenu.c,556": FIX-ME: Overriding function 'LockControls' but not marked as 'override'
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionBrawlers ID 1955753718
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : 22:43:45.001 [EXPANSION LOG]: DayZGame<97aed060> Start time (local time) 2025-12-16 22:43:35
+SCRIPT       : 22:43:45.001 [EXPANSION LOG]: DayZGame<97aed060> Start time (UTC) 2025-12-16 22:43:35
+SCRIPT       : 22:43:45.001 [EXPANSION LOG]: DayZGame<97aed060> Runtime since start (seconds) 10.876
+SCRIPT    (W): @"FirstAidKit/scripts/4_World/entities\itembase\gear\containers\containers.c,14": Missing ';' at the end of line
+SCRIPT    (W): @"Nine\compass\scripts\4_World/compasshud.c,84": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"Nine\compass\scripts\4_World/watcheshud.c,335": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3704": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3707": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3710": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3713": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3716": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3719": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3722": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3725": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4048": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4051": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4054": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4057": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4060": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4063": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4066": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4069": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,40": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,42": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,45": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mmg_storage/scripts/4_World/classes\base_class\mmg_storage_openable_nolock.c,225": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"mmg_storage/scripts/4_World/classes\base_class\mmg_storage_openable.c,260": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"mmg_storage/scripts/4_World/classes\gun_rack\lockable\mmg_lockable_gun_rack_base.c,14": FIX-ME: Overriding function 'GetSoundOpen' but not marked as 'override'
+SCRIPT    (W): @"mmg_storage/scripts/4_World/classes\gun_rack\lockable\mmg_lockable_gun_rack_base.c,19": FIX-ME: Overriding function 'GetSoundClose' but not marked as 'override'
+SCRIPT    (W): @"CompassHH/scripts/4_World/Classes/UserActionsComponent/Actions/SingleUse/аСж?ибУшё.wss,3": FIX-ME: Overriding function 'SetCloseAnimation' but not marked as 'override'
+SCRIPT    (W): @"mmg_storage/scripts/4_World/garden\mmg_gardening_base.c,136": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"Nine\compass\scripts\4_World/watcheshud.c,343": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"BaseFortifications/scripts/4_World/actions\actiondeploybasefortificationkits.c,11": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3135": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"KnockKnockAI/scripts/4_World/player.c,70": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"KnockKnockAI/scripts/4_World/player.c,75": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"KnockKnockAI/scripts/4_World/player.c,79": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
+SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT    (W): @"SimpleAutorun/Mission/autorunmodule.c,100": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleAutorun/Mission/autorunmodule.c,240": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleAutorun/Mission/autorunmodule.c,240": FIX-ME: Overloaded function 'OnRPC#1127402', argument 'ctx' is not compatible with prototype argument type or spec 'Serializer'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'year'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'month'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'day'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'hour'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'minute'
+SCRIPT    (W): @"CarCover/Scripts/5_Mission/missionserver.c,5": Possible variable name conflict 'config'
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : 22:44:08.349 [EXPANSION DEBUG]: [ExpansionCoreSettings] Load existing setting file:$profile:ExpansionMod\Settings\CoreSettings.json
+SCRIPT       : 22:44:08.349 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 22:44:08.350 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 22:44:08.351 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 22:44:08.351 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 22:44:08.352 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : 22:44:08.352 [EXPANSION DEBUG]: [ExpansionHardlineSettings] Load existing setting file:$mission:expansion\settings\HardlineSettings.json
+SCRIPT       : 22:44:08.363 [EXPANSION DEBUG]: [ExpansionMarketSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : 22:44:08.365 [EXPANSION DEBUG]: [ExpansionAirdropSettings] Load existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json
+SCRIPT       : 22:44:08.773 [EXPANSION DEBUG]: [ExpansionMissionSettings] Load existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json
+SCRIPT       : 22:44:08.774 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MapSettings.json
+SCRIPT       : 22:44:08.787 [EXPANSION DEBUG]: [ExpansionPersonalStorageNewSettings] Load existing setting file:$profile:ExpansionMod\Settings\PersonalStorageNewSettings.json
+SCRIPT       : 22:44:08.787 [EXPANSION DEBUG]: [ExpansionGeneralSettings] Load existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json
+SCRIPT       : 22:44:08.788 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] Load existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json
+SCRIPT       : 22:44:08.788 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] Load existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json
+SCRIPT       : 22:44:08.788 [EXPANSION DEBUG]: [ExpansionSpawnSettings] Load existing setting file:$mission:expansion\settings\SpawnSettings.json
+SCRIPT       : 22:44:08.791 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : 22:44:08.792 [EXPANSION DEBUG]: ExpansionAILocationSettings<462bab20> Load existing setting file:$mission:expansion\settings\AILocationSettings.json
+SCRIPT       : 22:44:08.941 [EXPANSION DEBUG]: [ExpansionAISettings] Load existing setting file:$profile:ExpansionMod\Settings\AISettings.json
+SCRIPT       : 22:44:08.941 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] Load existing setting file:$mission:expansion\settings\AIPatrolSettings.json
+SCRIPT       : 22:44:16.835 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Wreck_UH1Y': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.836 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Wreck_Mi8_Crashed': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.840 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Land_Wreck_sed01_aban1_police': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.840 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Land_Wreck_sed01_aban2_police': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.841 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Land_Wreck_hb01_aban1_police': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.841 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Land_Wreck_hb01_aban2_police': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.841 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.842 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.842 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.842 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.842 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.843 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.843 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.843 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.844 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.844 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.844 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.844 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.845 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.845 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.845 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.846 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.846 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.846 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.846 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.847 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.847 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.847 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.847 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.848 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.848 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.848 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.848 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.849 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.849 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.849 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.850 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.850 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.850 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.850 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.851 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.851 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.851 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.852 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.852 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.852 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.852 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.853 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.853 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.853 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.853 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.854 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.854 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.854 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.854 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.855 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.855 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.855 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.856 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.856 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.856 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.856 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.857 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.857 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.857 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.857 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.858 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.858 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.858 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.859 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.859 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.859 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.859 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.860 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.860 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.860 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.860 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.861 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.861 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.861 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.861 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.862 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.862 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.862 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.863 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.863 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.863 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.863 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.864 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.864 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.864 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.864 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.865 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.865 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.865 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.866 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.866 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.866 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.866 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.867 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.867 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.867 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.867 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.868 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.868 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.868 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.869 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.869 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.869 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.870 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.870 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.870 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.870 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.871 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.871 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.871 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.871 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.872 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.872 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.872 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.872 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.873 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.873 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.873 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.874 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.874 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.874 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.874 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.875 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.875 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.875 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.875 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.876 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.876 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.876 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.877 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.877 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.877 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.877 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.878 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.878 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.878 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.878 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.879 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.879 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.879 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.879 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.880 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.880 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.880 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.880 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.881 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.881 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.881 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.882 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.882 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.882 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.882 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.883 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.883 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.883 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.883 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.884 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.884 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.884 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.885 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.885 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.885 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.885 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.886 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.886 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.886 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.886 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.887 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.887 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.887 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.887 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.888 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.888 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.888 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.889 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.889 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.889 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.889 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.890 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.890 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.890 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.890 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.891 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.891 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.891 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.891 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.892 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.892 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.892 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.893 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.893 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.893 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.893 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.894 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.894 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.894 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.894 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.895 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.895 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.895 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.896 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.896 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.896 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.896 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.897 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.897 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.897 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.897 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.898 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.898 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.898 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.898 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.899 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.899 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.899 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.899 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.900 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.900 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.900 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.901 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.901 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.901 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.901 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.902 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.902 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.902 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.903 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.903 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.903 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.903 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.904 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.904 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.904 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.904 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.905 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.905 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.905 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.905 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.906 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.906 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.906 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.907 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.907 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.907 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.908 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.908 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.908 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.908 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.909 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.909 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.909 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.909 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.910 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.910 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.910 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.910 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.911 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.911 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.911 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.911 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.912 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.912 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.912 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.912 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.913 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.913 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.913 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.914 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.914 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.914 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.914 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.915 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.915 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.915 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.915 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.916 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.916 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.916 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.917 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.917 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.917 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.917 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.918 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.918 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.918 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.918 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.919 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.919 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.919 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.920 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.920 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.920 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.920 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.921 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.921 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.921 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.921 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.922 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.922 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.922 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.922 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.923 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.923 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.923 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.923 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.924 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.924 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.924 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.925 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.925 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.925 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.925 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.926 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.926 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.926 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.926 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.927 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.927 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.927 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.928 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.928 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.928 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.928 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.929 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.929 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.929 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.929 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.930 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.930 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.930 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.931 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.931 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.931 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.931 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.932 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.932 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.932 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.932 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.933 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.933 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.933 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.934 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.934 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.934 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.934 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.935 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.935 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.935 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.935 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.936 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.936 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.936 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.936 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.937 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.937 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.937 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.938 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.938 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.938 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.938 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.939 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.939 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.939 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.939 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.940 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.940 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.940 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.941 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.941 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.941 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.941 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.942 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.942 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.942 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.942 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.943 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.943 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.943 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.943 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.944 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.944 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.944 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.945 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.945 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.945 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.946 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.946 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.946 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.946 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.947 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.947 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.947 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.947 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.948 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.948 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.948 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.949 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.949 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.949 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.949 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.950 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.950 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.950 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.951 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.951 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.952 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.952 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.952 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.953 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.953 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.953 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.953 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.954 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.954 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.954 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.954 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.955 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.955 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.955 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.955 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.956 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.956 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.956 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.957 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.957 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.957 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.957 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.958 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.958 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.958 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.959 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.959 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.959 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.959 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.960 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.960 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.960 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.960 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.961 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.961 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.961 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.961 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.962 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.962 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.962 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.963 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.963 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.963 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.963 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.964 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.964 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.964 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.965 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.965 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.965 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.965 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.966 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.966 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.966 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.966 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.967 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.967 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.967 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.967 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.968 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.968 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.968 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.969 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.969 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.969 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.969 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.970 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.970 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.970 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.970 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.971 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.971 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.971 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.972 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.972 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.972 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.973 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.973 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.973 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.973 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.974 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.974 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.974 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.974 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.975 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.975 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.975 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.975 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.976 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.976 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.976 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.977 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.977 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.977 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.977 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.978 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.978 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.978 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.979 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.979 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.979 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.979 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.980 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.980 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.980 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.980 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.981 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.981 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.981 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.982 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.982 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.982 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.983 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.983 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.983 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.983 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.984 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.984 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.984 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.985 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.985 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.985 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.985 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.986 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.986 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.986 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.986 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.987 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.987 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.987 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.987 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.988 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.988 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.988 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.989 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.989 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.989 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.990 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.990 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.990 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.990 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.991 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.991 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.991 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.992 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.992 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.992 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.992 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.993 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.993 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.993 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.993 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.994 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.994 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.994 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.994 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.995 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.995 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.995 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.995 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.996 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.996 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.996 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.996 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.997 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.997 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.997 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.998 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.998 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.998 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.998 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.999 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.999 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.999 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:16.999 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.000 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.000 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.000 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.000 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.001 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.001 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.001 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.002 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.002 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.002 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.002 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.003 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.003 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.003 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.003 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.004 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.004 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.004 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.004 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.005 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.005 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.005 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.005 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.006 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.006 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.006 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.007 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.007 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.007 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.007 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.008 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.008 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.008 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.008 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.009 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.009 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.010 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.010 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.010 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.011 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.011 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.011 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.011 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.012 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.012 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.012 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.013 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.013 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.013 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.013 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.014 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.014 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.014 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.014 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.015 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.015 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.015 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.015 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.016 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.016 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.016 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.016 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.017 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.017 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.017 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.017 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.018 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.018 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.018 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.019 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.019 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.019 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.019 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.020 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.020 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.020 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.021 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.021 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.021 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.021 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.022 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.022 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.022 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.022 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.023 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.023 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.023 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.023 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.024 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.024 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.024 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.025 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.025 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.025 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.025 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.026 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.026 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.026 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.026 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.027 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.027 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.027 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.028 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.028 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.028 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.028 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.029 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.029 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.029 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.029 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.030 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.030 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.030 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.030 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.031 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.031 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.031 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.032 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.032 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.032 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.033 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.033 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.033 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.033 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.034 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.034 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.034 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.034 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.035 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.035 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.035 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.035 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.036 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.036 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.036 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.036 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.037 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.037 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.037 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.038 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.038 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.038 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.038 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.039 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.039 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.039 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.039 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.040 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.040 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.040 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.040 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.041 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.041 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.041 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.041 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.042 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.042 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.042 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.042 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.043 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.043 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.043 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.044 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.044 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.044 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.045 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.045 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.045 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.045 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.046 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.046 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.046 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.046 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.047 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.047 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.047 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.047 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.048 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.048 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.048 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.048 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.049 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.049 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.049 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.050 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.050 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.050 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.050 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.051 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.051 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.051 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.052 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.052 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.052 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.052 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.053 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.053 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.053 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.053 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.054 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.054 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.054 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.054 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.055 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.055 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.055 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.056 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.056 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.056 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.056 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.057 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.057 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.057 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.057 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.058 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.058 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.058 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.059 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.059 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.059 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.059 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.060 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.060 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.060 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.061 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.061 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.061 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.061 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.062 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.062 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.062 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.063 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.063 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.063 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.063 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.064 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.064 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.064 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.064 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.065 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.065 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.065 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.065 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.066 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.066 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.066 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.067 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.067 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.067 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.067 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.068 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.068 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.068 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.068 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.069 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.069 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.069 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.070 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.070 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.070 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.070 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.071 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.071 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.071 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.071 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.072 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.072 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.072 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+SCRIPT       : 22:44:17.072 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 22:44:17.074 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 22:44:17.074 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : 22:44:17.077 [EXPANSION DEBUG]: [ExpansionChatSettings] Load existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json
+SCRIPT       : Expansion version: 1.9.49
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGARAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODHARDLINE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODKILLFEED is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODP2PMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODPERSONALSTORAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODQUESTS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODSPAWNSELECTION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : CarCoverDefines
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Garage_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_Hardline_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_P2PMarket_Preload
+SCRIPT       : DZ_Expansion_PersonalStorage_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : MedicalAttention_Core_Preload
+SCRIPT       : MedicalAttention_Preload
+SCRIPT       : BasicMapDefine
+SCRIPT       : Bathtub_Ballers_Item_overrides
+SCRIPT       : BuilderItems_Scripts
+SCRIPT       : DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : sakhal
+SCRIPT       : EarPlugs
+SCRIPT       : ExpansionAIRaids
+SCRIPT       : FirstAidKit
+SCRIPT       : InediaInfectedAI
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : DZ_MagObfuscation
+SCRIPT       : MedicalAttention_Core
+SCRIPT       : MedicalAttention_Scripts
+SCRIPT       : mm_helmets
+SCRIPT       : mm_masks
+SCRIPT       : mm_pants
+SCRIPT       : mm_shirts
+SCRIPT       : mm_various
+SCRIPT       : mm_vests
+SCRIPT       : mmg_storage
+SCRIPT       : CompassNine
+SCRIPT       : Land_Schoolbus_Wreck
+SCRIPT       : RaG_Core
+SCRIPT       : RealisticSuppressors
+SCRIPT       : RealisticWeapons
+SCRIPT       : ServerPanel
+SCRIPT       : SimpleAutorun
+SCRIPT       : TTC_Optics
+SCRIPT       : TTC_Pistols
+SCRIPT       : TTC_Rifles
+SCRIPT       : TTC_Shotguns
+SCRIPT       : TTC_SMG
+SCRIPT       : AVPPAdminTools
+SCRIPT       : WindstrideClothing
+SCRIPT       : FlipTransport
+SCRIPT       : ZenSleep
+SCRIPT       : BasicMap
+SCRIPT       : CarCover
+SCRIPT       : CompassHH
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : EUgear
+SCRIPT       : JillsCollection
+SCRIPT       : mm_backpacks
+SCRIPT       : rag_vehicles
+SCRIPT       : rag_baseitems
+SCRIPT       : BM_FirstAidKit
+SCRIPT       : BM_FristNbcKit
+SCRIPT       : CDS_Bulletstack
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Garage
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_P2PMarket
+SCRIPT       : DZ_Expansion_PersonalStorage
+SCRIPT       : DZ_Expansion_PersonalStorageNew
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : Nomadbackpack_v3
+SCRIPT       : Base_Fortifications_Base
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Hardline
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : DZ_Expansion_VirtualContainerStorage
+SCRIPT       : DynamicHelicopters
+SCRIPT       : KnockKnockAI
+SCRIPT       : AIWarZones
+SCRIPT       : [Nine] 'Nine_Settings' found, loading
+SCRIPT       : 16.12.2025 22:44:17 [ServerPanelLogger]: Switching to logfile: $profile:/ServerPanel/Logs/ServerPanel_16-12-2025_22-44-17.log
+SCRIPT       : [ServerPanel] 'ServerPanelConfigManager' Configuration file found...
+SCRIPT       : [ServerPanel] 'ServerPanelConfigManager' Configuration loaded.
+SCRIPT       : [BasicMap] Init Server
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT    (E): [::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:BasicMap\ServerMarkers.json":
+JSON ERROR:
+The document is empty.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+BasicMap/scripts/3_Game/basicmapcontroller.c:168 Function LoadServerMarkers
+BasicMap/scripts/3_Game/basicmapcontroller.c:44 Function Init
+BasicMap/scripts/5_Mission/mission\missionserver.c:4 Function MissionServer@376#1
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+SCRIPT       : [MedicalAttention] config.txt >> Tiredness					= 0
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> 	TireTime (minutes)			= 210
+SCRIPT       : [MedicalAttention] config.txt >> 	EyeClosingPoint  (percent)		= 19
+SCRIPT       : [MedicalAttention] config.txt >> 	TextReports				= 0
+SCRIPT       : [MedicalAttention] config.txt >> 	EnergizingDrinkGain (percent)		= 20
+SCRIPT       : [MedicalAttention] config.txt >> 	EnergizingDrinkClass			= SodaCan_Cola
+SCRIPT       : [MedicalAttention] config.txt >> 	EnergizingDrinkClass			= SodaCan_Pipsi
+SCRIPT       : [MedicalAttention] config.txt >> 	EnergizingDrinkClass			= SodaCan_Spite
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> 	SleepingBagClass = MediumTent
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> 	SleepingDOF				= 0
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> ZombieBleedChance (percent)			= 20
+SCRIPT       : [MedicalAttention] config.txt >> ZombieSalmonellaChance (percent)		= 5
+SCRIPT       : [MedicalAttention] config.txt >> WoundInfectionChance (percent)			= 10
+SCRIPT       : [MedicalAttention] config.txt >> ZombieArmFractureChance (percent)		= 25
+SCRIPT       : [MedicalAttention] config.txt >> FeverActive					= 1
+SCRIPT       : [MedicalAttention] config.txt >> BrainDisease					= 1
+SCRIPT       : [MedicalAttention] config.txt >> AntibioticsStrength				= 8
+SCRIPT       : [MedicalAttention] config.txt >> SalineBloodRegen				= 1
+SCRIPT       : [MedicalAttention] config.txt >> TestBloodSelf					= 1
+SCRIPT       : [MedicalAttention] config.txt >> TestBloodTarget					= 1
+SCRIPT       : [MedicalAttention] config.txt >> TestBloodToxin					= 1
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> AlcoholicDrinkClass				= SodaCan_Kvass
+SCRIPT       : [MedicalAttention] config.txt >> AlcoholicDrinkClass				= DisinfectantAlcohol = 3.5
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> AlcoholicLiquid				= Beer
+SCRIPT       : [MedicalAttention] config.txt >> AlcoholicLiquid				= Vodka = 2
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> ZoneType = Biohazard
+SCRIPT       : [MedicalAttention] config.txt >> ZoneChance (percent) = 100
+SCRIPT       : [MedicalAttention] config.txt >> Active
+SCRIPT       : [MedicalAttention] config.txt >> ZoneCenter (X Y Z) = 1695.40 0 14042.22
+SCRIPT       : [MedicalAttention] config.txt >> ZoneRadiusMin = 675
+SCRIPT       : [MedicalAttention] config.txt >> ZoneRadiusMax = 725
+SCRIPT       : [MedicalAttention] config.txt >> Random zone radius 704.043
+SCRIPT       : [MedicalAttention] config.txt >> ZoneMsgIn = CAUTION: YOU ARE IN A BIOHAZARD ZONE
+SCRIPT       : [MedicalAttention] config.txt >> ZoneMsgOut = YOU LEFT THE BIOHAZARD ZONE
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> ToxinAccumulationTimeMin = 5
+SCRIPT       : [MedicalAttention] config.txt >> ToxinAccumulationTimeMax = 60
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = NBCBootsGray = 10
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = NBCGlovesGray = 10
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = NBCHoodGray = 10
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = NBCJacketGray = 20
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = NBCPantsGray = 20
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = GP5GasMask = 150 
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = GasMask = 150 
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = TF_PMK4GasMask = 150 
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = TF_PMK4GasMask_OD = 150 
+SCRIPT       : [MedicalAttention] config.txt >>                         
+SCRIPT       : [ExpansionAIRaids] MissionServer OnInit called
+SCRIPT       : [ExpansionAIRaids] Server detected, initializing AI Raids Manager...
+SCRIPT       : [ExpansionAIRaidsSettings] Constructor called
+SCRIPT       : [ExpansionAIRaidsSettings] Loading settings...
+SCRIPT       : [ExpansionAIRaidsSettings] Settings file exists, loading: $profile:ExpansionMod/Settings/AIRaidSettings.json
+SCRIPT       : [ExpansionAIRaidsSettings] Detected Version 1 config - upgrading to Version 2
+SCRIPT       : [ExpansionAIRaidsSettings] Adding new ExtraAICountPerPlayer setting while keeping existing values
+SCRIPT       : [ExpansionAIRaidsSettings] Saving settings to: $profile:ExpansionMod/Settings/AIRaidSettings.json
+SCRIPT       : [ExpansionAIRaidsSettings] Config successfully upgraded from Version 1 to Version 2
+SCRIPT       : [ExpansionAIRaidsSettings] New setting: ExtraAICountPerPlayer = 2
+SCRIPT       : [ExpansionAIRaidsSettings] Settings loaded. Enabled: true, RaidChance: 0.5, ExtraAICountPerPlayer: 2
+SCRIPT       : [ExpansionAIRaids] AI Raids system successfully initialized on server
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [AYSA] [KNOCK KNOCK AI] 
+SCRIPT       : [AYSA] ----- Loading cfg -----
+SCRIPT       : [AYSA] --------------
+SCRIPT       : [AYSA] [KNOCK KNOCK AI] enabled
+SCRIPT       : [AYSA] --------------
+SCRIPT       : [AYSA] [AI WAR ZONES] 
+SCRIPT       : [AYSA] ----- Loading cfg -----
+SCRIPT       : [AYSA] [AI WAR ZONES] --> config loaded, zone count: 6
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[0]: The Battle Of Berezino
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[1]: The Raid At Vybor
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[2]: Situation at Krasnostav PD
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[3]: Chernogorsk PD Raid
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[4]: Electro Street Fights
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[5]: The Fight For Control - NWAF
+SCRIPT       : -----------==A=========----AI----==========-------------
+SCRIPT       : -----------========Y===----------==========-------------
+SCRIPT       : -----------============----------=S========-------------
+SCRIPT       : ---WAR-----============----------======A===-----ZONES---
+SCRIPT       : -----------==== CONFIG UPDATE NEEDED ====-------------
+SCRIPT       : [AYSA] [AI WAR ZONES] --> War zones has many new features and you are missing them
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Delete your current config file and restart the server. A new config will generate
+SCRIPT       : -----------==A=========----AI----==========-------------
+SCRIPT       : -----------========Y===----------==========-------------
+SCRIPT       : -----------============----------=S========-------------
+SCRIPT       : ---WAR-----============----------======A===-----ZONES---
+SCRIPT       : -----------==== CONFIG UPDATE NEEDED ====-------------
+SCRIPT       : [AYSA] [AI WAR ZONES] --> War zones has many new features and you are missing them
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Delete your current config file and restart the server. A new config will generate
+SCRIPT       : -----------==A=========----AI----==========-------------
+SCRIPT       : -----------========Y===----------==========-------------
+SCRIPT       : -----------============----------=S========-------------
+SCRIPT       : ---WAR-----============----------======A===-----ZONES---
+SCRIPT       : -----------==== CONFIG UPDATE NEEDED ====-------------
+SCRIPT       : [AYSA] [AI WAR ZONES] --> War zones has many new features and you are missing them
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Delete your current config file and restart the server. A new config will generate
+SCRIPT       : -----------==A=========----AI----==========-------------
+SCRIPT       : -----------========Y===----------==========-------------
+SCRIPT       : -----------============----------=S========-------------
+SCRIPT       : ---WAR-----============----------======A===-----ZONES---
+SCRIPT       : -----------==== CONFIG UPDATE NEEDED ====-------------
+SCRIPT       : [AYSA] [AI WAR ZONES] --> War zones has many new features and you are missing them
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Delete your current config file and restart the server. A new config will generate
+SCRIPT       : -----------==A=========----AI----==========-------------
+SCRIPT       : -----------========Y===----------==========-------------
+SCRIPT       : -----------============----------=S========-------------
+SCRIPT       : ---WAR-----============----------======A===-----ZONES---
+SCRIPT       : -----------==== CONFIG UPDATE NEEDED ====-------------
+SCRIPT       : [AYSA] [AI WAR ZONES] --> War zones has many new features and you are missing them
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Delete your current config file and restart the server. A new config will generate
+SCRIPT       : -----------==A=========----AI----==========-------------
+SCRIPT       : -----------========Y===----------==========-------------
+SCRIPT       : -----------============----------=S========-------------
+SCRIPT       : ---WAR-----============----------======A===-----ZONES---
+SCRIPT       : -----------==== CONFIG UPDATE NEEDED ====-------------
+SCRIPT       : [AYSA] [AI WAR ZONES] --> War zones has many new features and you are missing them
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Delete your current config file and restart the server. A new config will generate
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'BathtubBallers-Private'
+SCRIPT       : ExpansionZonePolygon<760f1c40> position=<12015.854492, 0.000000, 12591.097656> radius=419.633
+SCRIPT       : ExpansionZoneCircle<8ecdf5f0> position=<1143.140015, 0.000000, 2423.270020> radius=700
+SCRIPT       : ExpansionZoneCircle<8ecdf950> position=<3728.270020, 0.000000, 6003.600098> radius=500
+SCRIPT       : Found 3 zones!
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : [AYSA] [KNOCK KNOCK AI] 
+SCRIPT       : [AYSA] ----- Sending cfg -----
+SCRIPT       : [AYSA] ----- Bonesaw -----
+SCRIPT       : [AYSA] [AI WAR ZONES] 
+SCRIPT       : [AYSA] ----- Sending cfg -----
+SCRIPT       : [AYSA] ----- Bonesaw -----
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 22:45:20.704 [EXPANSION DEBUG]: ExpansionPartyData<748f2d50>::OnJoin party Reaper Fiery (ID 0) player Bonesaw (ID kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk=)
+SCRIPT       : [VPPAT] Player "Bonesaw" (steamId=76561198005451063) connected to server!
+SCRIPT       : [MedicalAttention] OnPlayerLoaded()
+SCRIPT       : [MedicalAttention] Zone type 4 active at <1695.400024, 0.000000, 14042.219727> with radius 704.043 and infinite height (cylinder) for player Bonesaw
+SCRIPT       : [ZenSleep::ZenSleepEffectHandlerServer] Initialized kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk=
+SCRIPT       : [AYSA] [KNOCK KNOCK AI] 
+SCRIPT       : [AYSA] ----- Sending cfg -----
+SCRIPT       : [AYSA] ----- Vex -----
+SCRIPT       : [AYSA] [AI WAR ZONES] 
+SCRIPT       : [AYSA] ----- Sending cfg -----
+SCRIPT       : [AYSA] ----- Vex -----
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 22:45:33.153 [EXPANSION DEBUG]: ExpansionPartyData<748f2d50>::OnJoin party Reaper Fiery (ID 0) player Vex (ID 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=)
+SCRIPT       : [VPPAT] Player "Vex" (steamId=76561198040522771) connected to server!
+SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<8687d120>
+SCRIPT       : [MedicalAttention] OnPlayerLoaded()
+SCRIPT       : [MedicalAttention] Zone type 4 active at <1695.400024, 0.000000, 14042.219727> with radius 704.043 and infinite height (cylinder) for player Vex
+SCRIPT       : [ZenSleep::ZenSleepEffectHandlerServer] Initialized 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [Permissions Manager] Admin (Vex) (76561198040522771) Successfully Logged in!
+SCRIPT       : 22:48:40.582 [eAI_SurvivorM_Cyril<3ed58ff0>::RPC_eAI_RemoteRecreateWeapon] :: [WARNING] :: Recreated network representation of TTC_M4DMR_Base<9db08c0>
+Class:      'eAI_SurvivorM_Cyril'
+Entity id:2998926
+Function: 'RPC_eAI_RemoteRecreateWeapon'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:1171
+SCRIPT       : 22:48:43.180 [eAI_SurvivorF_Judy<3e951020>::RPC_eAI_RemoteRecreateWeapon] :: [WARNING] :: Recreated network representation of TTC_Raptr_Base<9db24e0>
+Class:      'eAI_SurvivorF_Judy'
+Entity id:2999040
+Function: 'RPC_eAI_RemoteRecreateWeapon'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:1171
+SCRIPT       : 22:49:04.581 [EXPANSION DEBUG]: eAI_SurvivorF_Maria<3e67a020> Ignoring melee weapon because it was recently dropped: BaseballBat<3eb52ac0> (type=BaseballBat health=250)
+SCRIPT       : 22:49:38.090 [EXPANSION DEBUG]: eAI_SurvivorF_Helga<3eeb4010> Weapon_Reloading - Reloading - failed (1)
+SCRIPT    (E): [wpnfsm] SV98:24218 chamberFromAttachedMagazine, error - cannot load chamber!
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\fsm\weapon_utils.c:23 Function pushToChamberFromAttachedMagazine
+scripts/4_World/entities\firearms\fsm\states\weaponchamberfromattmag.c:16 Function OnEntry
+scripts/4_World/entities\firearms\weaponfsm.c:50 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/4_World/entities\firearms\weaponfsm.c:289 Function ProcessEvent
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83 Function ProcessEvent
+scripts/4_World/entities\firearms\weaponfsm.c:243 Function ProcessEvent
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:563 Function ProcessWeaponEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:390 Function HandleWeaponEvents
+scripts/4_World/entities\dayzplayerimplement.c:987 Function HandleWeapons
+DayZExpansion/Weapons/Scripts/4_World/dayzexpansion_weapons\entities\manbase\dayzplayerimplement.c:19 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+MedicalAttention/Core/4_World/entities\manbase\playerbase.c:758 Function CommandHandler
+SCRIPT       : 22:49:50.754 [EXPANSION DEBUG]: eAI_SurvivorF_Frida<912ca020> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : [WeaponFSM::ValidateAndRepairHelper] :: [INFO] :: [wpnfsm] ValidateAndRepair Attempting to repair: TTC_MRAD:5737 (owner eAI_SurvivorM_Rolf<2735a020>) - MagazineRepair - BAREM_CLO_BUF_MA0<297b4f90> - state: 0 != weapon: 1
+SCRIPT       : 22:50:17.741 [EXPANSION DEBUG]: eAI_SurvivorM_Indar<5c309020> Ignoring melee weapon because it was recently dropped: SledgeHammer<60457ad0> (type=SledgeHammer health=300)
+SCRIPT       : 22:50:27.514 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<3e5d5930> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 22:50:47.313 [EXPANSION DEBUG]: eAI_SurvivorF_Gabi<3e5d5930> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 22:51:07.810 [EXPANSION DEBUG]: eAI_SurvivorF_Irena<4841e020> Ignoring melee weapon because it was recently dropped: BaseballBat<604647e0> (type=BaseballBat health=250)
+SCRIPT       : 22:52:23.414 [EXPANSION DEBUG]: eAI_SurvivorF_Maria<3e67a020> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 22:52:35.923 [EXPANSION DEBUG]: eAI_SurvivorF_Helga<3eeb4010> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=NailBox:22737 parent=SurvivorM_Kaito:1:INSTANCETYPE_SERVER }
+SCRIPT       : [VPPAdminTools] Found Items: [18892]
+SCRIPT       : [VPPAdminTools] Found Items: [18906]
+SCRIPT       : [VPPAdminTools] Found Items: [18907]
+SCRIPT       : [VPPAdminTools] Found Items: [18889]
+SCRIPT       : [VPPAdminTools] Found Items: [18889]
+SCRIPT       : [VPPAdminTools] Found Items: [18889]
+SCRIPT       : [VPPAdminTools] Found Items: [18889]
+SCRIPT       : 23:04:51.359 [EXPANSION DEBUG]: eAI_SurvivorM_Oliver<57aea010> Ignoring melee weapon because it was recently dropped: BaseballBat<678cd990> (type=BaseballBat health=250)
+SCRIPT       : 23:05:17.065 [Animal_CanisLupus<86741a30>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: TTC_MCX_Base<9dc5a40>)
+Class:      'Animal_CanisLupus'
+Entity id:2996575
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+SCRIPT       : 23:05:22.468 [Animal_CanisLupus<8673e560>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: TTC_FAL_Base<6000c930>)
+Class:      'Animal_CanisLupus'
+Entity id:2996573
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+SCRIPT       : [WeaponFSM::ValidateAndRepairHelper] :: [INFO] :: [wpnfsm] ValidateAndRepair Attempting to repair: SV98:23539 (owner eAI_SurvivorM_Elias<65519020>) - MagazineRepair - BAREM_CLO_BUF_MA0<630e6fe0> - state: 0 != weapon: 1
+SCRIPT       : 23:05:50.652 [EXPANSION DEBUG]: eAI_SurvivorM_Elias<65519020> Ignoring melee weapon because it was recently dropped: FarmingHoe<6569e2b0> (type=FarmingHoe health=200)
+SCRIPT    (E): [wpnfsm] SV98:24218 chamberFromAttachedMagazine, error - cannot load chamber!
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\fsm\weapon_utils.c:23 Function pushToChamberFromAttachedMagazine
+scripts/4_World/entities\firearms\fsm\states\weaponchamberfromattmag.c:16 Function OnEntry
+scripts/4_World/entities\firearms\weaponfsm.c:50 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/4_World/entities\firearms\weaponfsm.c:289 Function ProcessEvent
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83 Function ProcessEvent
+scripts/4_World/entities\firearms\weaponfsm.c:243 Function ProcessEvent
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:563 Function ProcessWeaponEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:390 Function HandleWeaponEvents
+scripts/4_World/entities\dayzplayerimplement.c:987 Function HandleWeapons
+DayZExpansion/Weapons/Scripts/4_World/dayzexpansion_weapons\entities\manbase\dayzplayerimplement.c:19 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+MedicalAttention/Core/4_World/entities\manbase\playerbase.c:758 Function CommandHandler
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x39Tracer_20Rnd:8499 parent=SurvivorM_Kaito:1:INSTANCETYPE_SERVER }
+SCRIPT       : 23:12:05.863 [EXPANSION DEBUG]: eAI_SurvivorM_Taiki<545d9020> Ignoring melee weapon because it was recently dropped: FarmingHoe<604556a0> (type=FarmingHoe health=200)
+SCRIPT       : [DEBUG ADH] A helicopter is heading towards <15025.302734, 0.935341, 12085.212891>
+SCRIPT       : [DEBUG ADH] A helicopter is heading towards <4250.754395, 0.648824, 883.151978>
+SCRIPT       : 23:13:24.411 [EXPANSION DEBUG]: eAI_SurvivorF_Baty<6020a020> Ignoring melee weapon because it was recently dropped: SledgeHammer<60446560> (type=SledgeHammer health=300)
+SCRIPT       : [WeaponFSM::ValidateAndRepairHelper] :: [INFO] :: [wpnfsm] ValidateAndRepair Attempting to repair: SV98:5797 (owner eAI_SurvivorF_Baty<6020a020>) - MagazineRepair - BAREM_CLO_BUF_MA0<6e0f54b0> - state: 0 != weapon: 1
+SCRIPT       : 23:13:51.335 [ZmbM_HunterOld_Base<6770af30>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: TTC_M110_Base<6dfdf8a0>)
+Class:      'ZmbM_HunterOld_Base'
+Entity id:3004085
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+SCRIPT       : 23:14:35.392 [EXPANSION DEBUG]: eAI_SurvivorM_Oliver<57aea010> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : 23:14:59.546 [EXPANSION DEBUG]: eAI_SurvivorM_Jose<682cd030> Ignoring melee weapon because it was recently dropped: BaseballBat<656884e0> (type=BaseballBat health=250)
+SCRIPT       : 23:15:41.526 [EXPANSION DEBUG]: eAI_SurvivorM_Oliver<57aea010> Weapon_Reloading - Reloading - failed (1)
+SCRIPT       : [WeaponFSM::ValidateAndRepairHelper] :: [INFO] :: [wpnfsm] ValidateAndRepair Attempting to repair: TTC_M24_NEW_Camo:18240 (owner eAI_SurvivorM_Kaito<7163e010>) - MagazineRepair - BAREM_CLO_BUF_MA0<7007dd90> - state: 0 != weapon: 1
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x39_20Rnd:7264 parent=SurvivorM_Seth:10:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=NailBox:24378 parent=SurvivorM_Kaito:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=PeachesCan:6999 parent=SurvivorM_Kaito:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_45ACP_25rnd:24510 parent=SurvivorM_Kaito:1:INSTANCETYPE_SERVER }
+SCRIPT       : 23:33:12.790 [EXPANSION DEBUG]: eAI_SurvivorM_Francis<6811c000> Ignoring melee weapon because it was recently dropped: BaseballBat<773e0140> (type=BaseballBat health=250)
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=CARGO item=TacticalBaconCan:12221 parent=RF_CargoPants_PADDY:24016 idx=0 row=0 col=3 f=false }
+SCRIPT       : [VPPAdminTools] Found Items: [18777]
+SCRIPT       : [VPPAdminTools] Found Items: [18787]
+SCRIPT       : [VPPAdminTools] Found Items: [18787]
+SCRIPT       : [VPPAdminTools] Found Items: [18765]
+SCRIPT       : [VPPAdminTools] Found Items: [18764]
+SCRIPT       : [VPPAdminTools] Found Items: [18764]
+SCRIPT       : [VPPAdminTools] Found Items: [18764]
+SCRIPT       : [VPPAdminTools] Found Items: [18764]
+SCRIPT       : [VPPAdminTools] Found Items: [18832]
+SCRIPT       : [VPPAdminTools] Found Items: [18780]
+SCRIPT       : [Logout]: New player 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= with logout time 15
+SCRIPT       : Player "Vex" (steamid=76561198040522771) initiated disconnect process...
+SCRIPT       : Player "Vex" (steamid=76561198040522771) disconnected early from server (EXIT NOW).
+SCRIPT       : 23:35:36.632 [EXPANSION DEBUG]: ExpansionPartyData<748f2d50>::OnLeave party Reaper Fiery (ID 0) player Vex (ID 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=)
+SCRIPT       : [Logout]: Player 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= finished
+SCRIPT       : [DEBUG ADH] A helicopter is heading towards <3631.048340, 160.779007, 3655.424072>
+SCRIPT       : [DEBUG ADH] A helicopter is heading towards <7424.289063, 0.896998, 1190.661377>
+SCRIPT       : [Logout]: New player kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= with logout time 15
+SCRIPT       : Player "Bonesaw" (steamid=76561198005451063) initiated disconnect process...
+SCRIPT       : Player "Bonesaw" (steamid=76561198005451063) disconnected early from server (EXIT NOW).
+SCRIPT       : 23:54:11.356 [EXPANSION DEBUG]: ExpansionPartyData<748f2d50>::OnLeave party Reaper Fiery (ID 0) player Bonesaw (ID kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk=)
+SCRIPT       : [Logout]: Player kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= finished
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= isn't in the players list! sending a remove.
+SCRIPT       : PlayerDisconnected -> PlayerListManager.RemoveEntry ► kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk=

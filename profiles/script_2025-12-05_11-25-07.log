@@ -1,0 +1,133 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\script_2025-12-05_11-25-07.log started at 05.12. 11:25:08
+
+SCRIPT       : Registered 367 temporary action enum(s), UAN==367
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,35": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,54": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSib_police// // / ,35": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSib_police// // / ,54": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"MedicalAttention/Core/3_Game/enums\ma_agents.c,15": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"MedicalAttention/Core/3_Game/enums\ma_agents.c,16": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"MedicalAttention/Core/3_Game/enums\ma_agents.c,17": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"Nine\compass\scripts\3_Game/ninerpc.c,3": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"Nine\compass\scripts\3_Game/json\nine_config.c,75": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,47": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,48": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,49": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,50": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,51": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,52": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,53": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,54": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,47": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,48": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,49": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,50": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,51": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,52": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,53": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,54": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,64": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,65": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,66": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,67": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,68": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,69": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,70": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,71": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,72": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,73": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/KQgaX42x/ pfC dEor/089toQBs/﻿﻿﻿﻿/BFArY82B/GyXEadgJ/4ZsZRHQb.xuvnaINC,24": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/KQgaX42x/ pfC dEor/089toQBs/﻿﻿﻿﻿/BFArY82B/GyXEadgJ/4ZsZRHQb.xuvnaINC,25": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSib_police// // / ,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HelicopterSib_police// // / ,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HelicopterSib_police// // / ,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,305": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,447": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,453": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/gui\basicmapmenu.c,556": FIX-ME: Overriding function 'LockControls' but not marked as 'override'
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~Serializer' is private
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": FIX-ME: Strong ref to 'PlayerIdentity' class is not allowed
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~PlayerIdentityBase' is private
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": FIX-ME: Strong ref to 'Object' class is not allowed
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~Object' is private
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~Serializer' is private
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": FIX-ME: Strong ref to 'PlayerIdentity' class is not allowed
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~PlayerIdentityBase' is private
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": FIX-ME: Strong ref to 'Object' class is not allowed
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~Object' is private
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT    (W): @"FirstAidKit/scripts/4_World/entities\itembase\gear\containers\containers.c,14": Missing ';' at the end of line
+SCRIPT    (W): @"Gunner_SIB/4_World/л*ФѐўсђРуб.rvmat,17": Missing ';' at the end of line
+SCRIPT    (W): @"Nine\compass\scripts\4_World/compasshud.c,84": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"Nine\compass\scripts\4_World/watcheshud.c,335": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"TF_UAZ5131/scripts/4_World/uaz3151.c,598": Missing ';' at the end of line
+SCRIPT    (W): @"TF_UAZ5131/scripts/4_World/uaz3151.c,598": FIX-ME: Syntax error
+SCRIPT    (W): @"AIWarZones/scripts/4_World/smokeeffect.c,1": Forward declarations are deprecated!
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3704": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3707": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3710": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3713": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3716": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3719": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3722": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3725": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4048": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4051": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4054": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4057": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4060": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4063": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4066": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4069": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,40": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,42": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,45": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (E): @"ExpansionAIRaids/Scripts/4_World/ uqbzr3ft \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\com2.c,10": Unknown type 'eAIBase'
+SCRIPT    (E): Can't compile "World" script module!
+
+ExpansionAIRaids/Scripts/4_World/ uqbzr3ft \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\com2.c(10): Unknown type 'eAIBase'
+SCRIPT    (E): Failed to load entities script!
+SCRIPT    (W): @"FirstAidKit/scripts/4_World/entities\itembase\gear\containers\containers.c,14": Missing ';' at the end of line
+SCRIPT    (W): @"Gunner_SIB/4_World/л*ФѐўсђРуб.rvmat,17": Missing ';' at the end of line
+SCRIPT    (W): @"Nine\compass\scripts\4_World/compasshud.c,84": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"Nine\compass\scripts\4_World/watcheshud.c,335": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"TF_UAZ5131/scripts/4_World/uaz3151.c,598": Missing ';' at the end of line
+SCRIPT    (W): @"TF_UAZ5131/scripts/4_World/uaz3151.c,598": FIX-ME: Syntax error
+SCRIPT    (W): @"AIWarZones/scripts/4_World/smokeeffect.c,1": Forward declarations are deprecated!
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3704": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3707": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3710": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3713": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3716": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3719": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3722": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3725": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4048": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4051": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4054": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4057": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4060": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4063": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4066": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4069": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,40": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,42": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,45": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (E): @"ExpansionAIRaids/Scripts/4_World/ uqbzr3ft \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\com2.c,10": Unknown type 'eAIBase'
+SCRIPT    (E): Can't compile "World" script module!
+
+ExpansionAIRaids/Scripts/4_World/ uqbzr3ft \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\com2.c(10): Unknown type 'eAIBase'
+SCRIPT    (E): Failed to load entities script!

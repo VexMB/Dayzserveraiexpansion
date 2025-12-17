@@ -1,0 +1,17 @@
+---------------------------------------------
+Log warning_2025-12-10_20-44-22.log started at 2025-12-10 20:52:15
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-10
+20:52:15.221 [ZmbM_PatrolNormal_Base<28cb8010>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: AugShort<828893f0>)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:3003883
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213

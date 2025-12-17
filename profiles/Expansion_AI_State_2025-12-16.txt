@@ -1,0 +1,1126 @@
+State dump started at 2025-12-16 14:16:42.363
+eAI_SurvivorM_Boris:2:INSTANCETYPE_AI_SERVER<d29459b0>
+|- Name Boris
+|- Position 5328.82 351.92 8330.58
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.969777
+|  |- Volumetric fog 0.929568
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat STATIC/SPRINT
+|- Current velocity 0 m/s
+|- Group ID 11  (1 members)
+|  |- Faction Raiders
+|  |- Formation Vee IN
+|  \- Waypoints 1 ROAMING
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 50% max 80%
+|- Damage in 100% out 100%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold 0 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  |- BANDAGES
+|  |- CLOTHING_ARMBAND
+|  |- CLOTHING_BACK_LARGE
+|  |- CLOTHING_BACK_MEDIUM
+|  |- CLOTHING_BACK_SMALL
+|  |- CLOTHING_BACK
+|  |- CLOTHING_BODY
+|  |- CLOTHING_EYEWEAR
+|  |- CLOTHING_FEET
+|  |- CLOTHING_GLOVES
+|  |- CLOTHING_HEADGEAR
+|  |- CLOTHING_HIPS
+|  |- CLOTHING_LEGS
+|  |- CLOTHING_MASK
+|  |- CLOTHING_MELEE
+|  |- CLOTHING_SHOULDER
+|  |- CLOTHING_VEST
+|  |- CLOTHING
+|  |- FOOD
+|  |- UPGRADE
+|  |- DEFAULT
+|  \- ALL
+|- Unlimited reload
+|  \- ALL
+|- FSM state TraversingWaypoints
+|- Path progression 2/8
+|  |- Current point 5328.82 351.92 8330.58
+|  |  \- 2D distance to AI 0 m
+|  |- Endpoint 5226.69 341.36 8629.23
+|  |  \- 2D distance to AI 315.633 m
+|  |- Target position 5225.54 344.7 8634.74 (5225.51 345.67 8635.38)
+|  |  |- 2D distance to AI 321.218 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final false
+|  \- Is AI position final true
+|- Target look H V 49.5108° -10.5977° (static)
+|- Current look H V 85.5279° -10.5977°
+|- Target aim H V 49.5108° -10.5977° (static)
+|- Current aim H V 85.5279° -10.5977°
+|- Current absolute threat to AI 0.250432
+|- Current active threat to AI 0.0998996
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 1/2
+|- Target 0 Player Vex
+|  |- Is seen as enemy
+|  |- Is moving true
+|  |- Can be friendly false
+|  |- Is targeted false
+|  |- Absolute threat to AI 0.250432
+|  |- Active threat to AI 0.0998996
+|  |- LOS state false
+|  |- Actual position 5333.76 346.56 8027.86
+|  |- Actual distance to AI 302.805 m
+|  |- Search position 4636.16 321.1 8355.84
+|  |- Search distance to AI 693.803 m
+|  |- Found at time 13:57:36.000 UTC
+|  \- Max time 120s
+|- Target 1 Item MilitaryBoots_Black:23256<dd266590> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0.000851989
+|  |- Active threat to AI 0.000851989
+|  |- LOS state false (stale)
+|  |- Actual position 5368.51 333.26 8532.22
+|  |- Actual distance to AI 206.357 m
+|  |- Search position 5368.51 333.26 8532.22
+|  \- Search distance to AI 206.357 m
+|- Water 100% Energy 100% Heat -45.9%
+|- Health 100% Blood 100% Shock 100%
+|- Active modifiers 1
+|  \- TirednessMdfr duration 1740.827 s
+|- Item in hands TTC_HK417:23304<d6b9db90>
+|- Weapon TTC_HK417:23304<d6b9db90>
+|  |- Is chambered true
+|  |- Has attached mag TTC_HK417_Magazine_20rnd:23211<e13c0d70> (19/20)
+|  \- Ammo/mag to reload not evaluated
+|- Weapon TTC_MPX:23216<d6ba8450>
+|  |- Is chambered true
+|  |- Has attached mag TTC_MPX_Mag_30rnd:22745<e13bb580> (29/30)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 0
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 0
+|- Food 0/3
+|- Cargo space taken 21/62
+\- Items in cargo 5
+.  |- ElectronicRepairKit:23209<cc38dec0> (32.6023%)
+.  |- DuctTape:23208<cc38ead0> (90.1147%)
+.  |- Screwdriver:23226<cc38c6a0>
+.  |- CanOpener:23225<cc389660>
+.  \- ElectronicRepairKit:19782<cc387e40> (16.3137%)
+
+State dump started at 2025-12-16 14:41:08.348
+eAI_SurvivorM_Boris:2:INSTANCETYPE_AI_SERVER<d29459b0>
+|- Name Boris
+|- Position 5328.82 351.92 8330.58
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.971494
+|  |- Volumetric fog 0.927908
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat STATIC/SPRINT
+|- Current velocity 0 m/s
+|- Group ID 11  (1 members)
+|  |- Faction Raiders
+|  |- Formation Vee IN
+|  \- Waypoints 1 ROAMING
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 50% max 80%
+|- Damage in 100% out 100%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold 0 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  |- BANDAGES
+|  |- CLOTHING_ARMBAND
+|  |- CLOTHING_BACK_LARGE
+|  |- CLOTHING_BACK_MEDIUM
+|  |- CLOTHING_BACK_SMALL
+|  |- CLOTHING_BACK
+|  |- CLOTHING_BODY
+|  |- CLOTHING_EYEWEAR
+|  |- CLOTHING_FEET
+|  |- CLOTHING_GLOVES
+|  |- CLOTHING_HEADGEAR
+|  |- CLOTHING_HIPS
+|  |- CLOTHING_LEGS
+|  |- CLOTHING_MASK
+|  |- CLOTHING_MELEE
+|  |- CLOTHING_SHOULDER
+|  |- CLOTHING_VEST
+|  |- CLOTHING
+|  |- FOOD
+|  |- UPGRADE
+|  |- DEFAULT
+|  \- ALL
+|- Unlimited reload
+|  \- ALL
+|- FSM state TraversingWaypoints
+|- Path progression 2/8
+|  |- Current point 5328.82 351.92 8330.58
+|  |  \- 2D distance to AI 0 m
+|  |- Endpoint 5226.69 341.36 8629.23
+|  |  \- 2D distance to AI 315.633 m
+|  |- Target position 5225.54 344.7 8634.74 (5225.51 345.67 8635.38)
+|  |  |- 2D distance to AI 321.218 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final false
+|  \- Is AI position final true
+|- Target look H V 0° -34.7096° (static)
+|- Current look H V 155.502° -34.7096°
+|- Target aim H V 0° -34.7096° (static)
+|- Current aim H V 155.502° -34.7096°
+|- Current absolute threat to AI 0
+|- Current active threat to AI 0
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 0/0
+|- Water 100% Energy 100% Heat -39.9%
+|- Health 100% Blood 100% Shock 100%
+|- Active modifiers 1
+|  \- TirednessMdfr duration 3175.409 s
+|- Item in hands TTC_HK417:23304<d6b9db90>
+|- Weapon TTC_HK417:23304<d6b9db90>
+|  |- Is chambered true
+|  |- Has attached mag TTC_HK417_Magazine_20rnd:23211<e13c0d70> (19/20)
+|  \- Ammo/mag to reload not evaluated
+|- Weapon TTC_MPX:23216<d6ba8450>
+|  |- Is chambered true
+|  |- Has attached mag TTC_MPX_Mag_30rnd:22745<e13bb580> (29/30)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 0
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 0
+|- Food 0/3
+|- Cargo space taken 21/62
+\- Items in cargo 5
+.  |- ElectronicRepairKit:23209<cc38dec0> (32.6023%)
+.  |- DuctTape:23208<cc38ead0> (90.1147%)
+.  |- Screwdriver:23226<cc38c6a0>
+.  |- CanOpener:23225<cc389660>
+.  \- ElectronicRepairKit:19782<cc387e40> (16.3137%)
+
+State dump started at 2025-12-16 18:04:10.427
+eAI_SurvivorM_Lewis:7:INSTANCETYPE_AI_SERVER<5a3270e0>
+|- Name Lewis
+|- Position 6467.68 359.74 8486.11
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.977528
+|  |- Volumetric fog 0.929707
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat SPRINT/SPRINT
+|- Current velocity 1.378798 m/s
+|- Group ID 2  (2 members)
+|  |- Faction Mercenaries
+|  |- Formation InvVee IN
+|  \- Waypoints 1 ROAMING
+|- Is group leader false
+|- Is formation leader false
+|- Accuracy min 65% max 85%
+|- Damage in 100% out 30%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold -200 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  \- DEFAULT
+|- Unlimited reload
+|  \- ALL
+|- FSM state FollowFormation
+|- Path progression 2/2
+|  |- Current point 6466.96 359.41 8485.64
+|  |  \- 2D distance to AI 0.899911 m
+|  |- Endpoint 6466.96 359.41 8485.64
+|  |  \- 2D distance to AI 0.854546 m
+|  |- Target position 6466.96 359.41 8485.64 (6466.14 359.37 8485.08)
+|  |  |- 2D distance to AI 0.854546 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final true
+|  \- Is AI position final false
+|- Target look H V 0.00318146° -11.8124° (static)
+|- Current look H V -123.522° -11.8154°
+|- Target aim H V 0.00318146° -11.8124° (static)
+|- Current aim H V -123.526° -11.8151°
+|- Current absolute threat to AI 0
+|- Current active threat to AI 0
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 0/0
+|- Water 100% Energy 100% Heat -22%
+|- Health 100% Blood 100% Shock 100%
+|- Active modifiers 1
+|  \- TirednessMdfr duration 354.289 s
+|- Item in hands TTC_Raptr:23358<2d0d17c0>
+|- Weapon TTC_Raptr:23358<2d0d17c0>
+|  |- Is chambered true
+|  |- Has attached mag TTC_Raptr_Drum_45rnd:23301<5a956aa0> (44/45)
+|  \- Ammo/mag to reload not evaluated
+|- Weapon Colt1911:23345<2d0cd170>
+|  |- Is chambered true
+|  |- Has attached mag Mag_1911_7Rnd:23346<5a955e10> (6/7)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 1
+|  \- FarmingHoe:23300<59fb0d80>
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 2
+|  |- Ammo_762x54:23307<5732dda0> (11/100)
+|  \- Ammo_762x39Tracer:23308<57330fe0> (28/100)
+|- Food 1/5
+.  \- BoarSteakMeat:23305<57330350>
+|- Cargo space taken 14/111
+\- Items in cargo 7
+.  |- BoarSteakMeat:23305<57330350> (20.4099%)
+.  |- PersonalRadio:23306<5732d110>
+.  |- Ammo_762x54:23307<5732dda0> (11/100)
+.  |- Ammo_762x39Tracer:23308<57330fe0> (28/100)
+.  |- Paper:23309<59fb49d0>
+.  |- BrisketSpread:23311<57329ed0>
+.  \- Colt1911:23345<2d0cd170>
+
+State dump started at 2025-12-16 18:46:35.495
+eAI_SurvivorM_Seth:17:INSTANCETYPE_AI_SERVER<5e5a9020>
+|- Name Seth
+|- Position 6997.26 277.83 7249.95
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.973487
+|  |- Volumetric fog 0.926863
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat WALK/SPRINT
+|- Current velocity 1.390758 m/s
+|- Group ID 23  (2 members)
+|  |- Faction West
+|  |- Formation Star IN
+|  \- Waypoints 1 ROAMING
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 65% max 85%
+|- Damage in 100% out 30%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold -200 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  \- DEFAULT
+|- Unlimited reload
+|  \- ALL
+|- FSM state TraversingWaypoints
+|- Path progression 4/5
+|  |- Current point 6964.1 282.1 7232.4
+|  |  \- 2D distance to AI 37.5585 m
+|  |- Endpoint 6780.64 299.42 7198.33
+|  |  \- 2D distance to AI 222.68 m
+|  |- Target position 6780.64 299.42 7198.33 (6780.64 299.25 7198.33)
+|  |  |- 2D distance to AI 222.68 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final false
+|  \- Is AI position final false
+|- Target look H V 0.00109863° 6.42164° (static)
+|- Current look H V -117.892° 6.42164°
+|- Target aim H V 0.00109863° 6.42164° (static)
+|- Current aim H V -117.892° 6.42165°
+|- Current absolute threat to AI 0
+|- Current active threat to AI 0
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 0/0
+|- Water 100% Energy 100% Heat -11%
+|- Health 100% Blood 100% Shock 100%
+|- Active modifiers 1
+|  \- TirednessMdfr duration 36.015 s
+|- Item in hands TTC_HK416OD:20893<5ec969b0>
+|- Weapon TTC_HK416OD:20893<5ec969b0>
+|  |- Is chambered true
+|  |- Has attached mag TTC_DMR_556Pmag_30rnd_camo:23265<71596710> (29/30)
+|  \- Ammo/mag to reload not evaluated
+|- Weapon TTC_M14:23701<5ecaad20>
+|  |- Is chambered true
+|  |- Has attached mag TTC_M14_Mag_20rnd:19499<7159d820> (19/20)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 0
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 0
+|- Food 0/7
+|- Cargo space taken 4/144
+\- Items in cargo 2
+.  |- Wrench:19585<2ba82dc0>
+.  \- Paper:23713<2ba815a0>
+
+State dump started at 2025-12-16 18:50:52.581
+eAI_SurvivorF_Keiko:12:INSTANCETYPE_AI_SERVER<6414d020>
+|- Name Keiko
+|- Position 7752.61 404.73 8568.78
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.970473
+|  |- Volumetric fog 0.940517
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat STATIC/SPRINT
+|- Current velocity 0 m/s
+|- Group ID 25  (1 members)
+|  |- Faction Civilian
+|  |- Formation Column IN
+|  \- Waypoints 1 ROAMING
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 65% max 85%
+|- Damage in 100% out 100%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold 0 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  |- BANDAGES
+|  |- CLOTHING_ARMBAND
+|  |- CLOTHING_BACK_LARGE
+|  |- CLOTHING_BACK_MEDIUM
+|  |- CLOTHING_BACK_SMALL
+|  |- CLOTHING_BACK
+|  |- CLOTHING_BODY
+|  |- CLOTHING_EYEWEAR
+|  |- CLOTHING_FEET
+|  |- CLOTHING_GLOVES
+|  |- CLOTHING_HEADGEAR
+|  |- CLOTHING_HIPS
+|  |- CLOTHING_LEGS
+|  |- CLOTHING_MASK
+|  |- CLOTHING_MELEE
+|  |- CLOTHING_SHOULDER
+|  |- CLOTHING_VEST
+|  |- CLOTHING
+|  |- FOOD
+|  |- UPGRADE
+|  |- DEFAULT
+|  \- ALL
+|- Unlimited reload
+|  \- ALL
+|- FSM state TraversingWaypoints
+|- Path progression 2/2
+|  |- Current point 7752.61 404.73 8568.78
+|  |  \- 2D distance to AI 0 m
+|  |- Endpoint 7706.62 415.82 8686.07
+|  |  \- 2D distance to AI 125.982 m
+|  |- Target position 7706.62 415.82 8686.07 (7706.62 416.19 8686.07)
+|  |  |- 2D distance to AI 125.982 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final false
+|  \- Is AI position final true
+|- Target look H V -21.5905° 2.69996° (static)
+|- Current look H V -21.5877° 2.71165°
+|- Target aim H V -21.5905° 2.69996° (static)
+|- Current aim H V -21.5881° 2.70999°
+|- Current absolute threat to AI 0
+|- Current active threat to AI 0
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 0/0
+|- Water 100% Energy 100% Heat -7%
+|- Health 100% Blood 100% Shock 100%
+|- Active modifiers 1
+|  \- TirednessMdfr duration 24.010 s
+|- Item in hands TTC_M16A4:11941<1d2fdba0>
+|- Weapon TTC_M16A4:11941<1d2fdba0>
+|  |- Is chambered true
+|  |- Has attached mag TTC_DMR_556Stanag_30rnd:11266<65b34a00> (29/30)
+|  \- Ammo/mag to reload not evaluated
+|- Weapon TTC_M82:18612<1d3021f0>
+|  |- Is chambered true
+|  |- Has attached mag TTC_M82_5rnd_Mag:11114<65b32450> (4/5)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 1
+|  \- SledgeHammer:9376<71fe8490>
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 1
+|  \- Ammo_762x39Tracer:13746<65b330e0> (37/100)
+|- Food 0/6
+|- Cargo space taken 6/116
+\- Items in cargo 3
+.  |- BandageDressing:12333<71fec0e0> (100%)
+.  |- Pliers:13800<71fe6c70>
+.  \- Ammo_762x39Tracer:13746<65b330e0> (37/100)
+
+State dump started at 2025-12-16 18:53:00.294
+eAI_SurvivorF_Keiko:12:INSTANCETYPE_AI_SERVER<6414d020>
+|- Name Keiko
+|- Position 7752.61 404.73 8568.78
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.968936
+|  |- Volumetric fog 0.950052
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat STATIC/SPRINT
+|- Current velocity 0 m/s
+|- Group ID 25  (1 members)
+|  |- Faction Civilian
+|  |- Formation Column IN
+|  \- Waypoints 1 ROAMING
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 65% max 85%
+|- Damage in 100% out 100%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold 0 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  |- BANDAGES
+|  |- CLOTHING_ARMBAND
+|  |- CLOTHING_BACK_LARGE
+|  |- CLOTHING_BACK_MEDIUM
+|  |- CLOTHING_BACK_SMALL
+|  |- CLOTHING_BACK
+|  |- CLOTHING_BODY
+|  |- CLOTHING_EYEWEAR
+|  |- CLOTHING_FEET
+|  |- CLOTHING_GLOVES
+|  |- CLOTHING_HEADGEAR
+|  |- CLOTHING_HIPS
+|  |- CLOTHING_LEGS
+|  |- CLOTHING_MASK
+|  |- CLOTHING_MELEE
+|  |- CLOTHING_SHOULDER
+|  |- CLOTHING_VEST
+|  |- CLOTHING
+|  |- FOOD
+|  |- UPGRADE
+|  |- DEFAULT
+|  \- ALL
+|- Unlimited reload
+|  \- ALL
+|- FSM state TraversingWaypoints
+|- Path progression 2/2
+|  |- Current point 7752.61 404.73 8568.78
+|  |  \- 2D distance to AI 0 m
+|  |- Endpoint 7706.62 415.82 8686.07
+|  |  \- 2D distance to AI 125.982 m
+|  |- Target position 7706.62 415.82 8686.07 (7706.62 416.19 8686.07)
+|  |  |- 2D distance to AI 125.982 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final false
+|  \- Is AI position final true
+|- Target look H V 0° 7.19571° (static)
+|- Current look H V -4.40668° 7.19571°
+|- Target aim H V 0° 7.19571° (static)
+|- Current aim H V -4.40671° 7.19571°
+|- Current absolute threat to AI 0.0869925
+|- Current active threat to AI 0.0610681
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 1/1
+|- Target 0 Player Vex
+|  |- Is seen as enemy
+|  |- Is moving true
+|  |- Can be friendly false
+|  |- Is targeted false
+|  |- Absolute threat to AI 0.0869925
+|  |- Active threat to AI 0.0610681
+|  |- LOS state false
+|  |- Actual position 7334.34 379.85 9049.43
+|  |- Actual distance to AI 637.646 m
+|  |- Search position 7174.83 376.45 8959.28
+|  |- Search distance to AI 697.94 m
+|  |- Found at time 18:53:20.000 UTC
+|  \- Max time 120s
+|- Water 100% Energy 100% Heat -13%
+|- Health 100% Blood 100% Shock 100%
+|- Active modifiers 1
+|  \- TirednessMdfr duration 156.089 s
+|- Item in hands TTC_M16A4:11941<1d2fdba0>
+|- Weapon TTC_M16A4:11941<1d2fdba0>
+|  |- Is chambered true
+|  |- Has attached mag TTC_DMR_556Stanag_30rnd:11266<65b34a00> (29/30)
+|  \- Ammo/mag to reload not evaluated
+|- Weapon TTC_M82:18612<1d3021f0>
+|  |- Is chambered true
+|  |- Has attached mag TTC_M82_5rnd_Mag:11114<65b32450> (4/5)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 1
+|  \- SledgeHammer:9376<71fe8490>
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 1
+|  \- Ammo_762x39Tracer:13746<65b330e0> (37/100)
+|- Food 0/6
+|- Cargo space taken 6/116
+\- Items in cargo 3
+.  |- BandageDressing:12333<71fec0e0> (100%)
+.  |- Pliers:13800<71fe6c70>
+.  \- Ammo_762x39Tracer:13746<65b330e0> (37/100)
+
+State dump started at 2025-12-16 18:57:20.264
+eAI_SurvivorF_Keiko:12:INSTANCETYPE_AI_SERVER<6414d020>
+|- Name Keiko
+|- Position 7752.61 404.73 8568.78
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.966022
+|  |- Volumetric fog 0.968605
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat STATIC/SPRINT
+|- Current velocity 0 m/s
+|- Group ID 25  (1 members)
+|  |- Faction Civilian
+|  |- Formation Column IN
+|  \- Waypoints 1 ROAMING
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 65% max 85%
+|- Damage in 100% out 100%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold 0 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  |- BANDAGES
+|  |- CLOTHING_ARMBAND
+|  |- CLOTHING_BACK_LARGE
+|  |- CLOTHING_BACK_MEDIUM
+|  |- CLOTHING_BACK_SMALL
+|  |- CLOTHING_BACK
+|  |- CLOTHING_BODY
+|  |- CLOTHING_EYEWEAR
+|  |- CLOTHING_FEET
+|  |- CLOTHING_GLOVES
+|  |- CLOTHING_HEADGEAR
+|  |- CLOTHING_HIPS
+|  |- CLOTHING_LEGS
+|  |- CLOTHING_MASK
+|  |- CLOTHING_MELEE
+|  |- CLOTHING_SHOULDER
+|  |- CLOTHING_VEST
+|  |- CLOTHING
+|  |- FOOD
+|  |- UPGRADE
+|  |- DEFAULT
+|  \- ALL
+|- Unlimited reload
+|  \- ALL
+|- FSM state TraversingWaypoints
+|- Path progression 2/2
+|  |- Current point 7752.61 404.73 8568.78
+|  |  \- 2D distance to AI 0 m
+|  |- Endpoint 7706.62 415.82 8686.07
+|  |  \- 2D distance to AI 125.982 m
+|  |- Target position 7706.62 415.82 8686.07 (7706.62 416.19 8686.07)
+|  |  |- 2D distance to AI 125.982 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final false
+|  \- Is AI position final true
+|- Target look H V -21.9629° 14.9858° (static)
+|- Current look H V 167.361° 14.9858°
+|- Target aim H V -21.9629° 14.9858° (static)
+|- Current aim H V 167.361° 14.9858°
+|- Current absolute threat to AI 0.0887642
+|- Current active threat to AI 0.0866766
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 1/1
+|- Target 0 Player Vex
+|  |- Is seen as enemy
+|  |- Is moving true
+|  |- Can be friendly false
+|  |- Is targeted false
+|  |- Absolute threat to AI 0.0887642
+|  |- Active threat to AI 0.0866766
+|  |- LOS state false
+|  |- Actual position 7470.37 399.15 9127.49
+|  |- Actual distance to AI 625.981 m
+|  |- Search position 7174.83 376.45 8959.28
+|  |- Search distance to AI 697.94 m
+|  |- Found at time 18:53:20.000 UTC
+|  \- Max time 120s
+|- Water 100% Energy 100% Heat -13%
+|- Health 100% Blood 100% Shock 100%
+|- Active modifiers 1
+|  \- TirednessMdfr duration 414.235 s
+|- Item in hands TTC_M16A4:11941<1d2fdba0>
+|- Weapon TTC_M16A4:11941<1d2fdba0>
+|  |- Is chambered true
+|  |- Has attached mag TTC_DMR_556Stanag_30rnd:11266<65b34a00> (29/30)
+|  \- Ammo/mag to reload not evaluated
+|- Weapon TTC_M82:18612<1d3021f0>
+|  |- Is chambered true
+|  |- Has attached mag TTC_M82_5rnd_Mag:11114<65b32450> (4/5)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 1
+|  \- SledgeHammer:9376<71fe8490>
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 1
+|  \- Ammo_762x39Tracer:13746<65b330e0> (37/100)
+|- Food 0/6
+|- Cargo space taken 6/116
+\- Items in cargo 3
+.  |- BandageDressing:12333<71fec0e0> (100%)
+.  |- Pliers:13800<71fe6c70>
+.  \- Ammo_762x39Tracer:13746<65b330e0> (37/100)
+
+State dump started at 2025-12-16 19:06:13.184
+eAI_SurvivorM_Mirek:3:INSTANCETYPE_AI_SERVER<72164020>
+|- Name Mirek
+|- Position 7991.04 461.3 9201.28
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.979947
+|  |- Volumetric fog 0.973821
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat STATIC/SPRINT
+|- Current velocity 0 m/s
+|- Group ID 26  (1 members)
+|  |- Faction Civilian
+|  |- Formation Wall IN
+|  \- Waypoints 1 ROAMING
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 65% max 85%
+|- Damage in 100% out 100%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold 0 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  |- BANDAGES
+|  |- CLOTHING_ARMBAND
+|  |- CLOTHING_BACK_LARGE
+|  |- CLOTHING_BACK_MEDIUM
+|  |- CLOTHING_BACK_SMALL
+|  |- CLOTHING_BACK
+|  |- CLOTHING_BODY
+|  |- CLOTHING_EYEWEAR
+|  |- CLOTHING_FEET
+|  |- CLOTHING_GLOVES
+|  |- CLOTHING_HEADGEAR
+|  |- CLOTHING_HIPS
+|  |- CLOTHING_LEGS
+|  |- CLOTHING_MASK
+|  |- CLOTHING_MELEE
+|  |- CLOTHING_SHOULDER
+|  |- CLOTHING_VEST
+|  |- CLOTHING
+|  |- FOOD
+|  |- UPGRADE
+|  |- DEFAULT
+|  \- ALL
+|- Unlimited reload
+|  \- ALL
+|- FSM state TraversingWaypoints
+|- Path progression 2/15
+|  |- Current point 7991.04 461.3 9201.28
+|  |  \- 2D distance to AI 0 m
+|  |- Endpoint 8074.9 459.3 9311.7
+|  |  \- 2D distance to AI 138.656 m
+|  |- Target position 8075.2 463 9312.72 (8075.2 463.56 9312.72)
+|  |  |- 2D distance to AI 139.652 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final false
+|  \- Is AI position final true
+|- Target look H V 0° -35.0079° (static)
+|- Current look H V -29.0343° -35.0079°
+|- Target aim H V 0° -35.0079° (static)
+|- Current aim H V -29.0343° -35.0079°
+|- Current absolute threat to AI 0.0983152
+|- Current active threat to AI 0.134753
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 1/4
+|- Target 0 Player Vex
+|  |- Is seen as enemy
+|  |- Is moving true
+|  |- Can be friendly false
+|  |- Is targeted false
+|  |- Absolute threat to AI 0.0983152
+|  |- Active threat to AI 0.134753
+|  |- LOS state false
+|  |- Actual position 8079.62 450.32 9416.86
+|  |- Actual distance to AI 233.33 m
+|  |- Search position 8071.29 456.21 9353.66
+|  |- Search distance to AI 172.296 m
+|  |- Found at time 19:02:08.000 UTC
+|  \- Max time 120s
+|- Target 1 Item HikingBootsLow_Grey:5508<67cbadc0> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0.0151354
+|  |- Active threat to AI 0.0151354
+|  |- LOS state false (stale)
+|  |- Actual position 8070.99 456.53 9353.02
+|  |- Actual distance to AI 171.578 m
+|  |- Search position 8070.99 456.53 9353.02
+|  \- Search distance to AI 171.578 m
+|- Target 2 Item AKS74U:23430<5eca74e0> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0.0152928
+|  |- Active threat to AI 0.0152928
+|  |- LOS state false (stale)
+|  |- Actual position 8071.01 456.27 9352.78
+|  |- Actual distance to AI 171.384 m
+|  |- Search position 8071.01 456.27 9352.78
+|  \- Search distance to AI 171.384 m
+|- Target 3 Item PressVest_Blue:7823<67cbd370> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0.0151354
+|  |- Active threat to AI 0.0151354
+|  |- LOS state false (stale)
+|  |- Actual position 8070.99 456.53 9353.02
+|  |- Actual distance to AI 171.578 m
+|  |- Search position 8070.99 456.53 9353.02
+|  \- Search distance to AI 171.578 m
+|- Water 100% Energy 100% Heat -19.9%
+|- Health 100% Blood 100% Shock 100%
+|- Active modifiers 1
+|  \- TirednessMdfr duration 798.356 s
+|- Item in hands TTC_P320:24162<2bb09060>
+|- Weapon PP19:24164<2bb0d6b0>
+|  |- Is chambered true
+|  |- Has attached mag Mag_PP19_64Rnd:24165<73da0910> (63/64)
+|  \- Ammo/mag to reload not evaluated
+|- Weapon TTC_P320:24162<2bb09060>
+|  |- Is chambered true
+|  |- Has attached mag TTC_P320_17Rnd:24163<73d9b120> (16/17)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 0
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 2
+|  |- Ammo_308WinTracer:24170<73da15a0> (28/100)
+|  \- Ammo_762x54Tracer:24171<73da2ec0> (32/100)
+|- Food 0/6
+|- Cargo space taken 8/118
+\- Items in cargo 5
+.  |- Matchbox:24167<72020d40> (66.7983%)
+.  |- Pliers:24168<72021950>
+.  |- BandageDressing:24169<72023d80> (100%)
+.  |- Ammo_308WinTracer:24170<73da15a0> (28/100)
+.  \- Ammo_762x54Tracer:24171<73da2ec0> (32/100)
+
+State dump started at 2025-12-16 23:33:52.584
+eAI_SurvivorM_Francis:21:INSTANCETYPE_AI_SERVER<6811c000>
+|- Name Francis
+|- Position 3831.4 233.77 12450.7
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.978888
+|  |- Volumetric fog 0.947342
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat WALK/SPRINT
+|- Current velocity 1.371904 m/s
+|- Group ID 31  (2 members)
+|  |- Faction Civilian
+|  |- Formation Star IN
+|  \- Waypoints 1 ROAMING
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 55% max 80%
+|- Damage in 100% out 30%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 1000 m
+|- Sniper prone distance threshold -200 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  \- DEFAULT
+|- Unlimited reload
+|  \- ALL
+|- FSM state TraversingWaypoints
+|- Path progression 3/5
+|  |- Current point 3786.28 231.86 12452.5
+|  |  \- 2D distance to AI 45.2021 m
+|  |- Endpoint 3577.4 229.8 12456.5
+|  |  \- 2D distance to AI 254.066 m
+|  |- Target position 3368.86 220.09 12468.9 (3368.86 220.01 12468.9)
+|  |  |- 2D distance to AI 462.901 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final false
+|  \- Is AI position final false
+|- Target look H V -0.000610352° -2.19229° (static)
+|- Current look H V -87.6779° -2.19229°
+|- Target aim H V -0.000610352° -2.19229° (static)
+|- Current aim H V -87.6779° -2.19229°
+|- Current absolute threat to AI 0
+|- Current active threat to AI 0
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 0/0
+|- Water 100% Energy 100% Heat -9%
+|- Health 100% Blood 100% Shock 100%
+|- Active modifiers 1
+|  \- TirednessMdfr duration 30.035 s
+|- Item in hands M4A1:23433<6e00e1f0>
+|- Weapon TTC_M1A_Black:8556<6e012840>
+|  |- Is chambered true
+|  |- Has attached mag TTC_M14_Mag_20rnd:23496<67da43a0> (19/20)
+|  \- Ammo/mag to reload not evaluated
+|- Weapon M4A1:23433<6e00e1f0>
+|  |- Is chambered true
+|  |- Has attached mag Mag_STANAG_30Rnd:7700<67d954f0> (29/30)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 0
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 0
+|- Food 0/3
+|- Cargo space taken 11/68
+\- Items in cargo 5
+.  |- ZagorkyPeanuts:5992<67d97aa0> (100%)
+.  |- Honey:4902<67d993c0> (100%)
+.  |- BloodTestKit:19546<773e1960>
+.  |- TTC_AmmoBox_3006_20Rnd:12979<773e2570>
+.  \- WaterBottle:13026<67d98730> (54.7981%)

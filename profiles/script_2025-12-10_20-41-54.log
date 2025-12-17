@@ -1,0 +1,619 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\script_2025-12-10_20-41-54.log started at 10.12. 20:41:54
+
+SCRIPT       : Registered 444 temporary action enum(s), UAN==444
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,35": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,54": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSib_police// // / ,35": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"HelicopterSib_police// // / ,54": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"MedicalAttention/Core/3_Game/enums\ma_agents.c,15": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"MedicalAttention/Core/3_Game/enums\ma_agents.c,16": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"MedicalAttention/Core/3_Game/enums\ma_agents.c,17": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"Nine\compass\scripts\3_Game/ninerpc.c,3": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"Nine\compass\scripts\3_Game/json\nine_config.c,75": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,47": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,48": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,49": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,50": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,51": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,52": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,53": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZolblU q/ psEyOkiZ/1bpUDC5n/﻿﻿﻿﻿/WoYVIPPp/ hE9rsO9/HTChFTXO.UJDTcQlB,54": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,47": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,48": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,49": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,50": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,51": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,52": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,53": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/GX2Ioyf7/ tqI rgBg/00uwED c/﻿﻿﻿﻿/cajP5ut0/U679vyRl/m0pEh8 i.PPRtsJJS,54": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,64": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,65": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,66": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,67": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,68": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,69": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,70": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,71": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,72": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/xPgI7zh7/  Xstwfhw/ MwfSMS /﻿﻿﻿﻿/L1Ev8Uty/mAUvXay1/dO mFxc . yWZSUJB,73": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/KQgaX42x/ pfC dEor/089toQBs/﻿﻿﻿﻿/BFArY82B/GyXEadgJ/4ZsZRHQb.xuvnaINC,24": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/KQgaX42x/ pfC dEor/089toQBs/﻿﻿﻿﻿/BFArY82B/GyXEadgJ/4ZsZRHQb.xuvnaINC,25": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HelicopterSib_police// // / ,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HelicopterSib_police// // / ,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HelicopterSib_police// // / ,44": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,305": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,447": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,453": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/gui\basicmapmenu.c,556": FIX-ME: Overriding function 'LockControls' but not marked as 'override'
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~Serializer' is private
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": FIX-ME: Strong ref to 'PlayerIdentity' class is not allowed
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~PlayerIdentityBase' is private
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": FIX-ME: Strong ref to 'Object' class is not allowed
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~Object' is private
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~Serializer' is private
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": FIX-ME: Strong ref to 'PlayerIdentity' class is not allowed
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~PlayerIdentityBase' is private
+SCRIPT    (W): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": FIX-ME: Strong ref to 'Object' class is not allowed
+SCRIPT    (E): @"Gunner_SIB/3_Game/з*јЪуУў.p3d,41": Method '~Object' is private
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionBrawlers ID 1955753718
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : 20:41:58.000 [EXPANSION LOG]: DayZGame<51df3100> Start time (local time) 2025-12-10 20:41:45
+SCRIPT       : 20:41:58.000 [EXPANSION LOG]: DayZGame<51df3100> Start time (UTC) 2025-12-10 20:41:45
+SCRIPT       : 20:41:58.000 [EXPANSION LOG]: DayZGame<51df3100> Runtime since start (seconds) 13.092
+SCRIPT    (W): @"FirstAidKit/scripts/4_World/entities\itembase\gear\containers\containers.c,14": Missing ';' at the end of line
+SCRIPT    (W): @"Gunner_SIB/4_World/л*ФѐўсђРуб.rvmat,17": Missing ';' at the end of line
+SCRIPT    (W): @"Nine\compass\scripts\4_World/compasshud.c,84": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"Nine\compass\scripts\4_World/watcheshud.c,335": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"TF_UAZ5131/scripts/4_World/uaz3151.c,598": Missing ';' at the end of line
+SCRIPT    (W): @"TF_UAZ5131/scripts/4_World/uaz3151.c,598": FIX-ME: Syntax error
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3704": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3707": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3710": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3713": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3716": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3719": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3722": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3725": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4048": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4051": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4054": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4057": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4060": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4063": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4066": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,4069": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,40": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,42": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"dynamichelicopters/fdjYC Qh/ OgtLwuk4/ orhzyEL/﻿/r2OeIWn /equpMB m/9hPpyqjr.DB Gq k ,45": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"AIWarZones/scripts/4_World/smokeeffect.c,1": Forward declarations are deprecated!
+SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/static\miscgameplayfunctions.c,6": FIX-ME: Overriding function 'IsInsideCar' but not marked as 'override'
+SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,8": FIX-ME: Overriding function 'IsCabinCanManipulate' but not marked as 'override'
+SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,13": FIX-ME: Overriding function 'GetCabinAnimationSource' but not marked as 'override'
+SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,18": FIX-ME: Overriding function 'IsCabinRised' but not marked as 'override'
+SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,23": FIX-ME: Overriding function 'IsPassengersInCabin' but not marked as 'override'
+SCRIPT    (W): @"tractor_UMZ_RUS\scripts\4_World/carscript.c,4": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"HelicopterModScripts// // / ,321": FIX-ME: Overriding function 'GetCameraHeight' but not marked as 'override'
+SCRIPT    (W): @"HelicopterModScripts// // / ,1701": FIX-ME: Overloaded method 'EOnSimulate', argument name 'owner' differs from prototype 'other'
+SCRIPT    (W): @"mmg_storage/scripts/4_World/classes\base_class\mmg_storage_openable_nolock.c,225": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"HelicopterRF_chinook/4_World/chinook_crate.c,61": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"mmg_storage/scripts/4_World/classes\base_class\mmg_storage_openable.c,260": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"Sibnic/UH1D// // / ,101": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'igeezkdfy' differs from prototype 'maxAllowedObjHeight'
+SCRIPT    (W): @"Sibnic/UH1D// // / ,101": FIX-ME: Overloaded method 'IsAreaAtDoorFree#69810', argument name 'ouesymisi' differs from prototype 'horizontalExtents'
+SCRIPT    (W): @"mmg_storage/scripts/4_World/classes\gun_rack\lockable\mmg_lockable_gun_rack_base.c,14": FIX-ME: Overriding function 'GetSoundOpen' but not marked as 'override'
+SCRIPT    (W): @"mmg_storage/scripts/4_World/classes\gun_rack\lockable\mmg_lockable_gun_rack_base.c,19": FIX-ME: Overriding function 'GetSoundClose' but not marked as 'override'
+SCRIPT    (W): @"CompassHH/scripts/4_World/Classes/UserActionsComponent/Actions/SingleUse/аСж?ибУшё.wss,3": FIX-ME: Overriding function 'SetCloseAnimation' but not marked as 'override'
+SCRIPT    (W): @"mmg_storage/scripts/4_World/garden\mmg_gardening_base.c,136": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"Sibnic/UH1D// // / ,1023": FIX-ME: Unsafe down-casting, use 'HeliSIB_black_hawk_base.Cast' for safe down-casting
+SCRIPT    (W): @"Nine\compass\scripts\4_World/watcheshud.c,343": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"Helicopter_apache/4_World/helicopter.c,478": FIX-ME: Unsafe down-casting, use 'Heli_apache_base.Cast' for safe down-casting
+SCRIPT    (W): @"BaseFortifications/scripts/4_World/actions\actiondeploybasefortificationkits.c,11": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"dynamichelicopters/ZGqr4Lak/ 2IEWn7cF/tyhGLMGm/﻿﻿﻿﻿/zjwZnlHM/6knrTOoW/0f5 CCTh.PFJE  xR,3135": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"KnockKnockAI/scripts/4_World/player.c,70": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"KnockKnockAI/scripts/4_World/player.c,75": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"KnockKnockAI/scripts/4_World/player.c,79": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
+SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT    (W): @"Gunner_SIB/5_Mission/*ќфњ.fxy,54": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Gunner_SIB/5_Mission/*ќфњ.fxy,54": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Gunner_SIB/5_Mission/*ќфњ.fxy,54": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Gunner_SIB/5_Mission/?цёссјїѓ.ogg,5": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Gunner_SIB/5_Mission/?цёссјїѓ.ogg,5": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Gunner_SIB/5_Mission/?цёссјїѓ.ogg,5": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"HelicopterSib_police// // / ,54": FIX-ME: Overriding function 'obnul_conf35' but not marked as 'override'
+SCRIPT    (W): @"UH1D_Medic/5_Mission/vert.c,54": FIX-ME: Overriding function 'obnul_conf35' but not marked as 'override'
+SCRIPT    (W): @"UH1D_Medic/5_Mission/vert.c,69": FIX-ME: Overriding function 'vert_conf_UH1D' but not marked as 'override'
+SCRIPT    (W): @"SimpleAutorun/Mission/autorunmodule.c,100": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleAutorun/Mission/autorunmodule.c,240": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleAutorun/Mission/autorunmodule.c,240": FIX-ME: Overloaded function 'OnRPC#1158064', argument 'ctx' is not compatible with prototype argument type or spec 'Serializer'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'year'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'month'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'day'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'hour'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'minute'
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : 20:42:29.500 [EXPANSION DEBUG]: [ExpansionCoreSettings] Load existing setting file:$profile:ExpansionMod\Settings\CoreSettings.json
+SCRIPT       : 20:42:29.501 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 20:42:29.502 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 20:42:29.502 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 20:42:29.502 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 20:42:29.503 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : 20:42:29.503 [EXPANSION DEBUG]: [ExpansionHardlineSettings] Load existing setting file:$mission:expansion\settings\HardlineSettings.json
+SCRIPT       : 20:42:29.514 [EXPANSION DEBUG]: [ExpansionMarketSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (Ammo_Boxes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (Armbands)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (Bandanas)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (Batteries)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (Bayonets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (Blouses_And_Suits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (Boats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (Boots_And_Shoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (Caps)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (Coats_And_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (Containers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (Crossbows)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (Drinks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (Electronics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (Event)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (Explosives_And_Grenades)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (Eyewear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (Fish)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (Fishing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (Flags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (Food)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (Fruit_And_Vegetables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (Furnishings)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (Gardening)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (Ghillies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (Hats_And_Hoods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (Holsters_And_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (Kits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (Knifes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (Launchers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (Lights)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (Liquids)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (Locks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (Magazines)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (Meat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Melee_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Muzzles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Navigation)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (Pants_And_Shorts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (Shirts_And_TShirts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (Skirts_And_Dresses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (Sniper_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (Spraycans)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (Submachine_Guns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (Sweaters_And_Hoodies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Tents)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 65 (Tools)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 66 (Vehicle_Parts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 67 (Vests)
+SCRIPT       : 20:42:29.627 [EXPANSION DEBUG]: [ExpansionAirdropSettings] Load existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json
+SCRIPT       : 20:42:30.035 [EXPANSION DEBUG]: [ExpansionMissionSettings] Load existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json
+SCRIPT       : 20:42:30.036 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MapSettings.json
+SCRIPT       : 20:42:30.046 [EXPANSION DEBUG]: [ExpansionPersonalStorageNewSettings] Load existing setting file:$profile:ExpansionMod\Settings\PersonalStorageNewSettings.json
+SCRIPT       : 20:42:30.047 [EXPANSION DEBUG]: [ExpansionGeneralSettings] Load existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json
+SCRIPT       : 20:42:30.048 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] Load existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json
+SCRIPT       : 20:42:30.048 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] Load existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json
+SCRIPT       : 20:42:30.048 [EXPANSION DEBUG]: [ExpansionSpawnSettings] Load existing setting file:$mission:expansion\settings\SpawnSettings.json
+SCRIPT       : 20:42:30.050 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : 20:42:30.051 [EXPANSION DEBUG]: ExpansionAILocationSettings<bcf8db90> Load existing setting file:$mission:expansion\settings\AILocationSettings.json
+SCRIPT       : 20:42:30.199 [EXPANSION DEBUG]: [ExpansionAISettings] Load existing setting file:$profile:ExpansionMod\Settings\AISettings.json
+SCRIPT       : 20:42:30.200 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] Load existing setting file:$mission:expansion\settings\AIPatrolSettings.json
+SCRIPT       : 20:42:30.207 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 20:42:30.207 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 20:42:30.208 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : 20:42:30.211 [EXPANSION DEBUG]: [ExpansionChatSettings] Load existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json
+SCRIPT       : Expansion version: 1.9.49
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGARAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODHARDLINE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODKILLFEED is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODP2PMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODPERSONALSTORAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODQUESTS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODSPAWNSELECTION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : CarCoverDefines
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Garage_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_Hardline_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_P2PMarket_Preload
+SCRIPT       : DZ_Expansion_PersonalStorage_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : MedicalAttention_Core_Preload
+SCRIPT       : MedicalAttention_Preload
+SCRIPT       : BasicMapDefine
+SCRIPT       : BuilderItems_Scripts
+SCRIPT       : DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : sakhal
+SCRIPT       : EarPlugs
+SCRIPT       : ExpansionAIRaids
+SCRIPT       : FirstAidKit
+SCRIPT       : GCGN_Guns
+SCRIPT       : Gos_nomer_Rusforma
+SCRIPT       : Gunner_SIB
+SCRIPT       : Guns_CFG
+SCRIPT       : HelicopterModScriptsSIB
+SCRIPT       : HelicopterRF_chinook
+SCRIPT       : HelicopterRF_chinook_tan
+SCRIPT       : HelicopterModRF_little_bird
+SCRIPT       : HelicopterModSIB_black_hawk
+SCRIPT       : HelicopterModSIB_police
+SCRIPT       : Helipolice_admin
+SCRIPT       : Helipolice_admin_camo
+SCRIPT       : Helipolice_admin_green
+SCRIPT       : Helipolice_green
+SCRIPT       : Helipolice_Gold
+SCRIPT       : Helipolice_raid
+SCRIPT       : Helipolice_urban
+SCRIPT       : HeliSIB_UH1D_camo
+SCRIPT       : HeliSIB_UH1D_taxi
+SCRIPT       : InediaInfectedAI
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : DZ_MagObfuscation
+SCRIPT       : MedicalAttention_Core
+SCRIPT       : MedicalAttention_Scripts
+SCRIPT       : mm_helmets
+SCRIPT       : mm_masks
+SCRIPT       : mm_pants
+SCRIPT       : mm_shirts
+SCRIPT       : mm_various
+SCRIPT       : mm_vests
+SCRIPT       : mmg_storage
+SCRIPT       : CompassNine
+SCRIPT       : RealisticSuppressors
+SCRIPT       : RealisticWeapons
+SCRIPT       : ServerPanel
+SCRIPT       : HelicopterModSIBMI35
+SCRIPT       : HelicopterModSIBUH1D2
+SCRIPT       : SimpleAutorun
+SCRIPT       : SNAFU_Guns
+SCRIPT       : SNAFU_Guns_01
+SCRIPT       : SNAFU_Guns_02CFG
+SCRIPT       : SNAFU_Guns_03_CFG
+SCRIPT       : SNAFU_Guns_05
+SCRIPT       : SNAFU_Guns_06
+SCRIPT       : SNAFU_Scopes
+SCRIPT       : SNAFU_Scripts
+SCRIPT       : SNAFU_WW2
+SCRIPT       : UH1D_Medic
+SCRIPT       : AVPPAdminTools
+SCRIPT       : WindstrideClothing
+SCRIPT       : FlipTransport
+SCRIPT       : ZenSleep
+SCRIPT       : BasicMap
+SCRIPT       : Blackhawk_BlueCamo
+SCRIPT       : Blackhawk_camo2
+SCRIPT       : Blackhawk_desert
+SCRIPT       : CarCover
+SCRIPT       : CompassHH
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : EUgear
+SCRIPT       : Helichinook_RF_black
+SCRIPT       : Helichinook_RF_civ
+SCRIPT       : Helichinook_RF_USA
+SCRIPT       : HelicopterMod_apache
+SCRIPT       : Helicopter_apache_black
+SCRIPT       : Heli_apache_black
+SCRIPT       : Helicopter_apache_green
+SCRIPT       : JillsCollection
+SCRIPT       : mm_backpacks
+SCRIPT       : TF_UAZ5131
+SCRIPT       : A3_UI_F
+SCRIPT       : artillery_tractor
+SCRIPT       : AZLK_2141RF
+SCRIPT       : azlk_400
+SCRIPT       : BRDM2_RF
+SCRIPT       : BTR_80
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Garage
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_P2PMarket
+SCRIPT       : DZ_Expansion_PersonalStorage
+SCRIPT       : DZ_Expansion_PersonalStorageNew
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : dodge_power_wagonrus
+SCRIPT       : F1_Pickup
+SCRIPT       : GAZ21_Volga
+SCRIPT       : GAZ_12
+SCRIPT       : GAZ_13_Chaika
+SCRIPT       : Gaz_233002_Tiger
+SCRIPT       : GAZ_3110_volga
+SCRIPT       : GAZ_33081
+SCRIPT       : gaz_51
+SCRIPT       : Gaz_53RF
+SCRIPT       : GAZ_66
+SCRIPT       : GAZ_69_rus
+SCRIPT       : GAZ_M20
+SCRIPT       : IJ_2125_Kombi
+SCRIPT       : ij_2715_RF
+SCRIPT       : kamaz_4310RUS
+SCRIPT       : KAVZ685_RF
+SCRIPT       : kraz_255B
+SCRIPT       : KubanG1
+SCRIPT       : Niva2329
+SCRIPT       : LIAZ_677RF
+SCRIPT       : LUAZ_969
+SCRIPT       : moskvich_407
+SCRIPT       : MTLB_RF
+SCRIPT       : PAZ_672
+SCRIPT       : tractor_UMZ_RUS
+SCRIPT       : UAZ_27722_mchs
+SCRIPT       : UAZ_31519_Police
+SCRIPT       : UAZ_3163
+SCRIPT       : UAZ_3172
+SCRIPT       : UAZ_33094
+SCRIPT       : UAZ_3962
+SCRIPT       : UAZ_469_army
+SCRIPT       : UAZ_469_Hunter
+SCRIPT       : UAZ_469_milicia
+SCRIPT       : UAZ_Patrot_Pikap
+SCRIPT       : URAL_375_1964
+SCRIPT       : VAZ_2104RF
+SCRIPT       : VAZ_2105_RUS
+SCRIPT       : vaz_2106_RF
+SCRIPT       : VAZ_2107RF
+SCRIPT       : VAZ_21099R
+SCRIPT       : VAZ_2109_RF
+SCRIPT       : VBL
+SCRIPT       : Volkswagen_Golf_RUS
+SCRIPT       : ZAZ_965
+SCRIPT       : ZAZ_968
+SCRIPT       : ZAZ_968M
+SCRIPT       : ZIL133_double
+SCRIPT       : ZIL_130
+SCRIPT       : ZIL_130_ac40
+SCRIPT       : ZIL_131
+SCRIPT       : ZIL_157_rus
+SCRIPT       : IJ_2140_SL
+SCRIPT       : Base_Fortifications_Base
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Hardline
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : DZ_Expansion_VirtualContainerStorage
+SCRIPT       : DynamicHelicopters
+SCRIPT       : KnockKnockAI
+SCRIPT       : AIWarZones
+SCRIPT       : [Nine] 'Nine_Settings' found, loading
+SCRIPT       : 10.12.2025 20:42:30 [ServerPanelLogger]: Switching to logfile: $profile:/ServerPanel/Logs/ServerPanel_10-12-2025_20-42-30.log
+SCRIPT       : [ServerPanel] 'ServerPanelConfigManager' Configuration file found...
+SCRIPT       : [ServerPanel] 'ServerPanelConfigManager' Configuration loaded.
+SCRIPT       : [BasicMap] Init Server
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT    (E): [::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:BasicMap\ServerMarkers.json":
+JSON ERROR:
+The document is empty.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+BasicMap/scripts/3_Game/basicmapcontroller.c:168 Function LoadServerMarkers
+BasicMap/scripts/3_Game/basicmapcontroller.c:44 Function Init
+BasicMap/scripts/5_Mission/mission\missionserver.c:4 Function MissionServer@4396#1
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+SCRIPT       : [MedicalAttention] config.txt >> Tiredness					= 0
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> 	TireTime (minutes)			= 210
+SCRIPT       : [MedicalAttention] config.txt >> 	EyeClosingPoint  (percent)		= 19
+SCRIPT       : [MedicalAttention] config.txt >> 	TextReports				= 0
+SCRIPT       : [MedicalAttention] config.txt >> 	EnergizingDrinkGain (percent)		= 20
+SCRIPT       : [MedicalAttention] config.txt >> 	EnergizingDrinkClass			= SodaCan_Cola
+SCRIPT       : [MedicalAttention] config.txt >> 	EnergizingDrinkClass			= SodaCan_Pipsi
+SCRIPT       : [MedicalAttention] config.txt >> 	EnergizingDrinkClass			= SodaCan_Spite
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> 	SleepingBagClass = MediumTent
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> 	SleepingDOF				= 0
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> ZombieBleedChance (percent)			= 20
+SCRIPT       : [MedicalAttention] config.txt >> ZombieSalmonellaChance (percent)		= 5
+SCRIPT       : [MedicalAttention] config.txt >> WoundInfectionChance (percent)			= 15
+SCRIPT       : [MedicalAttention] config.txt >> ZombieArmFractureChance (percent)		= 33
+SCRIPT       : [MedicalAttention] config.txt >> FeverActive					= 1
+SCRIPT       : [MedicalAttention] config.txt >> BrainDisease					= 1
+SCRIPT       : [MedicalAttention] config.txt >> AntibioticsStrength				= 4
+SCRIPT       : [MedicalAttention] config.txt >> SalineBloodRegen				= 0
+SCRIPT       : [MedicalAttention] config.txt >> TestBloodSelf					= 1
+SCRIPT       : [MedicalAttention] config.txt >> TestBloodTarget					= 1
+SCRIPT       : [MedicalAttention] config.txt >> TestBloodToxin					= 1
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> AlcoholicDrinkClass				= SodaCan_Kvass
+SCRIPT       : [MedicalAttention] config.txt >> AlcoholicDrinkClass				= DisinfectantAlcohol = 3.5
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> AlcoholicLiquid				= Beer
+SCRIPT       : [MedicalAttention] config.txt >> AlcoholicLiquid				= Vodka = 2
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> ZoneType = Biohazard
+SCRIPT       : [MedicalAttention] config.txt >> ZoneChance (percent) = 100
+SCRIPT       : [MedicalAttention] config.txt >> Active
+SCRIPT       : [MedicalAttention] config.txt >> ZoneCenter (X Y Z) = 1695.40 0 14042.22
+SCRIPT       : [MedicalAttention] config.txt >> ZoneRadiusMin = 675
+SCRIPT       : [MedicalAttention] config.txt >> ZoneRadiusMax = 725
+SCRIPT       : [MedicalAttention] config.txt >> Random zone radius 683.754
+SCRIPT       : [MedicalAttention] config.txt >> ZoneMsgIn = CAUTION: YOU ARE IN A BIOHAZARD ZONE
+SCRIPT       : [MedicalAttention] config.txt >> ZoneMsgOut = YOU LEFT THE BIOHAZARD ZONE
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> ToxinAccumulationTimeMin = 5
+SCRIPT       : [MedicalAttention] config.txt >> ToxinAccumulationTimeMax = 60
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = NBCBootsGray = 10
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = NBCGlovesGray = 10
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = NBCHoodGray = 10
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = NBCJacketGray = 20
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = NBCPantsGray = 20
+SCRIPT       : [MedicalAttention] config.txt >> 
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = GP5GasMask = 150 = 1
+SCRIPT       : [MedicalAttention] config.txt >> ProtectionSuit = GasMask = 150 = 1
+SCRIPT       : cxcxcx CallFunction 
+SCRIPT       : [ExpansionAIRaids] MissionServer OnInit called
+SCRIPT       : [ExpansionAIRaids] Server detected, initializing AI Raids Manager...
+SCRIPT       : [ExpansionAIRaidsSettings] Constructor called
+SCRIPT       : [ExpansionAIRaidsSettings] Loading settings...
+SCRIPT       : [ExpansionAIRaidsSettings] Settings file exists, loading: $profile:ExpansionMod/Settings/AIRaidSettings.json
+SCRIPT       : [ExpansionAIRaidsSettings] Detected Version 1 config - upgrading to Version 2
+SCRIPT       : [ExpansionAIRaidsSettings] Adding new ExtraAICountPerPlayer setting while keeping existing values
+SCRIPT       : [ExpansionAIRaidsSettings] Saving settings to: $profile:ExpansionMod/Settings/AIRaidSettings.json
+SCRIPT       : [ExpansionAIRaidsSettings] Config successfully upgraded from Version 1 to Version 2
+SCRIPT       : [ExpansionAIRaidsSettings] New setting: ExtraAICountPerPlayer = 2
+SCRIPT       : [ExpansionAIRaidsSettings] Settings loaded. Enabled: true, RaidChance: 0.5, ExtraAICountPerPlayer: 2
+SCRIPT       : [ExpansionAIRaidsManager] Settings loaded - Enabled: true
+SCRIPT       : [ExpansionAIRaidsManager] Constructor completed successfully
+SCRIPT       : [ExpansionAIRaids] AI Raids system successfully initialized on server
+SCRIPT       : cxcxcx CallFunction 0
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [AYSA] [KNOCK KNOCK AI] 
+SCRIPT       : [AYSA] ----- Loading cfg -----
+SCRIPT       : [AYSA] --------------
+SCRIPT       : [AYSA] [KNOCK KNOCK AI] enabled
+SCRIPT       : [AYSA] --------------
+SCRIPT       : [AYSA] [AI WAR ZONES] 
+SCRIPT       : [AYSA] ----- Loading cfg -----
+SCRIPT       : [AYSA] [AI WAR ZONES] --> config loaded, zone count: 6
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[0]: The Battle Of Berezino
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[1]: The Raid At Vybor
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[2]: Situation at Krasnostav PD
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[3]: Chernogorsk PD Raid
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[4]: Electro Street Fights
+SCRIPT       : [AYSA] [AI WAR ZONES] --> Zone[5]: The Fight For Control - NWAF
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'BathtubBallersTest'
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<cde66bc0>
+SCRIPT       : int worth =   1
+SCRIPT       : ExpansionZonePolygon<ad40ac0> position=<12015.854492, 0.000000, 12591.097656> radius=419.633
+SCRIPT       : ExpansionZoneCircle<4e6daa50> position=<1143.140015, 0.000000, 2423.270020> radius=700
+SCRIPT       : ExpansionZoneCircle<4e6db230> position=<3728.270020, 0.000000, 6003.600098> radius=500
+SCRIPT       : Found 3 zones!
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : [ExpansionAIRaidsManager] Running raid check cycle...
+SCRIPT       : [ExpansionAIRaidsManager] CheckForNewRaids called
+SCRIPT       : [ExpansionAIRaidsManager] Starting raid check for all online players...
+SCRIPT       : [ExpansionAIRaidsManager] Found 0 online players
+SCRIPT       : [ExpansionAIRaidsManager] No players online, skipping raid checks
+SCRIPT       : [ExpansionAIRaidsManager] Running raid check cycle...
+SCRIPT       : [ExpansionAIRaidsManager] CheckForNewRaids called
+SCRIPT       : [ExpansionAIRaidsManager] Starting raid check for all online players...
+SCRIPT       : [ExpansionAIRaidsManager] Found 0 online players
+SCRIPT       : [ExpansionAIRaidsManager] No players online, skipping raid checks
+SCRIPT       : [ExpansionAIRaidsManager] Running raid check cycle...
+SCRIPT       : [ExpansionAIRaidsManager] CheckForNewRaids called
+SCRIPT       : [ExpansionAIRaidsManager] Starting raid check for all online players...
+SCRIPT       : [ExpansionAIRaidsManager] Found 0 online players
+SCRIPT       : [ExpansionAIRaidsManager] No players online, skipping raid checks
+SCRIPT       : [ExpansionAIRaidsManager] Running raid check cycle...
+SCRIPT       : [ExpansionAIRaidsManager] CheckForNewRaids called
+SCRIPT       : [ExpansionAIRaidsManager] Starting raid check for all online players...
+SCRIPT       : [ExpansionAIRaidsManager] Found 0 online players
+SCRIPT       : [ExpansionAIRaidsManager] No players online, skipping raid checks
+SCRIPT       : [ExpansionAIRaidsManager] Running raid check cycle...
+SCRIPT       : [ExpansionAIRaidsManager] CheckForNewRaids called
+SCRIPT       : [ExpansionAIRaidsManager] Starting raid check for all online players...
+SCRIPT       : [ExpansionAIRaidsManager] Found 0 online players
+SCRIPT       : [ExpansionAIRaidsManager] No players online, skipping raid checks
+SCRIPT       : [ExpansionAIRaidsManager] Running raid check cycle...
+SCRIPT       : [ExpansionAIRaidsManager] CheckForNewRaids called
+SCRIPT       : [ExpansionAIRaidsManager] Starting raid check for all online players...
+SCRIPT       : [ExpansionAIRaidsManager] Found 0 online players
+SCRIPT       : [ExpansionAIRaidsManager] No players online, skipping raid checks
+SCRIPT       : [ExpansionAIRaidsManager] Running raid check cycle...
+SCRIPT       : [ExpansionAIRaidsManager] CheckForNewRaids called
+SCRIPT       : [ExpansionAIRaidsManager] Starting raid check for all online players...
+SCRIPT       : [ExpansionAIRaidsManager] Found 0 online players
+SCRIPT       : [ExpansionAIRaidsManager] No players online, skipping raid checks
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : 20:43:35.693 [EXPANSION DEBUG]: Clearing cached categories 67
+SCRIPT       : 20:43:35.695 [EXPANSION DEBUG]: Clearing cached traders 0
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : [DayZ Expansion] ~DayZGame
+SCRIPT       : ~DayZGame()

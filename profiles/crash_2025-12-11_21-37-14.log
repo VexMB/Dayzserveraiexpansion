@@ -1,0 +1,50 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\crash_2025-12-11_21-37-14.log started at 11.12. 21:37:45
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 11.12 2025 21:37:45
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:BasicMap\ServerMarkers.json":
+JSON ERROR:
+The document is empty.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+BasicMap/scripts/3_Game/basicmapcontroller.c:168 Function LoadServerMarkers
+BasicMap/scripts/3_Game/basicmapcontroller.c:44 Function Init
+BasicMap/scripts/5_Mission/mission\missionserver.c:4 Function MissionServer@372#1
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 11.12 2025 23:28:27
+[WeaponChambering_Cartridge_ChambToMag::Error] :: [ERROR] :: [wpnfsm] Mosin9130:17448 WeaponChambering DropBullet, error - cannot drop Bullet_762x54 - lost)
+Class:      'WeaponChambering_Cartridge_ChambToMag'
+Function: 'Error'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\fsm\states\weaponstatebase.c:42 Function Error
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:155 Function DropBullet
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:280 Function OnAbort
+scripts/3_Game/systems\hfsmbase.c:152 Function Abort
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:134 Function OnAbort
+scripts/4_World/entities\firearms\fsm\states\weaponchamberinglooped.c:224 Function OnAbort
+scripts/4_World/entities\firearms\weaponfsm.c:181 Function ProcessAbortEvent
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:573 Function ProcessWeaponAbortEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:296 Function AbortWeaponEvent
+scripts/4_World/entities\dayzplayerimplement.c:1831 Function AbortWeaponEvent
+scripts/4_World/entities\manbase\playerbase.c:3968 Function OnCommandDeathStart
+scripts/4_World/entities\dayzplayerimplement.c:707 Function HandleDeath
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:9138 Function HandleDeath
+scripts/4_World/entities\dayzplayerimplement.c:2309 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+MedicalAttention/Core/4_World/entities\manbase\playerbase.c:758 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6656 Function CommandHandler
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  

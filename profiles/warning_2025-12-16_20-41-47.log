@@ -1,0 +1,577 @@
+---------------------------------------------
+Log warning_2025-12-16_20-41-47.log started at 2025-12-16 21:13:54
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:13:54.507 [Animal_UrsusArctos<f1e29ad0>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: TTC_MCX_Spear_Base<a4a7f200>)
+Class:      'Animal_UrsusArctos'
+Entity id:2996273
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:30.592 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:30.593 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:30.593 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.054 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.054 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.055 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.055 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.321 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.321 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.322 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.322 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.322 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.323 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.621 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.621 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.622 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.622 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.623 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.623 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.623 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.922 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.922 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.923 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.923 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.923 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.924 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:31.924 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:32.221 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:32.221 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:32.222 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:32.222 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:32.223 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:32.486 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:32.487 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:32.487 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:32.488 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:32.488 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:14:32.489 [Animal_UrsusArctos<de9d7640>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: Saiga<dd74f9a0>)
+Class:      'Animal_UrsusArctos'
+Entity id:3004914
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:41:31.398 [ZmbM_usSoldier_normal_Base<de0505e0>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: M14_Base<b0c982d0>)
+Class:      'ZmbM_usSoldier_normal_Base'
+Entity id:3044710
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+21:41:46.878 [ZmbM_usSoldier_normal_Base<de0512f0>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: TTC_G3_Base<dd7507b0>)
+Class:      'ZmbM_usSoldier_normal_Base'
+Entity id:3044709
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213

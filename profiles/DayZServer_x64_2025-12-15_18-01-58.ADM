@@ -1,0 +1,12 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-15 at 18:01:58
+18:05:24 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) is connected
+18:19:50 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4463.2, 9688.7, 339.0>)[HP: 99.1288] hit by Infected into LeftArm(18) for 7.26 damage (MeleeSoldierInfectedLong)
+18:19:54 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4463.5, 9687.5, 339.1>)[HP: 97.4912] hit by Infected into Torso(1) for 1.5147 damage (MeleeSoldierInfected)
+18:54:30 | AI "Lewis" (group=11 faction="Mercenaries" pos=<5758.0, 8722.1, 318.8>) is unconscious
+18:54:40 | AI "Gabi" (group=11 faction="Mercenaries" pos=<5709.2, 8676.5, 318.7>) is unconscious
+18:54:51 | AI "Lewis" (group=11 faction="Mercenaries" pos=<5758.6, 8723.1, 318.8>) regained consciousness
+18:54:58 | AI "Gabi" (group=11 faction="Mercenaries" pos=<5708.7, 8676.0, 318.7>) regained consciousness
+19:02:04 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) has been disconnected

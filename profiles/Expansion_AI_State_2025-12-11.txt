@@ -1,0 +1,141 @@
+State dump started at 2025-12-11 23:43:00.477
+eAI_SurvivorM_Mirek:6:INSTANCETYPE_AI_SERVER<e6d8e020>
+|- Name Mirek
+|- Position 5072.73 319.9 10418.8
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.987053
+|  |- Volumetric fog 0.964424
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat JOG/SPRINT
+|- Current velocity 3.174450 m/s
+|- Group ID 6  (1 members)
+|  |- Faction West
+|  |- Formation InvFile IN
+|  \- Waypoints 5 ALTERNATE
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 20% max 60.000004%
+|- Damage in 100% out 50%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold 0 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  \- DEFAULT
+|- Unlimited reload
+|  \- NONE
+|- FSM state TraversingWaypoints
+|- Path progression 2/5
+|  |- Current point 5050 326.6 10450
+|  |  \- 2D distance to AI 38.7406 m
+|  |- Endpoint 4929.44 332.91 10569.3
+|  |  \- 2D distance to AI 207.83 m
+|  |- Target position 4929.44 332.91 10569.3 (4929.44 332.65 10569.3)
+|  |  |- 2D distance to AI 207.83 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final false
+|  \- Is AI position final false
+|- Target look H V 1.03681° 24.5612° (static)
+|- Current look H V -30.4503° 22.7684°
+|- Target aim H V 1.03681° 24.5612° (static)
+|- Current aim H V -30.4393° 22.8391°
+|- Current absolute threat to AI 0.0630109
+|- Current active threat to AI 0.0713671
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 1/4
+|- Target 0 Player Vex
+|  |- Is seen as enemy
+|  |- Is moving false
+|  |- Can be friendly false
+|  |- Is targeted false
+|  |- Absolute threat to AI 0.0630109
+|  |- Active threat to AI 0.0713671
+|  |- LOS state false
+|  |- Actual position 4441.89 339.03 10237.8
+|  |- Actual distance to AI 656.564 m
+|  |- Search position 4447.09 338.92 10288.6
+|  |- Search distance to AI 639.325 m
+|  |- Found at time 23:40:32.000 UTC
+|  \- Max time 120s
+|- Target 1 Item Mag_MP5_15Rnd:14473<d89674e0> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 4958.55 333.94 10425.3
+|  |- Actual distance to AI 115.219 m
+|  |- Search position 4958.55 333.94 10425.3
+|  \- Search distance to AI 115.219 m
+|- Target 2 Item Ammo_40mm_Smoke_Green:8395<8b1e5600> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 4926.18 338.75 10403
+|  |- Actual distance to AI 148.597 m
+|  |- Search position 4926.18 338.75 10403
+|  \- Search distance to AI 148.597 m
+|- Target 3 Item Ammo_762x39Tracer:9134<8d00e4e0> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 4958.06 334.9 10425.9
+|  |- Actual distance to AI 115.863 m
+|  |- Search position 4958.06 334.9 10425.9
+|  \- Search distance to AI 115.863 m
+|- Water 100% Energy 100% Heat -9.9%
+|- Health 100% Blood 100% Shock 100%
+|- Active modifiers 3
+|  |- MaskMdfr duration 162.278 s
+|  |- InediaInfectedAI_PainMdfr duration 159.308 s
+|  \- TirednessMdfr duration 156.051 s
+|- Item in hands AK101:12831<8d49ce10>
+|- Weapon AK101:12831<8d49ce10>
+|  |- Is chambered true
+|  |- Has attached mag Mag_AK101_30Rnd:5145<c955e070> (29/30)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 0
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 1
+|  \- Mag_AK101_30Rnd:7834<c9561f40> (30/30)
+|- Food 1/4
+.  \- Apple:11819<c9563860>
+|- Cargo space taken 6/80
+\- Items in cargo 3
+.  |- Apple:11819<c9563860> (100%)
+.  |- Mag_AK101_30Rnd:7834<c9561f40> (30/30)
+.  \- BandageDressing:19031<ebbf4b80> (100%)

@@ -1,0 +1,73 @@
+---------------------------------------------
+Log warning_2025-12-12_11-28-18.log started at 2025-12-12 11:56:41
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-12
+11:56:41.870 [ZmbM_PatrolNormal_Base<375789e0>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: M16A2_Base<323a9ba0>)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:3018490
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-12
+11:56:59.471 [ZmbM_PatrolNormal_Base<4bdbbc60>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: M16A2_Base<323a9ba0>)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:2976861
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-12
+11:57:07.741 [ZmbM_PatrolNormal_Base<37576fc0>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: M16A2_Base<323a5550>)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:3018483
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-12
+11:57:17.003 [ZmbM_usSoldier_normal_Base<37577cd0>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: M16A2_Base<323a9ba0>)
+Class:      'ZmbM_usSoldier_normal_Base'
+Entity id:3018487
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-12
+11:57:52.203 [ZmbM_usSoldier_normal_Base<4bdbd680>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: M16A2_Base<323a9ba0>)
+Class:      'ZmbM_usSoldier_normal_Base'
+Entity id:2976860
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213

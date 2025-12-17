@@ -1,0 +1,8 @@
+{
+    "CanCheckAlive": 1,
+    "CanCheckDead": 1,
+    "CanCheckRestrained": 1,
+    "CanCheckUnconscious": 1,
+    "HideCargoNotifier": 1,
+    "HideHealthDot": 0
+}

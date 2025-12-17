@@ -1,0 +1,120 @@
+{
+    "m_Loadouts": [
+        {
+            "m_Name": "ZmbF_SurvivorNormal_Red",
+            "m_Category": 2,
+            "m_Loot": [
+                "TunaCan",
+                "BakedBeansCan",
+                "Chips"
+            ]
+        },
+        {
+            "m_Name": "ZmbM_CitizenBFat_Green",
+            "m_Category": 2,
+            "m_Loot": [
+                "TunaCan",
+                "BakedBeansCan",
+                "Chips"
+            ]
+        },
+        {
+            "m_Name": "ZmbM_MotobikerFat_Beige",
+            "m_Category": 2,
+            "m_Loot": [
+                "TunaCan",
+                "BakedBeansCan",
+                "Chips"
+            ]
+        },
+        {
+            "m_Name": "ZmbF_ShortSkirt_grey",
+            "m_Category": 2,
+            "m_Loot": [
+                "TunaCan",
+                "BakedBeansCan",
+                "Chips"
+            ]
+        },
+        {
+            "m_Name": "ZmbM_PatrolNormal_Autumn",
+            "m_Category": 0,
+            "m_Loot": [
+                "Ammo_762x39",
+                "Ammo_762x54",
+                "Ammo_45ACP"
+            ]
+        },
+        {
+            "m_Name": "ZmbM_usSoldier_normal_Woodland",
+            "m_Category": 0,
+            "m_Loot": [
+                "Ammo_762x39",
+                "Ammo_762x54",
+                "Ammo_45ACP"
+            ]
+        },
+        {
+            "m_Name": "ZmbM_usSoldier_Heavy_Woodland",
+            "m_Category": 0,
+            "m_Loot": [
+                "Ammo_762x39",
+                "Ammo_762x54",
+                "Ammo_45ACP"
+            ]
+        },
+        {
+            "m_Name": "ZmbM_SoldierNormal",
+            "m_Category": 0,
+            "m_Loot": [
+                "Ammo_762x39",
+                "Ammo_762x54",
+                "Ammo_45ACP"
+            ]
+        },
+        {
+            "m_Name": "ZmbF_DoctorSkinny",
+            "m_Category": 1,
+            "m_Loot": [
+                "BandageDressing",
+                "BloodTestKit",
+                "CharcoalTablets",
+                "VitaminBottle",
+                "StartKitIV"
+            ]
+        },
+        {
+            "m_Name": "ZmbF_ParamedicNormal_Red",
+            "m_Category": 1,
+            "m_Loot": [
+                "BandageDressing",
+                "BloodTestKit",
+                "CharcoalTablets",
+                "VitaminBottle",
+                "StartKitIV"
+            ]
+        },
+        {
+            "m_Name": "ZmbM_ParamedicNormal_Red",
+            "m_Category": 1,
+            "m_Loot": [
+                "BandageDressing",
+                "BloodTestKit",
+                "CharcoalTablets",
+                "VitaminBottle",
+                "StartKitIV"
+            ]
+        },
+        {
+            "m_Name": "ZmbF_PatientOld",
+            "m_Category": 1,
+            "m_Loot": [
+                "BandageDressing",
+                "BloodTestKit",
+                "CharcoalTablets",
+                "VitaminBottle",
+                "StartKitIV"
+            ]
+        }
+    ]
+}

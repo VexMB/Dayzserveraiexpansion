@@ -1,0 +1,186 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\script_2025-10-08_18-15-55.log started at 08.10. 18:15:55
+
+SCRIPT       : Registered 367 temporary action enum(s), UAN==367
+SCRIPT    (W): @"Nine\compass\scripts\3_Game/ninerpc.c,3": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"Nine\compass\scripts\3_Game/json\nine_config.c,75": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SpawnerBubaku/scripts/3_Game/bubakconfig.c,41": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SpawnerBubaku/scripts/3_Game/bubakconfig.c,78": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"CodeLock/scripts/3_game/dayzgame.c,13": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,305": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,447": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,453": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SchanaModParty/scripts/3_Game/schanamodparty\basicmapintegration\basicmapcontroller.c,4": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SchanaModParty/scripts/3_Game/schanamodparty\basicmapintegration\basicmapcontroller.c,17": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Notifications/scripts/3_Game/client\notifications\notificationui.c,13": FIX-ME: Overriding function 'AddNotification' but not marked as 'override'
+SCRIPT    (W): @"Notifications/scripts/3_Game/client\notifications\notificationui.c,46": FIX-ME: Overriding function 'UpdateTargetHeight' but not marked as 'override'
+SCRIPT    (W): @"Notifications/scripts/3_Game/client\notifications\notificationui.c,81": FIX-ME: Overriding function 'RemoveNotification' but not marked as 'override'
+SCRIPT    (W): @"BasicMap/scripts/3_Game/gui\basicmapmenu.c,556": FIX-ME: Overriding function 'LockControls' but not marked as 'override'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT    (W): @"Nine\compass\scripts\4_World/compasshud.c,84": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"Nine\compass\scripts\4_World/watcheshud.c,335": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"TM/Trader/scripts/4_World/wallet.c,9": Missing ';' at the end of line
+SCRIPT    (W): @"script_a/Scripts/4_World/entities\creatures\infected\zombiebase.c,280": FIX-ME: Unmatched brackets detected!
+SCRIPT    (W): @"MuchCarKey/Scripts/4_World/muchcarkey\actions\actioncraftduplicatekey.c,60": Missing ';' at the end of line
+SCRIPT    (W): @"CodeLock/scripts/4_world/entities\codelock.c,308": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"MuchCarKey/Scripts/4_World/muchcarkey\modded\carscript.c,267": FIX-ME: Overriding function 'SynchronizeValues' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m14_dmr.c,151": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/4_World/dna_keycards\entities\itembase\container_base\crates\base\legacy\dna_crate_colourbase.c,302": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"CodeLock/scripts/4_world/pluginmanager\pluginbase\permissions\codelockpermissionmanager.c,46": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"script_a/Scripts/4_World/classes\useractionscomponent\actions\singleuse\action.c,180": Possible variable name conflict 'second_item_health'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\anzio20.c,321": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\ak105_bullpup.c,48": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m249.c,27": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,112": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\pkm.c,105": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m14_dmr.c,86": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\pkm.c,252": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/entities\itembase\tf_burningshard.c,115": FIX-ME: Overriding function 'IsTakeable' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/entities\itembase\tf_burningshard.c,120": FIX-ME: Overriding function 'CanHaveTemperature' but not marked as 'override'
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,64": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,64": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,64": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,84": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,84": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,84": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,102": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m240.c,27": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,93": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+SCRIPT    (W): @"CompassHH/scripts/4_World/Classes/UserActionsComponent/Actions/SingleUse/аСж?ибУшё.wss,3": FIX-ME: Overriding function 'SetCloseAnimation' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,84": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,47": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,47": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,47": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,57": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,57": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,57": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,75": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,75": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,75": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/4_World/dna_keycards\entities\itembase\container_base\workbench\dna_workbench.c,235": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"Bicycle/Scripts/4_World/environment.c,4": FIX-ME: Overriding function 'IsInsideVehicle' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockontent.c,73": Possible variable name conflict '_Health'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockonfence.c,67": Possible variable name conflict '_Health'
+SCRIPT    (W): @"Nine\compass\scripts\4_World/watcheshud.c,343": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,151": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"rag/rag_hunting_cabin/scripts/4_World/rag_hunting_cabin\actions\codelock\actions\actionraidcodelockonhuntingcabin.c,90": Possible variable name conflict '_Health'
+SCRIPT    (W): @"Bloody_Rabbit/scripts/4_world/head_trigger.c,129": FIX-ME: Unsafe down-casting, use 'Land_Bunny_Bench_Head.Cast' for safe down-casting
+SCRIPT    (W): @"Bloody_Rabbit/scripts/4_world/bunny_trigger.c,137": FIX-ME: Unsafe down-casting, use 'Land_Bunny_Bench2.Cast' for safe down-casting
+SCRIPT       : 18:16:07.753 [WARNING]	: Cannot open file "" for reading
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\missionserver.c,26": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\missiongameplay.c,7": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missionserver.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missionserver.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missionserver.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Icons/Data/Icons/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\icons.c.c,43": FIX-ME: Overriding function 'LosingConnectionDelay' but not marked as 'override'
+SCRIPT    (W): @"DNA_Keycards_Icons/Data/Icons/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\icons.c.c,50": FIX-ME: Overriding function 'LosingConnection' but not marked as 'override'
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missiongameplay.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missiongameplay.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missiongameplay.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,20": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,20": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,20": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,35": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,35": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,35": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,43": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,43": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,43": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,51": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,51": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,51": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'year'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'month'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'day'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'hour'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'minute'
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : Initializing plugin: PluginTraderServerLog<b9a0c450>
+SCRIPT       : Initializing plugin: PluginTraderTradesLog<b9a0ba00>
+SCRIPT       : Init: PluginMCKLogs
+SCRIPT       : [MCK_Config] '$profile:MuchCarKey/MCK_Config.json' found, loading existing config!
+SCRIPT       : [Nine] 'Nine_Settings' found, loading
+SCRIPT       : 08.10.2025 18:16:15 [ServerPanelLogger]: Switching to logfile: $profile:/ServerPanel/Logs/ServerPanel_08-10-2025_18-16-15.log
+SCRIPT       : [ServerPanel] 'ServerPanelConfigManager' Configuration file found...
+SCRIPT       : [ServerPanel] 'ServerPanelConfigManager' Configuration loaded.
+SCRIPT       : [BasicMap] Init Server
+SCRIPT       : [MedicalAttention] $profile:RaG_MedicalAttention/config.txt does not exist
+SCRIPT       : [SchanaParty] BasicMap Register RPCs
+SCRIPT       : [SchanaParty] BasicMap Server Init
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [SchanaParty] OnInit
+SCRIPT       : [SchanaParty] Server Init 1.4.0
+SCRIPT       : [SchanaParty] PartyMarker Server Init
+SCRIPT       : [MCK_Config] '$profile:MuchCarKey/MCK_Config.json' found, loading existing config!
+SCRIPT       : [Notifications] OnInit
+SCRIPT       : [Notifications] Loading Config
+SCRIPT       : [RaGHunting_Cabin_Codelock_Config] '$profile:\CodeLock\RaG_Hunting_Cabin_CodeLockConfig.json' found, loading existing config!
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'BathtubBallersTest'
+SCRIPT       : [DNA DEBUG] - {Main System} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {Container System Settings} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA_Keycards Mob System Settings} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards General Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards Clothing Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards Weapon Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Settings Description found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Yellow Config Found.... Loading 
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Green Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Blue Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Purple Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Red Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Base Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Alarm Settings} - Alarm Settings Config Found.... Loading 
+SCRIPT       : [DNA DEBUG] - {Reset Timer} - Timer Settings found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Reset Timer} - Not in use.
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any crates!
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any smol crates!
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any strongrooms!
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [RaG Wheel of Fortune]:: [InvokeOnConnect]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Wheel of Fortune]:: [InvokeOnConnect]:: id: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Wheel of Fortune]:: [InvokeOnConnect]:: data sent
+SCRIPT       : [RaG Immersive Vehicles]:: [InvokeOnConnect]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Immersive Vehicles]:: [InvokeOnConnect]:: id: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Immersive Vehicles]:: [InvokeOnConnect]:: data sent
+SCRIPT       : [RaG Baseitems]:: [InvokeOnConnect]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Baseitems]:: [InvokeOnConnect]:: id: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Baseitems]:: [InvokeOnConnect]:: data sent
+SCRIPT       : [VPPAT] Player "Vex" (steamId=76561198040522771) connected to server!
+SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<1c56db30>
+SCRIPT       : string log =  '2025/10/8 |  [VPPAdminTools] Player 76561198040522771 attempted login, and failed! Total Attempts: 1'
+SCRIPT       : string log =  '2025/10/8 |  [VPPAdminTools] Player 76561198040522771 attempted login, and failed! Total Attempts: 2'
+SCRIPT       : FallDamageHealth   1
+SCRIPT       : FallDamageShock   1
+SCRIPT       : string log =  '2025/10/8 |  [VPPAdminTools] Player 76561198040522771 attempted login, and failed! Total Attempts: 3'
+SCRIPT       : string log =  '2025/10/8 |  [VPPAdminTools] Player 76561198040522771 attempted login, and failed! Total Attempts: 4'
+SCRIPT       : string log =  '2025/10/8 |  [VPPAdminTools] Player 76561198040522771 attempted login, and failed! Total Attempts: 5'
+SCRIPT       : string log =  '2025/10/8 |  [VPPAdminTools] Player 76561198040522771 attempted login, and failed! Total Attempts: 6'
+SCRIPT       : [Logout]: New player 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= with logout time 15
+SCRIPT       : Player "Vex" (steamid=76561198040522771) initiated disconnect process...
+SCRIPT       : Player "Vex" (steamid=76561198040522771) disconnected early from server (EXIT NOW).
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : PluginTraderTradesLog<b9a0ba00> Closed
+SCRIPT       : ~PluginMCKLogs Closed
+SCRIPT       : PluginTraderServerLog<b9a0c450> Closed
+SCRIPT       : ~DayZGame()

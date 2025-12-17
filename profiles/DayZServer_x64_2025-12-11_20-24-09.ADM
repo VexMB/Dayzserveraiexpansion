@@ -1,0 +1,30 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-11 at 20:24:09
+20:28:25 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) is connected
+20:36:04 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1740.2, 2248.6, 8.9>)[HP: 89.8] hit by Infected into Torso(1) for 8.5 damage (MeleeInfectedLong)
+20:36:15 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1699.7, 2227.1, 6.9>)[HP: 88.3151] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+20:36:20 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1698.1, 2211.8, 6.2>)[HP: 80.6952] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+20:36:22 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1703.0, 2211.5, 6.4>)[HP: 79.0305] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+20:36:23 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1702.7, 2211.6, 6.4>)[HP: 78.2505] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+20:36:24 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1702.6, 2211.6, 6.5>)[HP: 75.9555] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+20:36:24 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1702.6, 2211.6, 6.5>)[HP: 74.2005] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+20:36:24 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1702.6, 2211.6, 6.5>)[HP: 72.4455] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+20:36:25 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1702.6, 2211.6, 6.5>)[HP: 71.7555] hit by Infected into LeftArm(18) for 6.5 damage (MeleeInfected)
+20:36:25 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1702.6, 2211.6, 6.5>)[HP: 63.9555] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+20:36:25 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1702.6, 2211.6, 6.5>) is unconscious
+20:36:25 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1702.4, 2211.7, 6.4>)[HP: 61.6605] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+20:37:16 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1703.8, 2211.2, 6.4>) regained consciousness
+20:38:03 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1699.2, 2225.6, 6.7>)[HP: 24.3095] hit by AI "Naomi" (group=1 faction="East" pos=<1699.1, 2227.7, 6.9>) into Torso(1) for 40.2318 damage (Bullet_545x39) with KA-74 from 2.11349 meters 
+20:38:03 | Player "Vex" (DEAD) (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1699.2, 2225.8, 6.7>)[HP: 0] hit by AI "Naomi" (group=1 faction="East" pos=<1699.1, 2227.9, 6.9>) into Torso(1) for 40.2322 damage (Bullet_545x39) with KA-74 from 2.07352 meters 
+20:38:03 | Player "Vex" (DEAD) (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<1699.2, 2225.8, 6.7>) killed by AI "Naomi" (group=1 faction="East" pos=<1699.1, 2227.9, 6.9>) with KA-74 from 2.07352 meters 
+20:47:32 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<971.0, 2034.7, 6.0>)[HP: 90.208] hit by Infected into Head(0) for 4.08 damage (MeleeInfectedLong)
+20:47:34 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<971.0, 2034.9, 6.0>)[HP: 89.518] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+20:47:34 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<970.8, 2034.9, 6.0>)[HP: 88.498] hit by Infected into RightArm(17) for 8.5 damage (MeleeInfectedLong)
+20:47:35 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<970.0, 2034.9, 6.0>)[HP: 86.3305] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeInfectedLong)
+20:47:35 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<970.0, 2034.8, 6.0>)[HP: 84.673] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+20:47:35 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<969.5, 2034.1, 6.0>) is unconscious
+20:47:48 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<967.5, 2033.4, 6.0>) is choosing to respawn
+20:47:48 | Player "Vex" (DEAD) (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<967.5, 2033.4, 6.0>) died. Stats> Water: 328.57 Energy: 351.67 Bleed sources: 1
+21:02:48 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) has been disconnected

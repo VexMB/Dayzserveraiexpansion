@@ -1,0 +1,55 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-15 at 15:28:45
+15:30:37 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) is connected
+16:44:06 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4504.1, 9665.5, 339.0>)[HP: 97.327] hit by AI "Francis" (group=22 faction="West" pos=<4504.4, 9664.9, 339.0>) into Torso(16) for 2.673 damage (MeleeFist_Heavy)
+16:44:07 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4504.2, 9665.6, 339.0>)[HP: 94.654] hit by AI "Francis" (group=22 faction="West" pos=<4504.5, 9664.6, 339.0>) into Torso(16) for 2.673 damage (MeleeFist_Heavy)
+16:44:09 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4504.2, 9665.6, 339.0>)[HP: 92.0711] hit by AI "Francis" (group=22 faction="West" pos=<4504.4, 9664.7, 339.0>) into Torso(16) for 2.673 damage (MeleeFist_Heavy)
+16:44:09 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4504.2, 9665.6, 339.0>)[HP: 89.3981] hit by AI "Francis" (group=22 faction="West" pos=<4504.5, 9664.6, 339.0>) into Torso(16) for 2.673 damage (MeleeFist_Heavy)
+16:44:10 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4504.2, 9665.6, 339.0>)[HP: 86.7251] hit by AI "Francis" (group=22 faction="West" pos=<4504.4, 9664.7, 339.0>) into Torso(16) for 2.673 damage (MeleeFist_Heavy)
+16:44:11 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4504.2, 9665.6, 339.0>)[HP: 85.0332] hit by AI "Francis" (group=22 faction="West" pos=<4504.5, 9664.6, 339.0>) into Torso(16) for 1.782 damage (MeleeFist)
+16:44:12 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4504.3, 9665.6, 339.0>)[HP: 83.2512] hit by AI "Francis" (group=22 faction="West" pos=<4504.4, 9664.7, 339.0>) into Torso(14) for 1.782 damage (MeleeFist)
+16:44:12 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4504.3, 9665.6, 339.0>)[HP: 81.4692] hit by AI "Francis" (group=22 faction="West" pos=<4504.4, 9664.7, 339.0>) into Torso(15) for 1.782 damage (MeleeFist)
+16:44:39 | AI "Jose" (group=23 faction="West" pos=<4504.2, 9659.7, 339.0>) is unconscious
+16:45:12 | AI "Seth" (group=18 faction="West" pos=<4458.2, 9679.5, 339.1>) is unconscious
+16:45:20 | AI "Seth" (group=18 faction="West" pos=<4457.0, 9680.2, 339.1>) regained consciousness
+16:46:33 | AI "Cyril" (group=24 faction="East" pos=<4523.4, 9600.3, 339.1>) is unconscious
+16:46:45 | AI "Cyril" (group=24 faction="East" pos=<4523.9, 9599.7, 339.1>) regained consciousness
+16:47:18 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) has been disconnected
+16:49:12 | AI "Irena" (group=27 faction="West" pos=<4453.2, 9668.1, 339.0>) is unconscious
+16:49:14 | AI "Maria" (group=26 faction="East" pos=<4462.3, 9677.8, 339.0>) is unconscious
+16:49:38 | AI "Irena" (group=27 faction="West" pos=<4452.8, 9667.3, 339.0>) regained consciousness
+16:49:42 | AI "Maria" (group=26 faction="East" pos=<4463.1, 9677.8, 339.0>) regained consciousness
+16:49:51 | AI "Maria" (group=26 faction="East" pos=<4460.1, 9674.7, 339.0>) is unconscious
+16:49:51 | AI "Irena" (group=27 faction="West" pos=<4452.4, 9672.0, 339.0>) is unconscious
+16:50:19 | AI "Irena" (group=27 faction="West" pos=<4453.0, 9671.4, 339.0>) regained consciousness
+16:50:20 | AI "Maria" (group=26 faction="East" pos=<4460.3, 9675.5, 339.0>) regained consciousness
+16:50:27 | AI "Maria" (group=26 faction="East" pos=<4458.0, 9672.9, 339.0>) is unconscious
+16:50:28 | AI "Irena" (group=27 faction="West" pos=<4454.4, 9669.8, 339.0>) is unconscious
+16:50:41 | AI "Maria" (group=26 faction="East" pos=<4458.2, 9673.7, 339.0>) regained consciousness
+16:50:52 | AI "Maria" (group=26 faction="East" pos=<4455.4, 9670.6, 339.0>) is unconscious
+16:50:57 | AI "Irena" (group=27 faction="West" pos=<4454.0, 9669.0, 339.0>) regained consciousness
+16:51:08 | AI "Irena" (group=27 faction="West" pos=<4456.9, 9673.0, 339.0>) is unconscious
+16:51:21 | AI "Maria" (group=26 faction="East" pos=<4455.8, 9671.3, 339.0>) regained consciousness
+16:51:29 | AI "Maria" (group=26 faction="East" pos=<4456.2, 9670.7, 339.0>) is unconscious
+16:51:45 | AI "Irena" (group=27 faction="West" pos=<4457.0, 9673.8, 339.0>) regained consciousness
+16:51:55 | AI "Maria" (group=26 faction="East" pos=<4455.8, 9671.4, 339.0>) regained consciousness
+16:51:55 | AI "Irena" (group=27 faction="West" pos=<4455.5, 9669.8, 339.0>) is unconscious
+16:52:04 | AI "Maria" (group=26 faction="East" pos=<4457.7, 9666.6, 339.0>) is unconscious
+16:52:21 | AI "Irena" (group=27 faction="West" pos=<4455.3, 9670.6, 339.0>) regained consciousness
+16:52:31 | AI "Irena" (group=27 faction="West" pos=<4454.6, 9666.3, 339.0>) is unconscious
+16:52:33 | AI "Maria" (group=26 faction="East" pos=<4457.0, 9667.0, 339.0>) regained consciousness
+16:52:45 | AI "Maria" (group=26 faction="East" pos=<4457.5, 9664.4, 339.0>) is unconscious
+16:53:00 | AI "Irena" (group=27 faction="West" pos=<4454.4, 9667.1, 339.0>) regained consciousness
+16:53:09 | AI "Irena" (group=27 faction="West" pos=<4456.8, 9665.3, 339.0>) is unconscious
+16:53:13 | AI "Maria" (group=26 faction="East" pos=<4456.6, 9664.4, 339.0>) regained consciousness
+16:53:21 | AI "Maria" (group=26 faction="East" pos=<4460.4, 9661.9, 339.0>) is unconscious
+16:53:34 | AI "Irena" (group=27 faction="West" pos=<4456.3, 9665.6, 339.0>) regained consciousness
+16:53:43 | AI "Irena" (group=27 faction="West" pos=<4455.4, 9661.9, 339.0>) is unconscious
+16:53:58 | AI "Maria" (group=26 faction="East" pos=<4459.9, 9661.3, 339.0>) regained consciousness
+16:54:08 | AI "Maria" (group=26 faction="East" pos=<4457.9, 9662.6, 339.0>) is unconscious
+16:54:12 | AI "Irena" (group=27 faction="West" pos=<4455.3, 9662.7, 339.0>) regained consciousness
+16:54:21 | AI "Irena" (group=27 faction="West" pos=<4458.3, 9660.6, 339.0>) is unconscious
+16:54:49 | AI "Maria" (group=26 faction="East" pos=<4457.2, 9662.2, 339.0>) regained consciousness
+16:54:49 | AI "Irena" (group=27 faction="West" pos=<4457.5, 9660.6, 339.0>) regained consciousness

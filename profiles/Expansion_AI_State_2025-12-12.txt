@@ -1,0 +1,703 @@
+State dump started at 2025-12-12 11:52:29.489
+eAI_SurvivorF_Linda:3:INSTANCETYPE_AI_SERVER<2de51350>
+|- Name Linda
+|- Position 2055.12 100.51 3180.57
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.991294
+|  |- Volumetric fog 0.974447
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat SPRINT/SPRINT
+|- Current velocity 0 m/s
+|- Group ID 1  (2 members)
+|  |- Faction West
+|  |- Formation Circle IN
+|  \- Waypoints 7 HALT
+|- Is group leader false
+|- Is formation leader false
+|- Accuracy min 20% max 60.000004%
+|- Damage in 100% out 50%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold 0 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  \- DEFAULT
+|- Unlimited reload
+|  \- NONE
+|- FSM state FollowFormation
+|- Path progression 2/2
+|  |- Current point 2055.06 101.13 3180.47
+|  |  \- 2D distance to AI 0.118376 m
+|  |- Endpoint 2055.06 101.13 3180.47
+|  |  \- 2D distance to AI 0.118376 m
+|  |- Target position 2055.06 101.13 3180.47 (2055.06 101.1 3180.47)
+|  |  |- 2D distance to AI 0.118376 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final true
+|  \- Is AI position final true
+|- Target look H V 0° 2.12317° (static)
+|- Current look H V 114.915° 2.12316°
+|- Target aim H V 0° 2.12317° (static)
+|- Current aim H V 114.915° 2.12316°
+|- Current absolute threat to AI 0
+|- Current active threat to AI 0
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 0/0
+|- Water 100% Energy 100% Heat -4.0%
+|- Health 100% Blood 100% Shock 100%
+|- Active modifiers 1
+|  \- MaskMdfr duration 316.509 s
+|- Item in hands FAMAS:12731<257d0280>
+|- Weapon FAMAS:12731<257d0280>
+|  |- Is chambered true
+|  |- Has attached mag Mag_FAMAS_25Rnd:12732<2bad6df0> (24/25)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 0
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 1
+|  \- Mag_FAMAS_25Rnd:12742<2badeb90> (25/25)
+|- Food 0/15
+|- Cargo space taken 2/290
+\- Items in cargo 1
+.  \- Mag_FAMAS_25Rnd:12742<2badeb90> (25/25)
+
+State dump started at 2025-12-12 13:31:49.007
+eAI_SurvivorF_Judy:3:INSTANCETYPE_AI_SERVER<d5389020>
+|- Name Judy
+|- Position 11067.8 229.6 12490.5
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 0.875315
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.999995
+|  |- Volumetric fog 0.877222
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|  \- Weapon raised
+|- Speed limit normal/combat JOG/SPRINT
+|- Current velocity 1.776712 m/s
+|- Group ID 2  (1 members)
+|  |- Faction East
+|  |- Formation Vee IN
+|  \- Waypoints 1 ONCE
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 20.000002% max 59.999996%
+|- Damage in 100% out 50%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 900 m
+|- Sniper prone distance threshold 0 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  \- DEFAULT
+|- Unlimited reload
+|  \- ALL
+|- FSM state Reloading->Reloading
+|- Path progression 4/17
+|  |- Current point 11066.9 230.8 12490.8
+|  |  \- 2D distance to AI 1.00335 m
+|  |- Endpoint 11069 235.3 12487.3
+|  |  \- 2D distance to AI 3.38985 m
+|  |- Target position 11069 235.3 12487.3 (11069 233.9 12487.3)
+|  |  |- 2D distance to AI 3.38985 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final true
+|  \- Is AI position final false
+|- Current cover object Land_Village_PoliceStation:-9221542447960259449<b543fc30>
+|  |- Position 11069 233.9 12487.3
+|  \- 2D distance to AI 3.38985 m
+|- Current cover position 11069 235.3 12487.3
+|  |- 2D distance to AI 3.38985 m
+|  \- Is AI in cover false
+|- Target look H V -44.9673° -8.06763° (tracking)
+|- Current look H V -119.43° -7.4046°
+|- Target aim H V -44.9673° -8.06763° (tracking)
+|- Current aim H V -139.857° -7.47858°
+|- Current absolute threat to AI 0.4
+|- Current active threat to AI 0.4
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 1
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 2/13
+|- Target 0 Noise
+|  |- Absolute threat to AI 0.4
+|  |- Active threat to AI 0.4
+|  |- LOS state false
+|  |- Actual position 11055.8 226.9 12476.2
+|  |- Actual distance to AI 18.9094 m
+|  |- Search position 11055.8 226.9 12476.2
+|  |- Search distance to AI 18.9094 m
+|  |- Found at time 13:32:00.000 UTC
+|  \- Max time 10.94s
+|- Target 1 Player eAI_SurvivorF_Eva:2:INSTANCETYPE_AI_SERVER<d1c37090>
+|  |- Group ID 1 
+|  |- Is seen as enemy
+|  |- Is moving true
+|  |- Can be friendly false
+|  |- Is targeted true
+|  |- Absolute threat to AI 10.2888
+|  |- Active threat to AI 40.7132
+|  |- LOS state false (stale)
+|  |- Actual position 11056 226.89 12475.8
+|  |- Actual distance to AI 18.9962 m
+|  |- Search position 11055.6 226.9 12476.4
+|  |- Search distance to AI 18.8276 m
+|  |- Found at time 13:32:00.000 UTC
+|  \- Max time 120s
+|- Target 2 Item Ammo_Expansion_M203_Smoke_White:13804<f245a940> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11072.2 233.31 12485.7
+|  |- Actual distance to AI 7.50376 m
+|  |- Search position 11072.2 233.31 12485.7
+|  \- Search distance to AI 7.50376 m
+|- Target 3 Item CZ61:7655<d7b186d0> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11061.3 232.19 12492.8
+|  |- Actual distance to AI 7.41214 m
+|  |- Search position 11061.3 232.19 12492.8
+|  \- Search distance to AI 7.41214 m
+|- Target 4 Item Mag_PM73_15Rnd:4646<c6dbf280> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11058.1 227.53 12479.5
+|  |- Actual distance to AI 14.7674 m
+|  |- Search position 11058.1 227.53 12479.5
+|  \- Search distance to AI 14.7674 m
+|- Target 5 Item TTC_Glock17:11301<e7a130f0> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11060.9 228.59 12492.3
+|  |- Actual distance to AI 7.26828 m
+|  |- Search position 11060.9 228.59 12492.3
+|  \- Search distance to AI 7.26828 m
+|- Target 6 Item Mag_SSG82_5rnd:12664<ee27edc0> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11070.1 231.58 12494.9
+|  |- Actual distance to AI 5.36927 m
+|  |- Search position 11070.1 231.58 12494.9
+|  \- Search distance to AI 5.36927 m
+|- Target 7 Item Mag_Expansion_Taser:7721<d7a42390> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11057.7 227.46 12480.8
+|  |- Actual distance to AI 14.1625 m
+|  |- Search position 11057.7 227.46 12480.8
+|  \- Search distance to AI 14.1625 m
+|- Target 8 Item Mag_Expansion_Taser:7727<d7a41700> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11069.6 231.53 12492.9
+|  |- Actual distance to AI 3.56509 m
+|  |- Search position 11069.6 231.53 12492.9
+|  \- Search distance to AI 3.56509 m
+|- Target 9 Item Mag_Expansion_M9_15Rnd:8928<df98fdc0> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11067.6 231.69 12493.6
+|  |- Actual distance to AI 3.74817 m
+|  |- Search position 11067.6 231.69 12493.6
+|  \- Search distance to AI 3.74817 m
+|- Target 10 Item Mag_Expansion_M9_15Rnd:8943<df996240> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11065.7 228.09 12497
+|  |- Actual distance to AI 7.00243 m
+|  |- Search position 11065.7 228.09 12497
+|  \- Search distance to AI 7.00243 m
+|- Target 11 Item Mag_PM73_15Rnd:4639<c6dbc040> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11071.8 235.21 12493
+|  |- Actual distance to AI 7.35736 m
+|  |- Search position 11071.8 235.21 12493
+|  \- Search distance to AI 7.35736 m
+|- Target 12 Item TTC_PP91:7207<c995c200> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11066.1 230.32 12462.7
+|  |- Actual distance to AI 27.8104 m
+|  |- Search position 11066.1 230.32 12462.7
+|  \- Search distance to AI 27.8104 m
+|- Water 100% Energy 100% Heat 0%
+|- Health 60.9% Blood 100% Shock 57.1%
+|- Active modifiers 1
+|  \- HealthRegenMdfr duration 12.005 s
+|- Item in hands MakarovIJ70:22108<51b1fa30>
+|- Weapon MakarovIJ70:22108<51b1fa30>
+|  |- Is chambered false
+|  |- Has attached mag Mag_IJ70_8Rnd:22119<d1bc4330> (12/12)
+|  \- Has ammo/mag to reload Mag_IJ70_8Rnd:22109<d1bc4fc0> (0/12)
+|- Melee weapons 1
+|  \- StunBaton:22117<17c91d40>
+|- Firearm types and ammo/mags to reload 4
+|  |- MakarovIJ70_Base -> Mag_IJ70_8Rnd:22109<d1bc4fc0>
+|  |- CZ61_Base -> null
+|  |- TTC_Glock17_Base -> null
+|  \- TTC_PP91_Base -> null
+|- Ammo/mags 1
+|  \- Mag_IJ70_8Rnd:22109<d1bc4fc0> (0/12)
+|- Food 0/7
+|- Cargo space taken 2/130
+\- Items in cargo 1
+.  \- Mag_IJ70_8Rnd:22109<d1bc4fc0> (0/12)
+
+State dump started at 2025-12-12 13:33:29.569
+eAI_SurvivorF_Judy:3:INSTANCETYPE_AI_SERVER<d5389020>
+|- Name Judy
+|- Position 11062.9 225.79 12437.5
+|- Visibility 700 m
+|- Visibility distance threshold 630 m
+|- Visibility limits
+|  |- Daylight 1 (threshold 0.4)
+|  |- Night 0
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.999243
+|  |- Volumetric fog 0.885851
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|  \- Weapon raised
+|- Speed limit normal/combat JOG/SPRINT
+|- Current velocity 1.717564 m/s
+|- Group ID 2  (1 members)
+|  |- Faction East
+|  |- Formation Vee IN
+|  \- Waypoints 1 ONCE
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 20.000002% max 59.999996%
+|- Damage in 100% out 50%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 900 m
+|- Sniper prone distance threshold 0 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  \- DEFAULT
+|- Unlimited reload
+|  \- ALL
+|- FSM state Fighting->Positioning
+|- Path progression 3/6
+|  |- Current point 11063.6 225.7 12437.2
+|  |  \- 2D distance to AI 0.807957 m
+|  |- Endpoint 11064 226.9 12442
+|  |  \- 2D distance to AI 4.63065 m
+|  |- Target position 11064 226.9 12442 (11064 228 12442)
+|  |  |- 2D distance to AI 4.63065 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final false
+|  \- Is AI position final false
+|- Current cover object Land_Garage_Small:-9221551244053281466<b4f5e720>
+|  |- Position 11064 228 12442
+|  \- 2D distance to AI 4.63065 m
+|- Current cover position 11064 226.9 12442
+|  |- 2D distance to AI 4.63065 m
+|  \- Is AI in cover false
+|- Target look H V -8.31027° 4.2922° (tracking)
+|- Current look H V -16.4467° 4.1024°
+|- Target aim H V -8.31027° 4.2922° (tracking)
+|- Current aim H V -15.247° 4.09161°
+|- Current absolute threat to AI 0.4
+|- Current active threat to AI 0.4
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 1
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 5/14
+|- Target 0 Noise
+|  |- Absolute threat to AI 0.4
+|  |- Active threat to AI 0.4
+|  |- LOS state false
+|  |- Actual position 11059.2 226.83 12451.2
+|  |- Actual distance to AI 14.1481 m
+|  |- Search position 11059.2 226.83 12451.2
+|  |- Search distance to AI 14.1481 m
+|  |- Found at time 13:34:08.000 UTC
+|  \- Max time 9.65s
+|- Target 1 Item TTC_PP91:7207<c995c200>
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11066.1 230.32 12462.7
+|  |- Actual distance to AI 25.7942 m
+|  |- Search position 11066.1 230.32 12462.7
+|  |- Search distance to AI 25.7942 m
+|  |- Found at time 13:32:00.000 UTC
+|  \- Max time 120s
+|- Target 2 Item CZ61:7655<d7b186d0>
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11061.3 232.19 12492.8
+|  |- Actual distance to AI 55.617 m
+|  |- Search position 11061.3 232.19 12492.8
+|  |- Search distance to AI 55.617 m
+|  |- Found at time 13:32:00.000 UTC
+|  \- Max time 120s
+|- Target 3 Item TTC_Glock17:11301<e7a130f0>
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11060.9 228.59 12492.3
+|  |- Actual distance to AI 54.8468 m
+|  |- Search position 11060.9 228.59 12492.3
+|  |- Search distance to AI 54.8468 m
+|  |- Found at time 13:32:00.000 UTC
+|  \- Max time 120s
+|- Target 4 Player eAI_SurvivorF_Eva:2:INSTANCETYPE_AI_SERVER<d1c37090>
+|  |- Group ID 1 
+|  |- Is seen as enemy
+|  |- Is moving true
+|  |- Can be friendly false
+|  |- Is targeted true
+|  |- Absolute threat to AI 13.0111
+|  |- Active threat to AI 58.3363
+|  |- LOS state false (stale)
+|  |- Actual position 11058.7 226.83 12451.9
+|  |- Actual distance to AI 15.0281 m
+|  |- Search position 11063.7 226.83 12451
+|  |- Search distance to AI 13.4983 m
+|  |- Found at time 13:32:00.000 UTC
+|  \- Max time 120s
+|- Target 5 Item Ammo_Expansion_M203_Smoke_White:13804<f245a940> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11072.2 233.31 12485.7
+|  |- Actual distance to AI 49.6026 m
+|  |- Search position 11072.2 233.31 12485.7
+|  \- Search distance to AI 49.6026 m
+|- Target 6 Item Mag_PM73_15Rnd:4646<c6dbf280> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11058.1 227.53 12479.5
+|  |- Actual distance to AI 42.3114 m
+|  |- Search position 11058.1 227.53 12479.5
+|  \- Search distance to AI 42.3114 m
+|- Target 7 Item Mag_SSG82_5rnd:12664<ee27edc0> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11070.1 231.58 12494.9
+|  |- Actual distance to AI 58.1228 m
+|  |- Search position 11070.1 231.58 12494.9
+|  \- Search distance to AI 58.1228 m
+|- Target 8 Item Repeater:18101<ff824e80> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11031.8 230.77 12509.4
+|  |- Actual distance to AI 78.4521 m
+|  |- Search position 11031.8 230.77 12509.4
+|  \- Search distance to AI 78.4521 m
+|- Target 9 Item Mag_Expansion_Taser:7721<d7a42390> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11057.7 227.46 12480.8
+|  |- Actual distance to AI 43.6329 m
+|  |- Search position 11057.7 227.46 12480.8
+|  \- Search distance to AI 43.6329 m
+|- Target 10 Item Mag_Expansion_Taser:7727<d7a41700> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11069.6 231.53 12492.9
+|  |- Actual distance to AI 56.058 m
+|  |- Search position 11069.6 231.53 12492.9
+|  \- Search distance to AI 56.058 m
+|- Target 11 Item Mag_Expansion_M9_15Rnd:8928<df98fdc0> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11067.6 231.69 12493.6
+|  |- Actual distance to AI 56.5498 m
+|  |- Search position 11067.6 231.69 12493.6
+|  \- Search distance to AI 56.5498 m
+|- Target 12 Item Mag_Expansion_M9_15Rnd:8943<df996240> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11065.7 228.09 12497
+|  |- Actual distance to AI 59.5406 m
+|  |- Search position 11065.7 228.09 12497
+|  \- Search distance to AI 59.5406 m
+|- Target 13 Item Mag_PM73_15Rnd:4639<c6dbc040> (untracked)
+|  |- Fits in AI inventory true
+|  |- Is ignored item false
+|  |- Absolute threat to AI 0
+|  |- Active threat to AI 0
+|  |- LOS state false (stale)
+|  |- Actual position 11071.8 235.21 12493
+|  |- Actual distance to AI 56.9986 m
+|  |- Search position 11071.8 235.21 12493
+|  \- Search distance to AI 56.9986 m
+|- Water 100% Energy 100% Heat -9%
+|- Health 31.9% Blood 68.1% Shock 100%
+|- Bleeding 2
+|  |- rightforearm 7 ml/s duration 78.027/300 s NORMAL
+|  \- leftforearm 7 ml/s duration 69.024/300 s NORMAL
+|- Active modifiers 2
+|  |- BloodRegenMdfr duration 78.037 s
+|  \- HealthRegenMdfr duration 114.047 s
+|- Item in hands MakarovIJ70:22109<51b1fa30>
+|- Weapon MakarovIJ70:22109<51b1fa30>
+|  |- Is chambered true
+|  |- Has attached mag Mag_IJ70_8Rnd:22108<d1ba3390> (11/12)
+|  \- Has ammo/mag to reload Mag_IJ70_8Rnd:22119<d1bc4330> (0/12)
+|- Melee weapons 1
+|  \- StunBaton:22117<17c91d40>
+|- Firearm types and ammo/mags to reload 4
+|  |- MakarovIJ70_Base -> Mag_IJ70_8Rnd:22119<d1bc4330>
+|  |- TTC_PP91_Base -> null
+|  |- CZ61_Base -> null
+|  \- TTC_Glock17_Base -> null
+|- Ammo/mags 1
+|  \- Mag_IJ70_8Rnd:22119<d1bc4330> (0/12)
+|- Food 0/7
+|- Cargo space taken 2/130
+\- Items in cargo 1
+.  \- Mag_IJ70_8Rnd:22119<d1bc4330> (0/12)
+
+State dump started at 2025-12-12 19:08:12.568
+eAI_SurvivorM_Indar:2:INSTANCETYPE_AI_SERVER<d401c020>
+|- Name Indar
+|- Position 10750.5 100.58 10410.2
+|- Visibility 100 m
+|- Visibility distance threshold 90 m
+|- Visibility limits
+|  |- Daylight 0 (threshold 0.4)
+|  |- Night 0.1
+|  |- Overcast 1
+|  |- Rain 1
+|  |- Snow 1
+|  |- Fog 0.99869
+|  |- Volumetric fog 0.937287
+|  |- Contaminated area 1
+|  |- Minimum 0.1
+|  |- Maximum 0.7
+|  \- Base 0.1
+|- Active visibility enhancers 0
+|- Stance STANDING
+|- Speed limit normal/combat WALK/SPRINT
+|- Current velocity 1.365374 m/s
+|- Group ID 1  (1 members)
+|  |- Faction Raiders
+|  |- Formation Vee IN
+|  \- Waypoints 4 ROAMING
+|- Is group leader true
+|- Is formation leader true
+|- Accuracy min 20% max 60.000004%
+|- Damage in 100% out 50%
+|- Headshot resistance 0%
+|- Threat distance limit 700 m
+|- Noise investigation distance limit 500 m
+|- Sniper prone distance threshold 0 m
+|- FOV
+|  |- Near to far FOV transition exponent 2
+|  \- Distance (m)   FOV (°)
+|     |- 0           240
+|     |- 15.625      235.31
+|     |- 31.250      221.25
+|     |- 46.875      197.81
+|     |- 62.500      165
+|     |- 78.125      132.18
+|     |- 93.750      108.75
+|     |- 109.375     94.68
+|     \- 125         90
+|- Looting behavior
+|  |- WEAPONS_FIREARMS
+|  |- WEAPONS_LAUNCHERS
+|  |- WEAPONS_MELEE
+|  |- WEAPONS
+|  |- BANDAGES
+|  |- CLOTHING_ARMBAND
+|  |- CLOTHING_BACK_LARGE
+|  |- CLOTHING_BACK_MEDIUM
+|  |- CLOTHING_BACK_SMALL
+|  |- CLOTHING_BACK
+|  |- CLOTHING_BODY
+|  |- CLOTHING_EYEWEAR
+|  |- CLOTHING_FEET
+|  |- CLOTHING_GLOVES
+|  |- CLOTHING_HEADGEAR
+|  |- CLOTHING_HIPS
+|  |- CLOTHING_LEGS
+|  |- CLOTHING_MASK
+|  |- CLOTHING_MELEE
+|  |- CLOTHING_SHOULDER
+|  |- CLOTHING_VEST
+|  |- CLOTHING
+|  |- FOOD
+|  |- UPGRADE
+|  |- DEFAULT
+|  \- ALL
+|- Unlimited reload
+|  \- NONE
+|- FSM state TraversingWaypoints
+|- Path progression 4/9
+|  |- Current point 10750.3 99.67 10404.1
+|  |  \- 2D distance to AI 6.16582 m
+|  |- Endpoint 10895.1 85.74 10263.4
+|  |  \- 2D distance to AI 206.051 m
+|  |- Target position 10895.1 85.74 10263.4 (10895.1 85.59 10263.4)
+|  |  |- 2D distance to AI 206.051 m
+|  |  |- Is reachable true (true)
+|  |  \- Is final false
+|  \- Is AI position final false
+|- Target look H V 0.00683594° -10.4154° (static)
+|- Current look H V -178.133° -10.4154°
+|- Target aim H V 0.00683594° -10.4154° (static)
+|- Current aim H V -178.133° -10.4154°
+|- Current absolute threat to AI 0
+|- Current active threat to AI 0
+|- Current acute creature threats to AI 0
+|- Current acute player threats to AI 0
+|- Silent attack viability time 0 s
+|- Tracked/stateful targets 0/0
+|- Water 100% Energy 100% Heat -2%
+|- Health 100% Blood 100% Shock 100%
+|- Item in hands AKM:22049<54f9fa30>
+|- Weapon AKM:22049<54f9fa30>
+|  |- Is chambered true
+|  |- Has attached mag Mag_AKM_Drum75Rnd:22051<d4ded1a0> (74/75)
+|  \- Ammo/mag to reload not evaluated
+|- Melee weapons 1
+|  \- BaseballBat:22048<14047960>
+|- Firearm types and ammo/mags to reload 0
+|- Ammo/mags 0
+|- Food 0/14
+|- Cargo space taken 0/280
+\- Items in cargo 0

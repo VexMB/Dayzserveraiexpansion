@@ -1,0 +1,160 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\crash_2025-12-13_15-38-13.log started at 13.12. 15:38:36
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 13.12 2025 15:38:36
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:BasicMap\ServerMarkers.json":
+JSON ERROR:
+The document is empty.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+BasicMap/scripts/3_Game/basicmapcontroller.c:168 Function LoadServerMarkers
+BasicMap/scripts/3_Game/basicmapcontroller.c:44 Function Init
+BasicMap/scripts/5_Mission/mission\missionserver.c:4 Function MissionServer@350#1
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@InventoryPlusPlus;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 13.12 2025 15:38:58
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ExpansionMh6_Sunset".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@InventoryPlusPlus;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 13.12 2025 15:38:58
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ExpansionMerlin_Vrana".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@InventoryPlusPlus;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 13.12 2025 15:38:58
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ExpansionUh1h_Medical".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@InventoryPlusPlus;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 13.12 2025 15:38:58
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ExpansionUh1h_Resistance".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@InventoryPlusPlus;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 13.12 2025 15:38:58
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ExpansionMh6_Sunset".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@InventoryPlusPlus;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 13.12 2025 15:39:00
+Can't Acquire() global ID before mission is loaded!
+Class:      'ExpansionGlobalID'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionglobalid.c:35 Function Acquire
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\vehicles\carscript.c:412 Function CF_OnStoreSave
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:54 Function OnStoreSave
+JM/CF/Scripts/4_World/communityframework\entities\carscript.c:9 Function OnStoreSave
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@InventoryPlusPlus;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 13.12 2025 15:39:00
+Can't Acquire() global ID before mission is loaded!
+Class:      'ExpansionGlobalID'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionglobalid.c:35 Function Acquire
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\vehicles\carscript.c:412 Function CF_OnStoreSave
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:54 Function OnStoreSave
+JM/CF/Scripts/4_World/communityframework\entities\carscript.c:9 Function OnStoreSave
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@InventoryPlusPlus;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 13.12 2025 15:39:00
+Can't Acquire() global ID before mission is loaded!
+Class:      'ExpansionGlobalID'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionglobalid.c:35 Function Acquire
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\vehicles\carscript.c:412 Function CF_OnStoreSave
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:54 Function OnStoreSave
+JM/CF/Scripts/4_World/communityframework\entities\carscript.c:9 Function OnStoreSave
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@InventoryPlusPlus;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 13.12 2025 15:39:00
+Can't Acquire() global ID before mission is loaded!
+Class:      'ExpansionGlobalID'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionglobalid.c:35 Function Acquire
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\vehicles\carscript.c:412 Function CF_OnStoreSave
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:54 Function OnStoreSave
+JM/CF/Scripts/4_World/communityframework\entities\carscript.c:9 Function OnStoreSave
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@InventoryPlusPlus;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 13.12 2025 15:39:00
+Can't Acquire() global ID before mission is loaded!
+Class:      'ExpansionGlobalID'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionglobalid.c:35 Function Acquire
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\vehicles\carscript.c:412 Function CF_OnStoreSave
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:54 Function OnStoreSave
+JM/CF/Scripts/4_World/communityframework\entities\carscript.c:9 Function OnStoreSave
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@InventoryPlusPlus;@Bullet Stacking - More Ammo dologs  adminlog  

@@ -1,0 +1,73 @@
+---------------------------------------------
+Log warning_2025-12-16_22-43-42.log started at 2025-12-16 22:48:40
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:48:40.582 [eAI_SurvivorM_Cyril<3ed58ff0>::RPC_eAI_RemoteRecreateWeapon] :: [WARNING] :: Recreated network representation of TTC_M4DMR_Base<9db08c0>
+Class:      'eAI_SurvivorM_Cyril'
+Entity id:2998926
+Function: 'RPC_eAI_RemoteRecreateWeapon'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:1171
+DayZExpansion/AI/Scripts/1_Core/dayzexpansion_ai\eairegisterfaction.c:21
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionrpcmanager.c:589
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionrpcmanager.c:516
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:272
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:48:43.180 [eAI_SurvivorF_Judy<3e951020>::RPC_eAI_RemoteRecreateWeapon] :: [WARNING] :: Recreated network representation of TTC_Raptr_Base<9db24e0>
+Class:      'eAI_SurvivorF_Judy'
+Entity id:2999040
+Function: 'RPC_eAI_RemoteRecreateWeapon'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:1171
+DayZExpansion/AI/Scripts/1_Core/dayzexpansion_ai\eairegisterfaction.c:21
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionrpcmanager.c:589
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionrpcmanager.c:516
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:272
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+23:05:17.065 [Animal_CanisLupus<86741a30>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: TTC_MCX_Base<9dc5a40>)
+Class:      'Animal_CanisLupus'
+Entity id:2996575
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+23:05:22.468 [Animal_CanisLupus<8673e560>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: TTC_FAL_Base<6000c930>)
+Class:      'Animal_CanisLupus'
+Entity id:2996573
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+23:13:51.335 [ZmbM_HunterOld_Base<6770af30>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: TTC_M110_Base<6dfdf8a0>)
+Class:      'ZmbM_HunterOld_Base'
+Entity id:3004085
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213

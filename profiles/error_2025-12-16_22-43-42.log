@@ -1,0 +1,5127 @@
+---------------------------------------------
+Log error_2025-12-16_22-43-42.log started at 2025-12-16 22:44:16
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.835 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Wreck_UH1Y': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.836 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Wreck_Mi8_Crashed': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.840 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Land_Wreck_sed01_aban1_police': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.840 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Land_Wreck_sed01_aban2_police': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.841 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Land_Wreck_hb01_aban1_police': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.841 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Object patrol 'Land_Wreck_hb01_aban2_police': Persistence is not supported for object patrols
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.841 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.842 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.842 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.842 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.842 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.843 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.843 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.843 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.844 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.844 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.844 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.844 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.845 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.845 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.845 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.846 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.846 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.846 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.846 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.847 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.847 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.847 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.847 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.848 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.848 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.848 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.848 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.849 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.849 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.849 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.850 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.850 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.850 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.850 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.851 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.851 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.851 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.852 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.852 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.852 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.852 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.853 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.853 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.853 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.853 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.854 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.854 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.854 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.854 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.855 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.855 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.855 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.856 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.856 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.856 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.856 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.857 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.857 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.857 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.857 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.858 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.858 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.858 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.859 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.859 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.859 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.859 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.860 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.860 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.860 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.860 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.861 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.861 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.861 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.861 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.862 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.862 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.862 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.863 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.863 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.863 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.863 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.864 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.864 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.864 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.864 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.865 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.865 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.865 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.866 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.866 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.866 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.866 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.867 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.867 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.867 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.867 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.868 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.868 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.868 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.869 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.869 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.869 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.870 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.870 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.870 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.870 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.871 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.871 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.871 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.871 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.872 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.872 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.872 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.872 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.873 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.873 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.873 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.874 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.874 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.874 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.874 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.875 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.875 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.875 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.875 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.876 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.876 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.876 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.877 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.877 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.877 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.877 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.878 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.878 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.878 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.878 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.879 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.879 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.879 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.879 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.880 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.880 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.880 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.880 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.881 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.881 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.881 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.882 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.882 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.882 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.882 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.883 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.883 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.883 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.883 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.884 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.884 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.884 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.885 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.885 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.885 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.885 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.886 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.886 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.886 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.886 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.887 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.887 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.887 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.887 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.888 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.888 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.888 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.889 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.889 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.889 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.889 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.890 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.890 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.890 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.890 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.891 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.891 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.891 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.891 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.892 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.892 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.892 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.893 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.893 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.893 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.893 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.894 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.894 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.894 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.894 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.895 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.895 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.895 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.896 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.896 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.896 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.896 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.897 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.897 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.897 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.897 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.898 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.898 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.898 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.898 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.899 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.899 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.899 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.899 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.900 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.900 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.900 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.901 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.901 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.901 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.901 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.902 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.902 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.902 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.903 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.903 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.903 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.903 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.904 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.904 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.904 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.904 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.905 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.905 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.905 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.905 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.906 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.906 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.906 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.907 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.907 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.907 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.908 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.908 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.908 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.908 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.909 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.909 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.909 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.909 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.910 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.910 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.910 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.910 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.911 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.911 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.911 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.911 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.912 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.912 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.912 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.912 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.913 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.913 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.913 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.914 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.914 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.914 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.914 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.915 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.915 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.915 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.915 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.916 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.916 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.916 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.917 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.917 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.917 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.917 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.918 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.918 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.918 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.918 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.919 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.919 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.919 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.920 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.920 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.920 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.920 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.921 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.921 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.921 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.921 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.922 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.922 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.922 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.922 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.923 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.923 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.923 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.923 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.924 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.924 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.924 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.925 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.925 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.925 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.925 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.926 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.926 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.926 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.926 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.927 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.927 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.927 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.928 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.928 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.928 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.928 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.929 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.929 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.929 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.929 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.930 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.930 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.930 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.931 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.931 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.931 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.931 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.932 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.932 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.932 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.932 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.933 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.933 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.933 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.934 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.934 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.934 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.934 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.935 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.935 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.935 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.935 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.936 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.936 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.936 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.936 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.937 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.937 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.937 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.938 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.938 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.938 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.938 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.939 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.939 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.939 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.939 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.940 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.940 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.940 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.941 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.941 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.941 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.941 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.942 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.942 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.942 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.942 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.943 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.943 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.943 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.943 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.944 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.944 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.944 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.945 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.945 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.945 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.946 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.946 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.946 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.946 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.947 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.947 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.947 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.947 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.948 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.948 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.948 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.949 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.949 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.949 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.949 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.950 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.950 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.950 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.951 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.951 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.952 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.952 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.952 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.953 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.953 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.953 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.953 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.954 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.954 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.954 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.954 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.955 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.955 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.955 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.955 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.956 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.956 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.956 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.957 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.957 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.957 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.957 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.958 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.958 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.958 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.959 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.959 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.959 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.959 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.960 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.960 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.960 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.960 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.961 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.961 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.961 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.961 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.962 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.962 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.962 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.963 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.963 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.963 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.963 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.964 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.964 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.964 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.965 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.965 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.965 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.965 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.966 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.966 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.966 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.966 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.967 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.967 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.967 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.967 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.968 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.968 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.968 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.969 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.969 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.969 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.969 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.970 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.970 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.970 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.970 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.971 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.971 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.971 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.972 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.972 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.972 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.973 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.973 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.973 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.973 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.974 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.974 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.974 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.974 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.975 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.975 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.975 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.975 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.976 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.976 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.976 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.977 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.977 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.977 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.977 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.978 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.978 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.978 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.979 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.979 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.979 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.979 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.980 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.980 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.980 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.980 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.981 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.981 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.981 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.982 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.982 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.982 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.983 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.983 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.983 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.983 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.984 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.984 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.984 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.985 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.985 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.985 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.985 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.986 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.986 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.986 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.986 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.987 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.987 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.987 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.987 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.988 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.988 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.988 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.989 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.989 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.989 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.990 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.990 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.990 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.990 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.991 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.991 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.991 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.992 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.992 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.992 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.992 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.993 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.993 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.993 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.993 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.994 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.994 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.994 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.994 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.995 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.995 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.995 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.995 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.996 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.996 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.996 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.996 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.997 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.997 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.997 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.998 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.998 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.998 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.998 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.999 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.999 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.999 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:16.999 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.000 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.000 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.000 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.000 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.001 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.001 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.001 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.002 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.002 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.002 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.002 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.003 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.003 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.003 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.003 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.004 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.004 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.004 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.004 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.005 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.005 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.005 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.005 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.006 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.006 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.006 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.007 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.007 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.007 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.007 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.008 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.008 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.008 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.008 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.009 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.009 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.010 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.010 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.010 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.011 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.011 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.011 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.011 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.012 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.012 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.012 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.013 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.013 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.013 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.013 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.014 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.014 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.014 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.014 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.015 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.015 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.015 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.015 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.016 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.016 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.016 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.016 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.017 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.017 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.017 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.017 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.018 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.018 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.018 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.019 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.019 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.019 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.019 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.020 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.020 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.020 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.021 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.021 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.021 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.021 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.022 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.022 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.022 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.022 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.023 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.023 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.023 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.023 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.024 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.024 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.024 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.025 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.025 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.025 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.025 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.026 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.026 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.026 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.026 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.027 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.027 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.027 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.028 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.028 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.028 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.028 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.029 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.029 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.029 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.029 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.030 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.030 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.030 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.030 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.031 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.031 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.031 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.032 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.032 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.032 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.033 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.033 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.033 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.033 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.034 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.034 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.034 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.034 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.035 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.035 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.035 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.035 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.036 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.036 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.036 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.036 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.037 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.037 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.037 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.038 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.038 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.038 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.038 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.039 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.039 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.039 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.039 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.040 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.040 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.040 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.040 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.041 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.041 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.041 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.041 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.042 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.042 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.042 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.042 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.043 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.043 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.043 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.044 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.044 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.044 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.045 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.045 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.045 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.045 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.046 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.046 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.046 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.046 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.047 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.047 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.047 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.047 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.048 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.048 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.048 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.048 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.049 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.049 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.049 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.050 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.050 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.050 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.050 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.051 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.051 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.051 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.052 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.052 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.052 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.052 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.053 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.053 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.053 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.053 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.054 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.054 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.054 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.054 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.055 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.055 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.055 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.056 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.056 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.056 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.056 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.057 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.057 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.057 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.057 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.058 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.058 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.058 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.059 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.059 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.059 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.059 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.060 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.060 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.060 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.061 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.061 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.061 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.061 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.062 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.062 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.062 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.063 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.063 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.063 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.063 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.064 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.064 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.064 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.064 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.065 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.065 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.065 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.065 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.066 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.066 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.066 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.067 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.067 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.067 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.067 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.068 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.068 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.068 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.068 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.069 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.069 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.069 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.070 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.070 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.070 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.070 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.071 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.071 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.071 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.071 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.072 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.072 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+22:44:17.072 [ExpansionAIPatrolSettings<461d2770>] :: [ERROR] :: Not an unique persistent patrol name: ''
+Class:      'ExpansionAIPatrolSettings'

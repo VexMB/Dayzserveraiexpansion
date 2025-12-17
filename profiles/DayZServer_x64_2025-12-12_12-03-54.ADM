@@ -1,0 +1,15 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-12 at 12:03:55
+12:15:23 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) is connected
+12:23:36 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4434.6, 8339.5, 314.0>)[HP: 90] hit by AI "Gabi" (group=5 faction="West" pos=<4434.2, 8340.3, 314.0>) into Torso(1) for 10 damage (FirearmHit_Rifle_Buttstock) with LAR
+12:23:37 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4435.1, 8338.9, 313.9>)[HP: 34.7323] hit by AI "Gabi" (group=5 faction="West" pos=<4434.0, 8340.9, 314.0>) into Torso(1) for 55.2677 damage (Bullet_308Win) with LAR from 2.31214 meters 
+12:23:37 | Player "Vex" (DEAD) (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4435.1, 8338.9, 313.9>)[HP: 0] hit by AI "Gabi" (group=5 faction="West" pos=<4434.0, 8340.9, 314.0>) into Torso(1) for 55.2556 damage (Bullet_308Win) with LAR from 2.31214 meters 
+12:23:37 | Player "Vex" (DEAD) (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4435.1, 8338.9, 313.9>) killed by AI "Gabi" (group=5 faction="West" pos=<4434.0, 8340.9, 314.0>) with LAR from 2.31214 meters 
+12:23:46 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) has been disconnected
+12:24:47 | AI "Maria" (group=7 faction="East" pos=<4579.2, 8182.7, 317.8>) is unconscious
+12:24:57 | AI "Maria" (group=7 faction="East" pos=<4578.7, 8182.0, 317.8>) regained consciousness
+12:25:20 | AI "Maria" (DEAD) (group=7 faction="East" pos=<4576.5, 8181.5, 317.6>) bled out
+12:25:56 | AI "Indar" (DEAD) (group=9 faction="East" pos=<4547.6, 8174.5, 315.8>) bled out
+12:26:45 | AI "Eva" (DEAD) (group=8 faction="East" pos=<4468.3, 8109.7, 323.0>) bled out

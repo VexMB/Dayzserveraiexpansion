@@ -1,0 +1,32 @@
+{
+    "m_IsLoaded": 0,
+    "m_Version": 1,
+    "Enabled": 1,
+    "RaidChance": 0.5,
+    "RaidIntervalMin": 1800,
+    "RaidIntervalMax": 3600,
+    "RaidIntervalOffset": 900,
+    "MinAICount": 2,
+    "MaxAICount": 3,
+    "ExtraAICountPerPlayer": 2,
+    "AccuracyMin": 0.5,
+    "AccuracyMax": 0.699999988079071,
+    "ThreatDistanceLimit": 250.0,
+    "NoiseInvestigationDistanceLimit": 150.0,
+    "DamageMultiplier": 1.0,
+    "DamageReceivedMultiplier": 1.0,
+    "MinSpawnDistance": 80.0,
+    "MaxSpawnDistance": 150.0,
+    "DespawnDistance": 300.0,
+    "RaidFactions": [
+        "Raiders"
+    ],
+    "DefaultLoadout": "HumanLoadout",
+    "RaidBehavior": "ROAMING",
+    "MovementSpeed": "JOG",
+    "ThreatSpeed": "SPRINT",
+    "RaidDurationMin": 600,
+    "RaidDurationMax": 1200,
+    "EnableLogging": 0,
+    "EnableDebugMarkers": 0
+}

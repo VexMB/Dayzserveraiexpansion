@@ -1,0 +1,43 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-16 at 20:41:39
+20:43:49 | Player "Bonesaw"(id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk=) is connected
+20:44:09 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) is connected
+20:50:50 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<6086.4, 14728.2, 468.7>)[HP: 98.879] hit by AI "Indar" (group=2 faction="West" pos=<6103.0, 14725.8, 469.2>) into LeftArm(18) for 11.2104 damage (Bullet_9x19) with SG5-K from 16.7824 meters 
+20:50:54 | AI "Frida" (group=1 faction="West" pos=<6092.6, 14736.4, 474.2>) is unconscious
+20:51:05 | AI "Indar" (group=2 faction="West" pos=<6087.6, 14728.8, 469.2>) is unconscious
+20:51:11 | AI "Frida" (group=1 faction="West" pos=<6093.1, 14736.7, 474.4>) regained consciousness
+20:51:22 | AI "Indar" (group=2 faction="West" pos=<6088.2, 14729.3, 469.6>) regained consciousness
+21:03:14 | AI "Jose" (group=10 faction="West" pos=<5797.6, 14322.3, 329.5>) is unconscious
+21:03:47 | AI "Jose" (group=10 faction="West" pos=<5797.7, 14322.5, 329.5>) regained consciousness
+21:07:59 | AI "Jose" (group=10 faction="West" pos=<5641.1, 14572.6, 365.7>) is unconscious
+21:08:32 | AI "Jose" (group=10 faction="West" pos=<5641.4, 14571.9, 365.5>) regained consciousness
+21:09:32 | AI "Guo" (group=15 faction="West" pos=<4117.2, 14396.1, 260.7>) is unconscious
+21:10:24 | AI "Guo" (group=15 faction="West" pos=<4116.5, 14395.5, 260.4>) regained consciousness
+21:13:03 | AI "Guo" (group=15 faction="West" pos=<4026.7, 14490, 290.5>) is unconscious
+21:13:16 | AI "Linda" (group=24 faction="West" pos=<3972.5, 14461.1, 267.2>) is unconscious
+21:13:20 | AI "Baty" (group=24 faction="West" pos=<3976.9, 14449.2, 264.2>) is unconscious
+21:13:42 | AI "Linda" (group=24 faction="West" pos=<3972.6, 14459.9, 266.9>) regained consciousness
+21:13:50 | AI "Guo" (group=15 faction="West" pos=<4028, 14489, 290.2>) regained consciousness
+21:14:10 | AI "Baty" (group=24 faction="West" pos=<3975.5, 14448.5, 263.9>) regained consciousness
+21:17:53 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<2571.8, 14818.9, 450.4>)[HP: 99.725] hit by WoodenStick with InediaInfectedAI_ThrowingProjectile
+21:17:58 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<2573.0, 14819.7, 450.6>)[HP: 98.915] hit by WoodenStick with InediaInfectedAI_ThrowingProjectile
+21:18:21 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<2572.8, 14819.7, 450.6>)[HP: 99.3611] hit by SmallStone with InediaInfectedAI_ThrowingProjectile
+21:18:25 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<2570.7, 14819.2, 448.0>)[HP: 98.135] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+21:31:07 | AI "Gabi" (group=28 faction="West" pos=<1255.1, 15029.4, 429.1>) is unconscious
+21:38:59 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<2268.5, 15198.5, 435.9>)[HP: 98.5082] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+21:39:00 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<2268.5, 15198.6, 435.9>)[HP: 97.192] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+21:44:59 | AI "Taiki" (group=41 faction="West" pos=<1310.5, 14993.3, 430.0>) is unconscious
+21:45:15 | AI "Taiki" (group=41 faction="West" pos=<1310.9, 14992.6, 430.0>) regained consciousness
+21:45:34 | AI "Indar" (group=41 faction="West" pos=<1311.7, 14983.4, 430.0>) is unconscious
+21:45:51 | AI "Indar" (group=41 faction="West" pos=<1311.1, 14984, 430.0>) regained consciousness
+21:54:16 | AI "Keiko" (group=30 faction="West" pos=<1665.7, 14903.7, 435.3>) is unconscious
+21:54:34 | AI "Keiko" (group=30 faction="West" pos=<1665.4, 14903.2, 435.4>) regained consciousness
+21:54:40 | AI "Keiko" (group=30 faction="West" pos=<1665.5, 14903.7, 435.4>) is unconscious
+21:54:58 | AI "Keiko" (group=30 faction="West" pos=<1664.0, 14903.5, 435.4>) regained consciousness
+21:55:52 | AI "Helga" (group=41 faction="West" pos=<2023.3, 15058.3, 447.1>) is unconscious
+21:56:06 | AI "Helga" (group=41 faction="West" pos=<2024.0, 15057.7, 447.1>) regained consciousness
+22:22:45 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<1784.4, 15250.5, 453.9>) built ShelterStick with Hands 
+22:40:06 | Player "Bonesaw"(id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk=) has been disconnected
+22:40:12 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) has been disconnected

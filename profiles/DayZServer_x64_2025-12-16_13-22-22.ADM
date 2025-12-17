@@ -1,0 +1,22 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-16 at 13:22:22
+13:24:39 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) is connected
+13:30:58 | AI "Taiki" (group=5 faction="Mercenaries" pos=<6489.5, 8515.7, 366.6>) is unconscious
+13:31:11 | AI "Taiki" (group=5 faction="Mercenaries" pos=<6489.3, 8516.9, 366.7>) regained consciousness
+13:31:14 | AI "Taiki" (group=5 faction="Mercenaries" pos=<6489.7, 8517.5, 366.9>) is unconscious
+13:31:28 | AI "Taiki" (group=5 faction="Mercenaries" pos=<6490.4, 8518.0, 367.1>) regained consciousness
+13:38:20 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5437.7, 8538.1, 329.3>)[HP: 99.5028] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+13:39:25 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5379.7, 8574.1, 331.1>)[HP: 96.7825] hit by Infected into Head(0) for 1.7875 damage (MeleeInfected)
+13:39:28 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5379.7, 8573.2, 331.1>)[HP: 95.3718] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+13:40:16 | AI "Quinn" (group=7 faction="Raiders" pos=<5368.5, 8532.7, 332.9>) is unconscious
+13:47:48 | AI "Hassan" (group=9 faction="Raiders" pos=<4486.2, 8546.1, 318.9>) is unconscious
+13:49:12 | AI "Hassan" (group=9 faction="Raiders" pos=<4485.4, 8546.4, 318.9>) regained consciousness
+13:52:21 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4498.6, 8362.1, 315.3>)[HP: 99.133] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+14:24:11 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5960.5, 7722.8, 304.4>)[HP: 98.5082] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+14:24:21 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5960.1, 7722.4, 304.4>)[HP: 98.2811] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+14:24:22 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5959.0, 7723.0, 304.4>)[HP: 97.5161] hit by Infected into Torso(1) for 1.275 damage (MeleeZombie)
+14:24:23 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5959.0, 7723.0, 304.4>)[HP: 95.7949] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+14:24:24 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5959.0, 7723.0, 304.4>)[HP: 95.3322] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+14:45:00 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) has been disconnected

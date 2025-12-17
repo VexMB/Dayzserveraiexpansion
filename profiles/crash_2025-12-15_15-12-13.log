@@ -1,0 +1,86 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\crash_2025-12-15_15-12-13.log started at 15.12. 15:12:55
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 15.12 2025 15:12:55
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:BasicMap\ServerMarkers.json":
+JSON ERROR:
+The document is empty.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+BasicMap/scripts/3_Game/basicmapcontroller.c:168 Function LoadServerMarkers
+BasicMap/scripts/3_Game/basicmapcontroller.c:44 Function Init
+BasicMap/scripts/5_Mission/mission\missionserver.c:4 Function MissionServer@376#1
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-Core;@MedicalAttentionUpdated;@MedicalAttentionUpdated-DepHelper-Vanilla;@RaG_Core;@RaG_Vehicle_Pack;@RaG_BaseItems;@FirstAidPack;@EU Gear;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 15.12 2025 15:12:56
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\EastLoadout.json":
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:35 Function Init
+DayZExpansion/SpawnSelection/Scripts/5_Mission/dayzexpansion_spawnselection\mission\missionserver.c:31 Function MissionServer@556#16
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-Core;@MedicalAttentionUpdated;@MedicalAttentionUpdated-DepHelper-Vanilla;@RaG_Core;@RaG_Vehicle_Pack;@RaG_BaseItems;@FirstAidPack;@EU Gear;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 15.12 2025 15:12:56
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\FireFighterLoadout.json":
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:35 Function Init
+DayZExpansion/SpawnSelection/Scripts/5_Mission/dayzexpansion_spawnselection\mission\missionserver.c:31 Function MissionServer@556#16
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-Core;@MedicalAttentionUpdated;@MedicalAttentionUpdated-DepHelper-Vanilla;@RaG_Core;@RaG_Vehicle_Pack;@RaG_BaseItems;@FirstAidPack;@EU Gear;@Bullet Stacking - More Ammo dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 15.12 2025 15:28:19
+Unhandled exception
+
+Program: C:\Users\grand\Desktop\servers\Dayz\DayZServer_x64.exe
+Reason: Access violation. Illegal read by 0x7ff73399017e at 0x1ababddc348
+
+SymGetSymFromAddr:487, addr:0x7ff73399017e
+SymGetSymFromAddr:487, addr:0x7ff733990324
+SymGetSymFromAddr:487, addr:0x7ff73398671b
+SymGetSymFromAddr:487, addr:0x7ff73392d864
+SymGetSymFromAddr:487, addr:0x7ff73386f128
+SymGetSymFromAddr:487, addr:0x7ff733805d7d
+SymGetSymFromAddr:487, addr:0x7ff733807959
+[CDPCreateServer]: ??? addr:0x7ff734036ec0
+[CDPCreateServer]: ??? addr:0x7ff7340381b7
+SymGetSymFromAddr:487, addr:0x7ff733a8b77b
+[CDPCreateServer]: ??? addr:0x7ff73403a4d8
+SymGetSymFromAddr:487, addr:0x7ff733a8b6cf
+[CDPCreateServer]: ??? addr:0x7ff73403adfd
+SymGetSymFromAddr:487, addr:0x7ff733bb737e
+[CDPCreateServer]: ??? addr:0x7ff7341996fe
+[BaseThreadInitThunk]: ??? addr:0x7ffbdc917374
+[RtlUserThreadStart]: ??? addr:0x7ffbddcdcc91
+[RtlUserThreadStart]: ??? addr:0x7ffbddcdcc91
+
+
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-Core;@MedicalAttentionUpdated;@MedicalAttentionUpdated-DepHelper-Vanilla;@RaG_Core;@RaG_Vehicle_Pack;@RaG_BaseItems;@FirstAidPack;@EU Gear;@Bullet Stacking - More Ammo dologs  adminlog  

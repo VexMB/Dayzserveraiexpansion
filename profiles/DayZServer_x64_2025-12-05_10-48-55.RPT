@@ -1,0 +1,1180 @@
+=====================================================================
+== C:\Users\grand\Desktop\servers\Dayz\DayZServer_x64.exe
+== C:\Users\grand\Desktop\servers\Dayz\DayZServer_x64.exe -config=C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg -port=2302 -profiles=C:\Users\grand\Desktop\servers\Dayz\profiles 
+=====================================================================
+Exe timestamp: 2025/10/08 16:09:27
+Current time:  2025/12/05 10:48:57
+Version 1.28.160123
+=====================================================================
+
+10:48:57.764 [Inputs] Loading inputs default "bin/constants.xml"
+10:48:57.767 [Inputs] Loading inputs default "bin/specific.xml"
+10:48:57.767 [Inputs] Loading inputs cfg "C:\Users\grand\Desktop\servers\Dayz\profiles\Users\Survivor\Server.core.xml"
+10:48:57.770 [Inputs] Exporting inputs cfg "C:\Users\grand\Desktop\servers\Dayz\profiles\Users\Survivor\Server.core.xml"
+10:49:01.377 Hostname of server: "Bathtub Ballers Test"
+10:49:10.281 [CE][Hive] :: Initializing OFFLINE
+10:49:10.281 [StorageDirs] :: Selected storage directory: C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\
+10:49:10.281 [CE][Hive] :: Loading core data ... 
+10:49:10.282 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+10:49:13.472 [CE][TypeSetup] :: 0 classes setuped...
+10:49:13.474 [CE][TypeSetup] :: 3 classes setuped...
+10:49:13.803 [CE][RegisterBind] :: 0 classes binded...
+10:49:13.803 [CE][RegisterConfig] :: 5500 config classes registered, 0 sub-counters...
+10:49:13.803 [CE][Hive] :: Loading map data ... 
+10:49:13.807 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+10:49:13.841 [CE][LoadPrototype] :: loaded 426 prototypes
+10:49:13.841   821 containers, 10956 points
+10:49:13.841   71 dispatches, 250 proxies
+10:49:13.841 !!! [CE][LoadPrototype] 5 groups have no points...
+10:49:13.841 [CE][LoadPrototype] :: last group name: Land_Wreck_S1023_Medic_Beige_DE...
+10:49:13.846 [CE][LoadPrototype] :: loaded 0 prototypes
+10:49:13.846   55 containers, 232 points
+10:49:13.846   0 dispatches, 0 proxies
+10:49:13.846 [CE][LoadPrototype] :: last group name: Rail9...
+10:49:14.477 [CE][LoadMap] "Group" :: loaded 11680 groups, groups failed: 1, largest group range: 34.2
+10:49:14.481 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+10:49:14.755 [CE][Links] found 1946 total links between groups, of 11679
+10:49:14.755 [CE][LoadClusters] "Cluster" :: Loading files...
+10:49:14.887 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+10:49:15.25 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+10:49:15.166 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+10:49:15.307 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+10:49:15.364 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17373 instances
+10:49:15.368 [CE][Storage] ver:21 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\types.bin"
+10:49:15.368 [CE][Storage] ver:21 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\types.001"
+10:49:15.368 [CE][Storage] ver:21 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\types.002"
+10:49:15.369 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\types.bin".
+10:49:15.399 !!! [CE][offlineDB] :: No Shutdown message present.
+10:49:15.399 !!! [ERROR][XML] :: load [$CurrentDir:mpmissions\Expansion.chernarusplus\db/events.xml] failed
+10:49:15.399 !!! [ERROR][XML] :: Error reading end tag. line 1231
+10:49:15.399 !!! [CE][offlineDB] :: Failed to read events file 'db/events.xml'.
+10:49:15.400 !!! [CE][DE] (VehicleHatchback02) :: Unable to create child (Hatchback_02_BanditKitty) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Black) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Lime) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Red) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_White) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Wine) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Yellow) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_YellowBright) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZ) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZ_Black) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZ_LightGreen) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZRoofless) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZRoofless_Black) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZRoofless_LightGreen) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargo) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargo_Black) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargo_LightGreen) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargoRoofless) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargoRoofless_Black) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleUAZ) :: Unable to create child (ExpansionUAZCargoRoofless_LightGreen) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleVodnik) :: Unable to create child (ExpansionVodnik) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleBus) :: Unable to create child (ExpansionBus) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleBus) :: Unable to create child (ExpansionBus_Weeb) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleBus) :: Unable to create child (ExpansionBus_Red) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleTractor) :: Unable to create child (ExpansionTractor) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleTractor) :: Unable to create child (ExpansionTractor_Blue) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleTractor) :: Unable to create child (ExpansionTractor_Green) as the type does not exist.
+10:49:15.400 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Yellow) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Red) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Green) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Grey) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Orange) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleLandRover) :: Unable to create child (Expansion_Landrover_Blue) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Blueline) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Digital) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Elliptical) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Furious) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_GrayWatcher) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Jeans) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Resistance) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Shadow) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Sheriff) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Speedy) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Sunset) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Vrana) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Wasp) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMH6Helicopter) :: Unable to create child (ExpansionMh6_Wave) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin_Dahoman) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin_Ion) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin_President) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin_Vrana) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleMerlinHelicopter) :: Unable to create child (ExpansionMerlin_Wave) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleUh1hHelicopter) :: Unable to create child (ExpansionUh1h) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleUh1hHelicopter) :: Unable to create child (ExpansionUh1h_Medical) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleUh1hHelicopter) :: Unable to create child (ExpansionUh1h_Uber) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleUh1hHelicopter) :: Unable to create child (ExpansionUh1h_Resistance) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleUtilityBoat) :: Unable to create child (ExpansionUtilityBoat) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleZodiacBoat) :: Unable to create child (ExpansionZodiacBoat) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleZodiacBoat) :: Unable to create child (ExpansionZodiacBoat_Black) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleZodiacBoat) :: Unable to create child (ExpansionZodiacBoat_Green) as the type does not exist.
+10:49:15.401 !!! [CE][DE] (VehicleGyroHelicopter) :: Unable to create child (ExpansionGyrocopter) as the type does not exist.
+10:49:15.401 [CE][offlineDB] :: Loaded 13 dynamic events 0 total types.
+10:49:15.430 !!! [ERROR][XML] :: load [$CurrentDir:mpmissions\Expansion.chernarusplus\db/types.xml] failed
+10:49:15.430 !!! [ERROR][XML] :: Error reading Element value.
+10:49:15.430 !!! [CE][offlineDB] :: Failed to read types file 'db/types.xml'.
+10:49:15.438 !!! [CE][offlineDB] :: Type 'OffroadHatchback_WhiteRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'OffroadHatchback_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'OffroadHatchback_GreenRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Hatchback_02_BlackRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Hatchback_02_BlueRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Hatchback_02_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Hatchback_02_RedRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Hatchback_02_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_1_1_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_1_2_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_2_1_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_2_2_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Hatchback_02_Hood_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Hatchback_02_Trunk_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+10:49:15.438 !!! [CE][offlineDB] :: Type 'Sedan_02_GreyRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_RedRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_YellowRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_YellowBright' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_2_YellowBright' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_2_YellowBright' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Hood_YellowBright' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Trunk_YellowBright' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_1_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_2_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_1_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_2_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Hood_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Trunk_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_BlueRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_1_BlueRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_2_BlueRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_1_BlueRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_2_BlueRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Hood_BlueRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Sedan_02_Trunk_BlueRust' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_White' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_White' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_White' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_White' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Wine' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Wine' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Wine' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Wine' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Lime' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Lime' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Lime' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Lime' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_YellowBright' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_YellowBright' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Blueline' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Digital' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Elliptical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Furious' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Jeans' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Resistance' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Shadow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Sheriff' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Speedy' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Sunset' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Vrana' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Wasp' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Wave' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionHatchBird' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionUh1h' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Civilian' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Medical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Resistance' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Uber' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMerlin' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Dahoman' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Ion' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_President' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Vrana' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Wave' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionGyrocopter' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMh6Wreck' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionUh1hWreck' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionMerlinWreck' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionGyrocopterWreck' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionUtilityBoat' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Orange' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.439 !!! [CE][offlineDB] :: Type 'ExpansionLHD' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZ' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZRoofless' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargo' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargoRoofless' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZ_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargo_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZ_LightGreen' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargo_LightGreen' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargoRoofless_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargoRoofless_LightGreen' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZRoofless_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZRoofless_LightGreen' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionVodnik' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBus' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBus_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBus_Weeb' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionTractor' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionTractor_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionTractor_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Orange' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Grey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Ruined' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Orange' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Orange' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Orange' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Orange' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Orange' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Orange' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Orange' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Grey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Grey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Grey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Grey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Grey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Grey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Grey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionHelicopterBattery' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAircraftBattery' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionIgniterPlug' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionHydraulicHoses' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBusWheel' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBusWheelDouble' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZWheel' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionTractorFrontWheel' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionTractorBackWheel' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionTractorDoorsDriver' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionTractorDoorsCoDriver' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionVodnikWheel' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionVodnikDoorDriver' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionVodnikDoorCoDriver' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorHood' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorDriver' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCoDriver' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo1' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo2' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorHood_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorDriver_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCoDriver_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo1_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo2_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorHood_LightGreen' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorDriver_LightGreen' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCoDriver_LightGreen' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo1_LightGreen' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo2_LightGreen' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Civilian' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Civilian' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Civilian' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Civilian' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Medical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Medical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Medical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Medical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Uber' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Uber' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Uber' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Uber' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Blueline' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Blueline' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Blueline' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Blueline' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Digital' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Digital' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Digital' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Digital' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Elliptical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Elliptical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Elliptical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Elliptical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Furious' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Furious' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Furious' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Furious' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Jeans' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Jeans' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Jeans' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Jeans' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Shadow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Shadow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Shadow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Shadow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Sheriff' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Sheriff' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Sheriff' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Sheriff' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Speedy' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Speedy' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Speedy' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Speedy' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Sunset' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Sunset' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Sunset' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Sunset' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Vrana' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Vrana' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Vrana' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Vrana' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Wasp' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Wasp' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Wasp' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Wasp' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Wave' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Wave' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Wave' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Wave' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionKar98ScopeOptic' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionDeltapointOptic' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionEXPS3HoloOptic' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionHAMROptic' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_PMII25Optic' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionReflexMRSOptic' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_M1A_RailAtt' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_ANPEQ15_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Kar98_Bayonet' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSatchel' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Crossbow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionRPG7' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionLAW' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Taser_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Taser_Black' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_M9' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_G36' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_MPX' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_MP5' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_MP5SD' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_MP5_RailAtt' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_MP7' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Kedr' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_VityazSN' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_M16' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_M1A' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_M14' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_DT11' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_BenelliM4' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_AWM' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Kar98' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'AmmoBox_Expansion_46x30_25rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'AmmoBox_Expansion_338_15rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_AmmoBox_8mm_15rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Ammo_8mm' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAmmoRPG' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAmmoLAW' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_White' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Purple' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Teargas' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_White' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Red' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Green' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Yellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Purple' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Teargas' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_HE' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_46x30' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_338' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Ammo_ArrowBolt' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Taser' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Vityaz_30Rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M14_20Rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M14_10Rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M9_15Rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Mag_Expansion_MPX_50Rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Mag_Expansion_G36_30Rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Kedr_20Rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Mag_Expansion_MP7_40Rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Mag_Expansion_AWM_5Rnd' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionGoldBar' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSilverBar' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionGoldNugget' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSilverNugget' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteUSD' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteEuro' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteHryvnia' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionTemporaryOwnedContainer' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionLumber1' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionLumber1_5' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionLumber3' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionFloorKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionWoodPillarKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionRampKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionStairKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionWallKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCamoBoxKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBarrierGateKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCamoTentKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSafeLarge' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSafeMini' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSafeMedium' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionGunrack' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionHelipadKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBarbedWireKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionHescoKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCodeLock' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCone' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSignDanger' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSignDanger2' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSignDanger3' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSignRoadBarrier' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBarbedWire' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionHesco' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBarrierGate' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCamoBox' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCamoTent' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionHelipad' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionStove' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionWoodPillar' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionWall6x3' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionFloor6x6' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionFloor3x3' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionRamp6x1_5x6' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionStairS1_5x3x3' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionParkingMeter' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionParkingMeterKit' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCircuitBoard_MK1' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCircuitBoard_MK2' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCircuitBoard_MK3' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCarAdminKey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAdminHammer' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAdminChest' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCarKey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionGPS' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBoltCutters' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionPropaneTorch' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionToolBox' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionMilkBottle' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBread1' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBread2' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBread3' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCheese1' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCheese2' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCheese3' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionCheese4' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Gravecross_LowLifetime' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Gravecross' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanGreen' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanBlue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWhite' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanRed' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanBlack' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanGrey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWine' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanYellow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWeeb' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanDahoman' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanIon' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanPresident' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanVrana' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWave' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanCivilian' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanMedical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanUber' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanBlueline' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanDigital' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanElliptical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanFurious' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanGrayWatcher' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanJeans' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanShadow' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanSpeedy' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanSunset' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWasp' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Medical' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Basebuilding' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Grey' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Blue' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Olive' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_GreenCamo' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_MarineCamo' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_OliveCamo' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_OliveCamo2' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_Generic_Vehicle_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionGarageVehicle' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'CivilianSedan_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Hatchback_02_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'OffroadHatchback_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Offroad_02_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Sedan_02_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionBus_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionGyrocopter_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'Expansion_LandRover_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionTractor_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUAZ_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionVodnik_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionUtilityBoat_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Cover' will be ignored. (Type does not exist. (Typo?))
+10:49:15.440 !!! [CE][offlineDB] :: Type 'ExpansionDebugGoat' will be ignored. (Type does not exist. (Typo?))
+10:49:15.474 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleCivilianSedan'.
+10:49:15.474 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleSedan02'.
+10:49:15.474 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticHeliCrash'.
+10:49:15.474 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticSantaCrash'.
+10:49:15.474 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticChristmasTree'.
+10:49:15.474 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticBonfire'.
+10:49:15.474 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticContaminatedArea'.
+10:49:15.474 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'Loot'.
+10:49:15.474 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleOffroadHatchback'.
+10:49:15.475 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleOffroad02'.
+10:49:15.475 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticPoliceCar'.
+10:49:15.475 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'ItemPlanks'.
+10:49:15.475 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleBoat'.
+10:49:15.475 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticAirplaneCrate'.
+10:49:15.475 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticTrain'.
+10:49:15.475 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticMilitaryConvoy'.
+10:49:15.475 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'StaticPoliceSituation'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'InfectedVillage'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'InfectedSolitude'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'InfectedArmy'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'InfectedCity'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'InfectedMedic'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'InfectedPolice'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'InfectedFirefighter'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'InfectedPrisoner'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalDeer'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalCow'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalSheep'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalRoeDeer'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalWolf'.
+10:49:15.476 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'AnimalWildBoar'.
+10:49:15.476 [CE][DE][SPAWNS] :: Total positions: 225
+10:49:15.476 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 0
+10:49:15.477 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\events.bin"
+10:49:15.477 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\events.001"
+10:49:15.478 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\events.002"
+10:49:15.478 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\events.bin".
+10:49:15.478 [CE][DynamicEvent] Load  Events:[61] Primary spawners: 13 Secondary spawners: 0
+10:49:15.478 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin"
+10:49:15.479 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.001"
+10:49:15.479 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.002"
+10:49:15.480 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin" 881 items.
+10:49:15.486 !!! Serious stream damage detected during load, file offset: 53b
+10:49:15.748 !!! Serious stream damage detected during load, file offset: e2ed
+10:49:15.817 !!! Serious stream damage detected during load, file offset: 14f9d
+10:49:15.826 !!! Serious stream damage detected during load, file offset: 16100
+10:49:15.924   877 items loaded. (4 failed)
+10:49:15.925 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin"
+10:49:15.925 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.001"
+10:49:15.926 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.002"
+10:49:15.926 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin" 1775 items.
+10:49:15.927 !!! Serious stream damage detected during load, file offset: 31b
+10:49:15.933 !!! Serious stream damage detected during load, file offset: bd3
+10:49:15.935 !!! Serious stream damage detected during load, file offset: 12a6
+10:49:15.936 !!! Serious stream damage detected during load, file offset: 142e
+10:49:15.942 !!! Serious stream damage detected during load, file offset: 1f9e
+10:49:15.942 !!! Serious stream damage detected during load, file offset: 222b
+10:49:15.942 !!! Serious stream damage detected during load, file offset: 22d5
+10:49:15.946 !!! Serious stream damage detected during load, file offset: 2a45
+10:49:15.973 !!! Serious stream damage detected during load, file offset: 6054
+10:49:15.985 !!! Serious stream damage detected during load, file offset: 711a
+10:49:16.08 !!! Serious stream damage detected during load, file offset: 9e91
+10:49:16.13 !!! Serious stream damage detected during load, file offset: a739
+10:49:16.32 !!! Serious stream damage detected during load, file offset: c296
+10:49:16.80 !!! Serious stream damage detected during load, file offset: 11aa2
+10:49:16.92 !!! Serious stream damage detected during load, file offset: 12ed6
+10:49:16.108 !!! Serious stream damage detected during load, file offset: 15049
+10:49:16.112 !!! Serious stream damage detected during load, file offset: 15ac1
+10:49:16.127 !!! Serious stream damage detected during load, file offset: 175ca
+10:49:16.127 !!! Serious stream damage detected during load, file offset: 1770a
+10:49:16.128 !!! Serious stream damage detected during load, file offset: 17922
+10:49:16.135 !!! Serious stream damage detected during load, file offset: 1860e
+10:49:16.198 !!! Serious stream damage detected during load, file offset: 20702
+10:49:16.202 !!! Serious stream damage detected during load, file offset: 212b6
+10:49:16.202 !!! Serious stream damage detected during load, file offset: 2133c
+10:49:16.204 !!! Serious stream damage detected during load, file offset: 218cc
+10:49:16.218 !!! Serious stream damage detected during load, file offset: 23ca0
+10:49:16.245 !!! Serious stream damage detected during load, file offset: 276cd
+10:49:16.247 !!! Serious stream damage detected during load, file offset: 27f5d
+10:49:16.249 !!! Serious stream damage detected during load, file offset: 28477
+10:49:16.252 !!! Serious stream damage detected during load, file offset: 28fc9
+10:49:16.258 !!! Serious stream damage detected during load, file offset: 2a14d
+10:49:16.276 !!! Serious stream damage detected during load, file offset: 2cfca
+10:49:16.291 !!! Serious stream damage detected during load, file offset: 2edc0
+10:49:16.308 !!! Serious stream damage detected during load, file offset: 3167d
+10:49:16.321 !!! Serious stream damage detected during load, file offset: 33ac3
+10:49:16.330 !!! Serious stream damage detected during load, file offset: 350cc
+10:49:16.332 !!! Serious stream damage detected during load, file offset: 3535a
+10:49:16.338 !!! Serious stream damage detected during load, file offset: 36506
+10:49:16.345 !!! Serious stream damage detected during load, file offset: 37943
+10:49:16.346 !!! Serious stream damage detected during load, file offset: 37a4b
+10:49:16.350 !!! Serious stream damage detected during load, file offset: 383d9
+10:49:16.356 !!! Serious stream damage detected during load, file offset: 394e7
+10:49:16.356 !!! Serious stream damage detected during load, file offset: 39699
+10:49:16.364 !!! Serious stream damage detected during load, file offset: 3a7d0
+10:49:16.394 !!! Serious stream damage detected during load, file offset: 3efd0
+10:49:16.400 !!! Serious stream damage detected during load, file offset: 3febd
+10:49:16.409 !!! Serious stream damage detected during load, file offset: 407cc
+10:49:16.427   1728 items loaded. (47 failed)
+10:49:16.428 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin"
+10:49:16.428 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.001"
+10:49:16.429 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.002"
+10:49:16.429 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin" 2423 items.
+10:49:16.804 !!! Serious stream damage detected during load, file offset: 381b4
+10:49:16.826 !!! Serious stream damage detected during load, file offset: 3c282
+10:49:16.874 !!! Serious stream damage detected during load, file offset: 43b7d
+10:49:16.999   2420 items loaded. (3 failed)
+10:49:17.00 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin"
+10:49:17.00 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.001"
+10:49:17.01 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.002"
+10:49:17.01 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin" 2039 items.
+10:49:17.10 !!! Serious stream damage detected during load, file offset: 18df
+10:49:17.13 !!! Serious stream damage detected during load, file offset: 2327
+10:49:17.28 !!! Serious stream damage detected during load, file offset: 4bd0
+10:49:17.30 !!! Serious stream damage detected during load, file offset: 50ee
+10:49:17.43 !!! Serious stream damage detected during load, file offset: 770c
+10:49:17.47 !!! Serious stream damage detected during load, file offset: 81aa
+10:49:17.62 !!! Serious stream damage detected during load, file offset: a98b
+10:49:17.72 !!! Serious stream damage detected during load, file offset: b846
+10:49:17.83 !!! Serious stream damage detected during load, file offset: d4a3
+10:49:17.88 !!! Serious stream damage detected during load, file offset: dd85
+10:49:17.90 !!! Serious stream damage detected during load, file offset: e0c5
+10:49:17.93 !!! Serious stream damage detected during load, file offset: e975
+10:49:17.104 !!! Serious stream damage detected during load, file offset: 10565
+10:49:17.111 !!! Serious stream damage detected during load, file offset: 11981
+10:49:17.123 !!! Serious stream damage detected during load, file offset: 13bb7
+10:49:17.126 !!! Serious stream damage detected during load, file offset: 14529
+10:49:17.135 !!! Serious stream damage detected during load, file offset: 15c2f
+10:49:17.143 !!! Serious stream damage detected during load, file offset: 16e0d
+10:49:17.144 !!! Serious stream damage detected during load, file offset: 17081
+10:49:17.151 !!! Serious stream damage detected during load, file offset: 1852f
+10:49:17.152 !!! Serious stream damage detected during load, file offset: 187fd
+10:49:17.155 !!! Serious stream damage detected during load, file offset: 191a5
+10:49:17.156 !!! Serious stream damage detected during load, file offset: 192d1
+10:49:17.168 !!! Serious stream damage detected during load, file offset: 1afff
+10:49:17.177 !!! Serious stream damage detected during load, file offset: 1c2b8
+10:49:17.196 !!! Serious stream damage detected during load, file offset: 1f4bd
+10:49:17.201 !!! Serious stream damage detected during load, file offset: 20412
+10:49:17.210 !!! Serious stream damage detected during load, file offset: 219ed
+10:49:17.212 !!! Serious stream damage detected during load, file offset: 222d5
+10:49:17.214 !!! Serious stream damage detected during load, file offset: 22693
+10:49:17.234 !!! Serious stream damage detected during load, file offset: 2632b
+10:49:17.240 !!! Serious stream damage detected during load, file offset: 27277
+10:49:17.247 !!! Serious stream damage detected during load, file offset: 27e4f
+10:49:17.250 !!! Serious stream damage detected during load, file offset: 28921
+10:49:17.261 !!! Serious stream damage detected during load, file offset: 2ab8c
+10:49:17.283 !!! Serious stream damage detected during load, file offset: 2dc4d
+10:49:17.283 !!! Serious stream damage detected during load, file offset: 2dcd3
+10:49:17.295 !!! Serious stream damage detected during load, file offset: 2f9a5
+10:49:17.298 !!! Serious stream damage detected during load, file offset: 3015d
+10:49:17.314 !!! Serious stream damage detected during load, file offset: 323f1
+10:49:17.343 !!! Serious stream damage detected during load, file offset: 3765c
+10:49:17.351 !!! Serious stream damage detected during load, file offset: 388fe
+10:49:17.352 !!! Serious stream damage detected during load, file offset: 38e08
+10:49:17.360 !!! Serious stream damage detected during load, file offset: 3a2aa
+10:49:17.375 !!! Serious stream damage detected during load, file offset: 3cd86
+10:49:17.378 !!! Serious stream damage detected during load, file offset: 3d7c2
+10:49:17.383 !!! Serious stream damage detected during load, file offset: 3e8bc
+10:49:17.385 !!! Serious stream damage detected during load, file offset: 3ecbf
+10:49:17.391 !!! Serious stream damage detected during load, file offset: 3fd33
+10:49:17.393 !!! Serious stream damage detected during load, file offset: 400fd
+10:49:17.415 !!! Serious stream damage detected during load, file offset: 43cc9
+10:49:17.424 !!! Serious stream damage detected during load, file offset: 45624
+10:49:17.467 !!! Serious stream damage detected during load, file offset: 4c350
+10:49:17.472 !!! Serious stream damage detected during load, file offset: 4d1b4
+10:49:17.477   1985 items loaded. (54 failed)
+10:49:17.479 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin"
+10:49:17.480 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.001"
+10:49:17.481 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.002"
+10:49:17.481 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin" 1781 items.
+10:49:17.523 !!! Serious stream damage detected during load, file offset: 5667
+10:49:17.643 !!! Serious stream damage detected during load, file offset: 1886c
+10:49:17.677 !!! Serious stream damage detected during load, file offset: 1df2a
+10:49:17.891   1778 items loaded. (3 failed)
+10:49:17.892 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin"
+10:49:17.893 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.001"
+10:49:17.894 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.002"
+10:49:17.894 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin" 2139 items.
+10:49:17.927 !!! Serious stream damage detected during load, file offset: 6277
+10:49:17.983 !!! Serious stream damage detected during load, file offset: f488
+10:49:18.59 !!! Serious stream damage detected during load, file offset: 1ad60
+10:49:18.113 !!! Serious stream damage detected during load, file offset: 229fb
+10:49:18.140 !!! Serious stream damage detected during load, file offset: 273ab
+10:49:18.223 !!! Serious stream damage detected during load, file offset: 32dbc
+10:49:18.244 !!! Serious stream damage detected during load, file offset: 36971
+10:49:18.258 !!! Serious stream damage detected during load, file offset: 38be6
+10:49:18.289 !!! Serious stream damage detected during load, file offset: 3dbf4
+10:49:18.329 !!! Serious stream damage detected during load, file offset: 444f4
+10:49:18.340 !!! Serious stream damage detected during load, file offset: 4624a
+10:49:18.379 !!! Serious stream damage detected during load, file offset: 4d052
+10:49:18.387   2127 items loaded. (12 failed)
+10:49:18.389 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin"
+10:49:18.390 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.001"
+10:49:18.391 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.002"
+10:49:18.391 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin" 1505 items.
+10:49:18.408 !!! Serious stream damage detected during load, file offset: 2c7c
+10:49:18.444 !!! Serious stream damage detected during load, file offset: 8d47
+10:49:18.452 !!! Serious stream damage detected during load, file offset: a1ee
+10:49:18.625 !!! Serious stream damage detected during load, file offset: 27dce
+10:49:18.640 !!! Serious stream damage detected during load, file offset: 2a139
+10:49:18.660 !!! Serious stream damage detected during load, file offset: 2d3f9
+10:49:18.717   1499 items loaded. (6 failed)
+10:49:18.718 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin"
+10:49:18.721 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.001"
+10:49:18.721 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.002"
+10:49:18.721 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin" 1460 items.
+10:49:18.757 !!! Serious stream damage detected during load, file offset: 5955
+10:49:18.761 !!! Serious stream damage detected during load, file offset: 60bb
+10:49:18.765 !!! Serious stream damage detected during load, file offset: 6d1b
+10:49:18.774 !!! Serious stream damage detected during load, file offset: 8642
+10:49:18.803 !!! Serious stream damage detected during load, file offset: cfb1
+10:49:18.872 !!! Serious stream damage detected during load, file offset: 1742a
+10:49:18.887 !!! Serious stream damage detected during load, file offset: 19779
+10:49:18.920 !!! Serious stream damage detected during load, file offset: 1e82a
+10:49:18.936 !!! Serious stream damage detected during load, file offset: 20c56
+10:49:18.970 !!! Serious stream damage detected during load, file offset: 262bc
+10:49:18.975 !!! Serious stream damage detected during load, file offset: 2728e
+10:49:19.66 !!! Serious stream damage detected during load, file offset: 34d4b
+10:49:19.72 !!! Serious stream damage detected during load, file offset: 35e8e
+10:49:19.72   1447 items loaded. (13 failed)
+10:49:19.73 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin"
+10:49:19.74 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.001"
+10:49:19.75 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.002"
+10:49:19.75 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin" 2116 items.
+10:49:19.128 !!! Serious stream damage detected during load, file offset: 7c88
+10:49:19.137 !!! Serious stream damage detected during load, file offset: 96dd
+10:49:19.164 !!! Serious stream damage detected during load, file offset: d39a
+10:49:19.232 !!! Serious stream damage detected during load, file offset: 18429
+10:49:19.292 !!! Serious stream damage detected during load, file offset: 217e9
+10:49:19.321 !!! Serious stream damage detected during load, file offset: 23844
+10:49:19.323 !!! Serious stream damage detected during load, file offset: 23e22
+10:49:19.365 !!! Serious stream damage detected during load, file offset: 2a867
+10:49:19.385 !!! Serious stream damage detected during load, file offset: 2dcae
+10:49:19.435 !!! Serious stream damage detected during load, file offset: 34ea6
+10:49:19.603   2106 items loaded. (10 failed)
+10:49:19.605 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin"
+10:49:19.606 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.001"
+10:49:19.607 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.002"
+10:49:19.607 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin" 2684 items.
+10:49:19.687 !!! Serious stream damage detected during load, file offset: c77a
+10:49:19.745 !!! Serious stream damage detected during load, file offset: 15808
+10:49:19.792 !!! Serious stream damage detected during load, file offset: 1c1ab
+10:49:19.828 !!! Serious stream damage detected during load, file offset: 21a7a
+10:49:19.916 !!! Serious stream damage detected during load, file offset: 2f90b
+10:49:19.964 !!! Serious stream damage detected during load, file offset: 36c9c
+10:49:20.109 !!! Serious stream damage detected during load, file offset: 4b5dc
+10:49:20.264   2677 items loaded. (7 failed)
+10:49:20.265 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin"
+10:49:20.268 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.001"
+10:49:20.269 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.002"
+10:49:20.269 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin" 1849 items.
+10:49:20.273 !!! Serious stream damage detected during load, file offset: 805
+10:49:20.279 !!! Serious stream damage detected during load, file offset: 15df
+10:49:20.283 !!! Serious stream damage detected during load, file offset: 1f5b
+10:49:20.290 !!! Serious stream damage detected during load, file offset: 2fc7
+10:49:20.304 !!! Serious stream damage detected during load, file offset: 4dd6
+10:49:20.316 !!! Serious stream damage detected during load, file offset: 649a
+10:49:20.320 !!! Serious stream damage detected during load, file offset: 7118
+10:49:20.327 !!! Serious stream damage detected during load, file offset: 7c57
+10:49:20.330 !!! Serious stream damage detected during load, file offset: 8349
+10:49:20.331 !!! Serious stream damage detected during load, file offset: 8803
+10:49:20.331 !!! Serious stream damage detected during load, file offset: 8a4f
+10:49:20.335 !!! Serious stream damage detected during load, file offset: 9239
+10:49:20.335 !!! Serious stream damage detected during load, file offset: 9349
+10:49:20.339 !!! Serious stream damage detected during load, file offset: 9c09
+10:49:20.339 !!! Serious stream damage detected during load, file offset: 9d93
+10:49:20.340 !!! Serious stream damage detected during load, file offset: a003
+10:49:20.342 !!! Serious stream damage detected during load, file offset: a483
+10:49:20.347 !!! Serious stream damage detected during load, file offset: afa6
+10:49:20.363 !!! Serious stream damage detected during load, file offset: d41a
+10:49:20.366 !!! Serious stream damage detected during load, file offset: dbe6
+10:49:20.367 !!! Serious stream damage detected during load, file offset: dcee
+10:49:20.372 !!! Serious stream damage detected during load, file offset: ea06
+10:49:20.373 !!! Serious stream damage detected during load, file offset: ec08
+10:49:20.373 !!! Serious stream damage detected during load, file offset: edb6
+10:49:20.382 !!! Serious stream damage detected during load, file offset: 10087
+10:49:20.383 !!! Serious stream damage detected during load, file offset: 10321
+10:49:20.396 !!! Serious stream damage detected during load, file offset: 123a8
+10:49:20.406 !!! Serious stream damage detected during load, file offset: 138bc
+10:49:20.412 !!! Serious stream damage detected during load, file offset: 144f8
+10:49:20.415 !!! Serious stream damage detected during load, file offset: 14a64
+10:49:20.418 !!! Serious stream damage detected during load, file offset: 151a2
+10:49:20.420 !!! Serious stream damage detected during load, file offset: 159dc
+10:49:20.432 !!! Serious stream damage detected during load, file offset: 176d2
+10:49:20.432 !!! Serious stream damage detected during load, file offset: 178f2
+10:49:20.433 !!! Serious stream damage detected during load, file offset: 17c35
+10:49:20.438 !!! Serious stream damage detected during load, file offset: 18823
+10:49:20.438 !!! Serious stream damage detected during load, file offset: 18a2f
+10:49:20.443 !!! Serious stream damage detected during load, file offset: 1952e
+10:49:20.448 !!! Serious stream damage detected during load, file offset: 19eb9
+10:49:20.448 !!! Serious stream damage detected during load, file offset: 1a115
+10:49:20.459 !!! Serious stream damage detected during load, file offset: 1ba07
+10:49:20.460 !!! Serious stream damage detected during load, file offset: 1bd4b
+10:49:20.468 !!! Serious stream damage detected during load, file offset: 1ccf1
+10:49:20.474 !!! Serious stream damage detected during load, file offset: 1e040
+10:49:20.480 !!! Serious stream damage detected during load, file offset: 1ebae
+10:49:20.482 !!! Serious stream damage detected during load, file offset: 1f112
+10:49:20.483 !!! Serious stream damage detected during load, file offset: 1f3d4
+10:49:20.490 !!! Serious stream damage detected during load, file offset: 202ac
+10:49:20.491 !!! Serious stream damage detected during load, file offset: 20436
+10:49:20.495 !!! Serious stream damage detected during load, file offset: 20db3
+10:49:20.501 !!! Serious stream damage detected during load, file offset: 21e43
+10:49:20.505 !!! Serious stream damage detected during load, file offset: 22829
+10:49:20.510 !!! Serious stream damage detected during load, file offset: 2324f
+10:49:20.511 !!! Serious stream damage detected during load, file offset: 23755
+10:49:20.534 !!! Serious stream damage detected during load, file offset: 26ea3
+10:49:20.539 !!! Serious stream damage detected during load, file offset: 27667
+10:49:20.549 !!! Serious stream damage detected during load, file offset: 2920b
+10:49:20.561 !!! Serious stream damage detected during load, file offset: 2aaf5
+10:49:20.572 !!! Serious stream damage detected during load, file offset: 2c652
+10:49:20.574 !!! Serious stream damage detected during load, file offset: 2cc80
+10:49:20.585 !!! Serious stream damage detected during load, file offset: 2e0f7
+10:49:20.588 !!! Serious stream damage detected during load, file offset: 2eb71
+10:49:20.609 !!! Serious stream damage detected during load, file offset: 319f5
+10:49:20.613 !!! Serious stream damage detected during load, file offset: 323ab
+10:49:20.614 !!! Serious stream damage detected during load, file offset: 325f9
+10:49:20.618 !!! Serious stream damage detected during load, file offset: 331b5
+10:49:20.637 !!! Serious stream damage detected during load, file offset: 3600b
+10:49:20.643 !!! Serious stream damage detected during load, file offset: 36f85
+10:49:20.653 !!! Serious stream damage detected during load, file offset: 38688
+10:49:20.656 !!! Serious stream damage detected during load, file offset: 38eca
+10:49:20.658 !!! Serious stream damage detected during load, file offset: 3921a
+10:49:20.661 !!! Serious stream damage detected during load, file offset: 398ae
+10:49:20.663 !!! Serious stream damage detected during load, file offset: 3a117
+10:49:20.664 !!! Serious stream damage detected during load, file offset: 3a323
+10:49:20.682 !!! Serious stream damage detected during load, file offset: 3cd17
+10:49:20.683 !!! Serious stream damage detected during load, file offset: 3cec9
+10:49:20.683 !!! Serious stream damage detected during load, file offset: 3cf4f
+10:49:20.685 !!! Serious stream damage detected during load, file offset: 3d283
+10:49:20.694 !!! Serious stream damage detected during load, file offset: 3e7d9
+10:49:20.697 !!! Serious stream damage detected during load, file offset: 3ef63
+10:49:20.709 !!! Serious stream damage detected during load, file offset: 40a39
+10:49:20.718 !!! Serious stream damage detected during load, file offset: 421f8
+10:49:20.720 !!! Serious stream damage detected during load, file offset: 42750
+10:49:20.720 !!! Serious stream damage detected during load, file offset: 42858
+10:49:20.730 !!! Serious stream damage detected during load, file offset: 43e6d
+10:49:20.731   1764 items loaded. (85 failed)
+10:49:20.732 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin"
+10:49:20.732 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.001"
+10:49:20.733 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.002"
+10:49:20.733 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin" 149 items.
+10:49:20.747 !!! Serious stream damage detected during load, file offset: 23c9
+10:49:20.761 !!! Serious stream damage detected during load, file offset: 42c3
+10:49:20.762 !!! Serious stream damage detected during load, file offset: 4669
+10:49:20.767   146 items loaded. (3 failed)
+10:49:20.768 [CE][Storage] ver:26 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\building.bin"
+10:49:20.768 [CE][Storage] ver:26 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\building.001"
+10:49:20.768 [CE][Storage] ver:26 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\building.002"
+10:49:20.768 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\building.bin" 0 items.
+10:49:20.768   0 items loaded. (0 failed)
+10:49:20.769 [CE][Storage] ver:25 stamp:729, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin"
+10:49:20.770 [CE][Storage] ver:25 stamp:698, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.001"
+10:49:20.771 [CE][Storage] ver:25 stamp:699, valid:yes, name:"C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.002"
+10:49:20.771 [CE][Storage] Restoring file "C:\Users\grand\Desktop\servers\Dayz\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin" 222 items.
+10:49:20.771 !!! Serious stream damage detected during load, file offset: 2e
+10:49:20.771 !!! Serious stream damage detected during load, file offset: fb
+10:49:20.771 !!! Serious stream damage detected during load, file offset: 1c8
+10:49:20.771 !!! Serious stream damage detected during load, file offset: 295
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 362
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 4bd
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 58a
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 657
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 724
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 7f1
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 8be
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 98b
+10:49:20.772 !!! Serious stream damage detected during load, file offset: a58
+10:49:20.772 !!! Serious stream damage detected during load, file offset: fad
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 15c9
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 1bac
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 219c
+10:49:20.772 !!! Serious stream damage detected during load, file offset: 2674
+10:49:20.809 !!! Serious stream damage detected during load, file offset: 5f27
+10:49:20.809 !!! Serious stream damage detected during load, file offset: 65db
+10:49:20.809 !!! Serious stream damage detected during load, file offset: 6bca
+10:49:20.809 !!! Serious stream damage detected during load, file offset: 725c
+10:49:20.809 !!! Serious stream damage detected during load, file offset: 772e
+10:49:20.809 !!! Serious stream damage detected during load, file offset: 7c8e
+10:49:20.809 !!! Serious stream damage detected during load, file offset: 81f1
+10:49:20.809 !!! Serious stream damage detected during load, file offset: 875e
+10:49:20.810 !!! Serious stream damage detected during load, file offset: 8c99
+10:49:20.810 !!! Serious stream damage detected during load, file offset: 9291
+10:49:20.810 !!! Serious stream damage detected during load, file offset: 990e
+10:49:20.810 !!! Serious stream damage detected during load, file offset: 9ef7
+10:49:20.810 !!! Serious stream damage detected during load, file offset: a509
+10:49:20.810 !!! Serious stream damage detected during load, file offset: aa92
+10:49:20.810 !!! Serious stream damage detected during load, file offset: b1ce
+10:49:20.865 !!! Serious stream damage detected during load, file offset: d285
+10:49:20.871 !!! Serious stream damage detected during load, file offset: d949
+10:49:20.871 !!! Serious stream damage detected during load, file offset: da16
+10:49:20.871 !!! Serious stream damage detected during load, file offset: dae3
+10:49:20.871 !!! Serious stream damage detected during load, file offset: dbb0
+10:49:20.871 !!! Serious stream damage detected during load, file offset: dc7d
+10:49:20.871 !!! Serious stream damage detected during load, file offset: dd4a
+10:49:20.871 !!! Serious stream damage detected during load, file offset: e357
+10:49:20.871 !!! Serious stream damage detected during load, file offset: e424
+10:49:20.871 !!! Serious stream damage detected during load, file offset: e4f1
+10:49:20.871 !!! Serious stream damage detected during load, file offset: e5be
+10:49:20.871 !!! Serious stream damage detected during load, file offset: e68b
+10:49:20.890 !!! Serious stream damage detected during load, file offset: ffe4
+10:49:20.890 !!! Serious stream damage detected during load, file offset: 1053f
+10:49:20.890 !!! Serious stream damage detected during load, file offset: 10bef
+10:49:20.890 !!! Serious stream damage detected during load, file offset: 11014
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 13c31
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 13d14
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 13df7
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 13eda
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 13fbd
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 14035
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 14118
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 141fb
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 142de
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 143c1
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 144a4
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 14587
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 145ff
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 146e2
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 1475a
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 147d2
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 148b5
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 14998
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 14a7b
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 14b5e
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 14c41
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 14d24
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 14e07
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 14eea
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 14fcd
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 15045
+10:49:20.904 !!! Serious stream damage detected during load, file offset: 150bd
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15135
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15218
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 152fb
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 153de
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15456
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15539
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 1561c
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 156ff
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15777
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 157ef
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15867
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 1594a
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15a2d
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15aa5
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15b88
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15c00
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15ce3
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15dc6
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15ea9
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 15f21
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 16004
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 160e7
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 161ca
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 162ad
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 16390
+10:49:20.905 !!! Serious stream damage detected during load, file offset: 16408
+10:49:20.906 !!! Serious stream damage detected during load, file offset: 164eb
+10:49:20.906 !!! Serious stream damage detected during load, file offset: 165ce
+10:49:20.906 !!! Serious stream damage detected during load, file offset: 166b1
+10:49:20.906 !!! Serious stream damage detected during load, file offset: 16729
+10:49:20.906 !!! Serious stream damage detected during load, file offset: 167a1
+10:49:20.906 !!! Serious stream damage detected during load, file offset: 16819
+10:49:20.906 !!! Serious stream damage detected during load, file offset: 16891
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 16909
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 169ec
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 16a64
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 16adc
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 16b54
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 16bcc
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 16caf
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 16d27
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 16e0a
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 16e82
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 16efa
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 16fdd
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 170c0
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 171a3
+10:49:20.907 !!! Serious stream damage detected during load, file offset: 17286
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17369
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 1744c
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 1752f
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 175a7
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 1761f
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17697
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 1777a
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 1785d
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17940
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17a23
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17b06
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17be9
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17c61
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17d44
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17dbc
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17e34
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17f17
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 17f8f
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 18007
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 1807f
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 180f7
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 1816f
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 18252
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 182ca
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 183ad
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 18490
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 18508
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 18580
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 185f8
+10:49:20.908 !!! Serious stream damage detected during load, file offset: 186db
+10:49:20.909 !!! Serious stream damage detected during load, file offset: 18753
+10:49:20.909 !!! Serious stream damage detected during load, file offset: 18836
+10:49:20.909   66 items loaded. (156 failed)
+10:49:20.921 [CE][Hive] :: Storage load took:5.44 seconds, recovery stamp:729
+10:49:20.921   entity: 21883, building: 0
+10:49:20.921   no lifetime: 16
+10:49:20.922   skipped: 403
+10:49:20.922   pathgraph's: 401
+10:49:20.922 [CE][Hive] :: Initializing ... 
+10:49:20.984 [CE][InitializeMap] :: initialized: 0
+10:49:20.984 [CE][Hive] :: Initializing spawners ... 
+10:49:20.984 !!! [CE][DE] DynamicEvent "VehicleHatchback02" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.984 !!!!!! [CE][DE] DynamicEvent "VehicleHatchback02" setup is invalid, event will be disabled.
+10:49:20.984 !!! [CE][DE] DynamicEvent "VehicleTruck01" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.984 !!!!!! [CE][DE] DynamicEvent "VehicleTruck01" setup is invalid, event will be disabled.
+10:49:20.984 !!! [CE][DE] DynamicEvent "VehicleUAZ" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.985 !!!!!! [CE][DE] DynamicEvent "VehicleUAZ" setup is invalid, event will be disabled.
+10:49:20.985 !!! [CE][DE] DynamicEvent "VehicleVodnik" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.985 !!!!!! [CE][DE] DynamicEvent "VehicleVodnik" setup is invalid, event will be disabled.
+10:49:20.985 !!! [CE][DE] DynamicEvent "VehicleBus" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.985 !!!!!! [CE][DE] DynamicEvent "VehicleBus" setup is invalid, event will be disabled.
+10:49:20.985 !!! [CE][DE] DynamicEvent "VehicleTractor" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.985 !!!!!! [CE][DE] DynamicEvent "VehicleTractor" setup is invalid, event will be disabled.
+10:49:20.985 !!! [CE][DE] DynamicEvent "VehicleLandRover" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.985 !!!!!! [CE][DE] DynamicEvent "VehicleLandRover" setup is invalid, event will be disabled.
+10:49:20.985 !!! [CE][DE] DynamicEvent "VehicleMH6Helicopter" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.985 !!!!!! [CE][DE] DynamicEvent "VehicleMH6Helicopter" setup is invalid, event will be disabled.
+10:49:20.985 !!! [CE][DE] DynamicEvent "VehicleMerlinHelicopter" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.985 !!!!!! [CE][DE] DynamicEvent "VehicleMerlinHelicopter" setup is invalid, event will be disabled.
+10:49:20.985 !!! [CE][DE] DynamicEvent "VehicleUh1hHelicopter" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.985 !!!!!! [CE][DE] DynamicEvent "VehicleUh1hHelicopter" setup is invalid, event will be disabled.
+10:49:20.985 !!! [CE][DE] DynamicEvent "VehicleUtilityBoat" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.985 !!!!!! [CE][DE] DynamicEvent "VehicleUtilityBoat" setup is invalid, event will be disabled.
+10:49:20.985 !!! [CE][DE] DynamicEvent "VehicleZodiacBoat" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.986 !!!!!! [CE][DE] DynamicEvent "VehicleZodiacBoat" setup is invalid, event will be disabled.
+10:49:20.986 !!! [CE][DE] DynamicEvent "VehicleGyroHelicopter" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+10:49:20.986 !!!!!! [CE][DE] DynamicEvent "VehicleGyroHelicopter" setup is invalid, event will be disabled.
+10:49:20.986 [CE][DynEvent] :: 13 types
+10:49:20.986 [00] VehicleHatchback02
+10:49:20.986   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.986 [01] VehicleTruck01
+10:49:20.986   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.986 [02] VehicleUAZ
+10:49:20.986   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.986 [03] VehicleVodnik
+10:49:20.986   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.986 [04] VehicleBus
+10:49:20.986   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.986 [05] VehicleTractor
+10:49:20.986   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.986 [06] VehicleLandRover
+10:49:20.986   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.986 [07] VehicleMH6Helicopter
+10:49:20.986   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.986 [08] VehicleMerlinHelicopter
+10:49:20.986   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.986 [09] VehicleUh1hHelicopter
+10:49:20.986   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.986 [10] VehicleUtilityBoat
+10:49:20.986   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.986 [11] VehicleZodiacBoat
+10:49:20.987   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.987 [12] VehicleGyroHelicopter
+10:49:20.987   Primary Spawner: "Vehicle", active: no, repeat: 1
+10:49:20.987 [CE][Hive] :: Initializing of spawners done.
+10:49:20.996 [CE][Hive] :: Init sequence finished.
+10:49:20.996 Player connect enabled
+10:49:21.414 [IdleMode] Entering IN - save processed
+10:50:38.400  --- Termination successfully completed --- 

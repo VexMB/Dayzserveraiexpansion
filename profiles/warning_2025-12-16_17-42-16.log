@@ -1,0 +1,31 @@
+---------------------------------------------
+Log warning_2025-12-16_17-42-16.log started at 2025-12-16 18:10:17
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+18:10:17.050 [ZmbM_Jacket_Base<18b459a0>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: AKM_Base<5ec985d0>)
+Class:      'ZmbM_Jacket_Base'
+Entity id:3002041
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-16
+18:10:44.252 [ZmbM_Jacket_Base<18b4f660>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: AKM_Base<5ec985d0>)
+Class:      'ZmbM_Jacket_Base'
+Entity id:3002042
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213

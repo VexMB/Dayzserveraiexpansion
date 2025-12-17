@@ -1,0 +1,155 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-14 at 11:52:17
+11:59:02 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) is connected
+12:01:27 | AI "Denis" (group=4 faction="Raiders" pos=<4612.9, 8278.9, 320.7>) is unconscious
+12:01:41 | AI "Denis" (group=4 faction="Raiders" pos=<4613.5, 8279.4, 320.7>) regained consciousness
+12:01:52 | AI "Denis" (group=4 faction="Raiders" pos=<4609.5, 8283.2, 320.5>) is unconscious
+12:02:19 | AI "Denis" (group=4 faction="Raiders" pos=<4610.3, 8283.4, 320.6>) regained consciousness
+12:02:27 | AI "Denis" (group=4 faction="Raiders" pos=<4606.1, 8285.2, 320.3>) is unconscious
+12:02:55 | AI "Denis" (group=4 faction="Raiders" pos=<4607, 8285.2, 320.4>) regained consciousness
+12:03:03 | AI "Denis" (group=4 faction="Raiders" pos=<4603.9, 8286.6, 320.2>) is unconscious
+12:03:36 | AI "Gabi" (group=15 faction="East" pos=<4553.9, 8294.5, 317.7>) is unconscious
+12:03:37 | AI "Denis" (group=4 faction="Raiders" pos=<4604.7, 8286.6, 320.3>) regained consciousness
+12:03:46 | AI "Denis" (group=4 faction="Raiders" pos=<4601.2, 8286.1, 319.9>) is unconscious
+12:04:15 | AI "Gabi" (group=15 faction="East" pos=<4553.7, 8294.5, 317.7>) regained consciousness
+12:04:22 | AI "Denis" (group=4 faction="Raiders" pos=<4601.9, 8286.5, 320.0>) regained consciousness
+12:04:32 | AI "Denis" (DEAD) (group=4 faction="Raiders" pos=<4606.0, 8285.6, 320.3>) bled out
+12:06:55 | AI "Linda" (group=17 faction="West" pos=<4508.8, 8400.0, 317.4>) is unconscious
+12:07:13 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<4464.5, 8808.5, 322.4>)[HP: 95.3281] hit by AI "Baty" (group=3 faction="East" pos=<4258.9, 8789, 323.8>) into Head(0) for 2.33593 damage (Bullet_545x39) with KA-74 from 206.629 meters 
+12:07:14 | AI "Boris" (group=3 faction="East" pos=<4279.2, 8727.2, 321.3>) is unconscious
+12:07:20 | AI "Linda" (group=17 faction="West" pos=<4509.7, 8399.9, 317.1>) regained consciousness
+12:07:20 | AI "Indar" (group=19 faction="Mercenaries" pos=<4506.4, 8403.7, 317.0>) is unconscious
+12:07:26 | AI "Boris" (group=3 faction="East" pos=<4278.7, 8726.6, 321.3>) regained consciousness
+12:07:37 | AI "Linda" (group=17 faction="West" pos=<4509.4, 8403.7, 316.2>) is unconscious
+12:07:46 | AI "Indar" (group=19 faction="Mercenaries" pos=<4505.9, 8404.4, 316.9>) regained consciousness
+12:08:01 | AI "Linda" (group=17 faction="West" pos=<4510.3, 8404.5, 315.7>) regained consciousness
+12:08:12 | AI "Indar" (group=19 faction="Mercenaries" pos=<4471.9, 8381.8, 314.5>) is unconscious
+12:08:30 | AI "Indar" (group=19 faction="Mercenaries" pos=<4471.0, 8381.7, 314.7>) regained consciousness
+12:08:56 | AI "Indar" (group=19 faction="Mercenaries" pos=<4479.9, 8371.4, 313.4>) is unconscious
+12:09:08 | AI "Linda" (group=17 faction="West" pos=<4482.5, 8374.5, 313.3>) is unconscious
+12:09:17 | AI "Rolf" (group=19 faction="Mercenaries" pos=<4406.7, 8298.4, 312.7>) is unconscious
+12:09:24 | AI "Indar" (group=19 faction="Mercenaries" pos=<4479.2, 8370.9, 313.3>) regained consciousness
+12:09:30 | AI "Rolf" (group=19 faction="Mercenaries" pos=<4406.8, 8297.6, 312.7>) regained consciousness
+12:09:30 | AI "Judy" (group=9 faction="East" pos=<4497.2, 8367.8, 315.0>) is unconscious
+12:09:45 | AI "Jose" (group=19 faction="Mercenaries" pos=<4530.7, 8366.6, 317.1>) is unconscious
+12:10:09 | AI "Taiki" (group=19 faction="Mercenaries" pos=<4552.0, 8358.7, 318.0>) is unconscious
+12:10:17 | AI "Eva" (group=19 faction="Mercenaries" pos=<4549.5, 8359.3, 318.0>) is unconscious
+12:10:18 | AI "Taiki" (group=19 faction="Mercenaries" pos=<4551.5, 8357.8, 318.0>) regained consciousness
+12:10:19 | AI "Judy" (group=9 faction="East" pos=<4497.5, 8368.6, 315.6>) regained consciousness
+12:10:27 | AI "Eva" (group=19 faction="Mercenaries" pos=<4549.4, 8358.4, 318.0>) regained consciousness
+12:10:32 | Player "Bonesaw"(id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk=) is connected
+12:10:33 | AI "Keiko" (group=27 faction="West" pos=<4501.9, 8379.5, 313.8>) is unconscious
+12:11:13 | AI "Keiko" (group=27 faction="West" pos=<4501.0, 8379.4, 313.8>) regained consciousness
+12:13:31 | AI "Gabi" (group=24 faction="West" pos=<4469.1, 8364.1, 312.6>) is unconscious
+12:13:33 | AI "Irena" (group=32 faction="West" pos=<4527.0, 8342.3, 317.3>) is unconscious
+12:13:42 | AI "Irena" (group=32 faction="West" pos=<4526.2, 8342.5, 317.2>) regained consciousness
+12:14:16 | AI "Eva" (group=34 faction="East" pos=<4560.0, 8331.5, 318.3>) is unconscious
+12:14:45 | AI "Eva" (group=34 faction="East" pos=<4560.8, 8331.7, 318.3>) regained consciousness
+12:15:10 | AI "Kaito" (group=11 faction="Civilian" pos=<4566.7, 8317.1, 318.0>) is unconscious
+12:15:22 | AI "Kaito" (group=11 faction="Civilian" pos=<4567.3, 8316.5, 318.0>) regained consciousness
+12:17:22 | AI "Linda" (group=42 faction="West" pos=<4614, 8233.4, 320.2>) is unconscious
+12:17:30 | AI "Niki" (group=44 faction="East" pos=<4589.9, 8321.6, 319.2>) is unconscious
+12:17:35 | AI "Linda" (group=42 faction="West" pos=<4614.9, 8234.1, 320.3>) regained consciousness
+12:17:39 | AI "Niki" (group=44 faction="East" pos=<4589.4, 8322.4, 319.2>) regained consciousness
+12:17:42 | AI "Linda" (group=42 faction="West" pos=<4614.1, 8233.6, 320.2>) is unconscious
+12:18:32 | AI "Naomi" (group=45 faction="West" pos=<4573.8, 8258, 318.7>) is unconscious
+12:18:36 | AI "Hassan" (group=46 faction="East" pos=<4544.9, 8276.2, 317.1>) is unconscious
+12:18:41 | AI "Naomi" (group=45 faction="West" pos=<4574.0, 8257.1, 318.8>) regained consciousness
+12:19:11 | AI "Frida" (group=47 faction="West" pos=<4574.6, 8249.4, 318.8>) is unconscious
+12:19:25 | AI "Frida" (group=47 faction="West" pos=<4574.9, 8250.3, 318.8>) regained consciousness
+12:19:39 | AI "Gabi" (group=51 faction="West" pos=<4446.5, 8158.5, 314.3>) is unconscious
+12:27:23 | AI "Baty" (group=49 faction="Mercenaries" pos=<4498.7, 8401.6, 317.3>) is unconscious
+12:27:34 | AI "Helga" (group=49 faction="Mercenaries" pos=<4470.6, 8362.9, 312.7>) is unconscious
+12:27:34 | AI "Baty" (group=49 faction="Mercenaries" pos=<4498.3, 8402.4, 317.2>) regained consciousness
+12:27:50 | AI "Baty" (group=49 faction="Mercenaries" pos=<4484.6, 8386.7, 315.3>) is unconscious
+12:29:09 | AI "Guo" (group=52 faction="East" pos=<4506.0, 8400.7, 317.7>) is unconscious
+12:29:16 | AI "Guo" (group=52 faction="East" pos=<4505.6, 8399.3, 317.6>) regained consciousness
+12:29:22 | AI "Guo" (DEAD) (group=52 faction="East" pos=<4505.1, 8399.6, 317.7>) bled out
+12:29:37 | AI "Frida" (group=54 faction="East" pos=<4475.6, 8375.4, 313.0>) is unconscious
+12:31:51 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<13601.1, 13755.7, 5.8>)[HP: 98.68] hit by Infected into RightArm(17) for 11 damage (MeleeSoldierInfectedLong)
+12:31:53 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<13601.1, 13755.8, 5.8>)[HP: 97.4502] hit by Infected into RightArm(17) for 11 damage (MeleeSoldierInfectedLong)
+12:31:53 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<13601.1, 13755.8, 5.8>)[HP: 87.2502] hit by Infected into Torso(1) for 8.5 damage (MeleeSoldierInfected)
+12:31:54 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<13601.1, 13755.7, 5.8>)[HP: 84.1152] hit by Infected into RightLeg(3) for 10.45 damage (MeleeSoldierInfectedLong)
+12:31:54 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<13601.1, 13755.7, 5.8>)[HP: 83.0952] hit by Infected into RightArm(17) for 8.5 damage (MeleeSoldierInfected)
+12:31:57 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<13601.4, 13755.6, 5.8>)[HP: 80.0502] hit by Infected into LeftLeg(8) for 10.45 damage (MeleeSoldierInfectedLong)
+12:31:58 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<13601.2, 13755.6, 5.8>)[HP: 77.0051] hit by Infected into LeftLeg(8) for 10.45 damage (MeleeSoldierInfectedLong)
+12:32:00 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<13601.1, 13755.5, 5.8>)[HP: 73.8701] hit by Infected into RightLeg(3) for 10.45 damage (MeleeSoldierInfectedLong)
+12:33:10 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<13640.7, 13747, 5.7>)[HP: 73.4966] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeSoldierInfected)
+12:33:11 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<13640.7, 13747, 5.7>)[HP: 72.2657] hit by Infected into RightArm(17) for 11 damage (MeleeSoldierInfectedLong)
+12:33:26 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<13611.5, 13747.7, 5.8>)[HP: 69.5764] hit by Infected into RightLeg(3) for 10.45 damage (MeleeSoldierInfectedLong)
+12:38:24 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<5772.0, 8695.4, 318.9>) built ShelterStick with Hands 
+12:39:05 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14017.1, 13375, 3.3>)[HP: 78.1877] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+12:41:51 | AI "Judy" (group=63 faction="Mercenaries" pos=<6605.7, 8350.7, 352.0>) is unconscious
+12:42:07 | AI "Judy" (group=63 faction="Mercenaries" pos=<6606.7, 8350.1, 351.9>) regained consciousness
+12:43:25 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<14005.1, 13101.5, 12.8>)[HP: 82.664] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+12:58:06 | AI "Elias" (group=71 faction="Mercenaries" pos=<13369.8, 12857.3, 94.9>) is unconscious
+12:58:19 | AI "Elias" (group=71 faction="Mercenaries" pos=<13369.4, 12855.9, 94.9>) regained consciousness
+12:58:39 | AI "Maria" (group=71 faction="Mercenaries" pos=<13374.1, 12908.6, 94.7>) is unconscious
+12:59:04 | AI "Gabi" (group=71 faction="Mercenaries" pos=<13411.3, 12920.4, 87.8>) is unconscious
+12:59:18 | AI "Gabi" (group=71 faction="Mercenaries" pos=<13411.9, 12920.9, 87.6>) regained consciousness
+13:08:20 | AI "Niki" (group=85 faction="West" pos=<12987.5, 12761.8, 211.1>) is unconscious
+13:08:34 | AI "Francis" (group=85 faction="West" pos=<12983.7, 12762.9, 212.3>) is unconscious
+13:08:35 | AI "Niki" (group=85 faction="West" pos=<12986.9, 12762.7, 211.3>) regained consciousness
+13:08:39 | AI "Niki" (group=85 faction="West" pos=<12987.3, 12761.9, 211.1>) is unconscious
+13:08:46 | AI "Boris" (group=85 faction="West" pos=<12998.7, 12790.5, 207.2>) is unconscious
+13:08:46 | AI "Francis" (group=85 faction="West" pos=<12984.3, 12763.3, 212.1>) regained consciousness
+13:08:50 | AI "Francis" (group=85 faction="West" pos=<12984.7, 12762.9, 212.0>) is unconscious
+13:25:09 | AI "Naomi" (group=102 faction="Mercenaries" pos=<10972.6, 13393.4, 220.3>) is unconscious
+13:25:20 | AI "Naomi" (group=102 faction="Mercenaries" pos=<10973.1, 13393.8, 220.3>) regained consciousness
+13:26:12 | AI "Eva" (group=92 faction="Mercenaries" pos=<11045.8, 13385, 220.4>) is unconscious
+13:26:23 | AI "Eva" (group=92 faction="Mercenaries" pos=<11047, 13384.1, 220.5>) regained consciousness
+13:41:13 | AI "Maria" (group=117 faction="Mercenaries" pos=<9390.5, 13349.8, 105.7>) is unconscious
+13:51:31 | AI "Indar" (group=129 faction="Mercenaries" pos=<8552.3, 13963.4, 202.2>) is unconscious
+13:51:45 | AI "Indar" (group=129 faction="Mercenaries" pos=<8552.9, 13962.9, 202.2>) regained consciousness
+13:55:05 | AI "Judy" (group=129 faction="Mercenaries" pos=<8568.0, 13922.5, 201.2>) is unconscious
+13:55:14 | AI "Denis" (group=129 faction="Mercenaries" pos=<8544.2, 13939.8, 202.3>) is unconscious
+13:55:16 | AI "Judy" (group=129 faction="Mercenaries" pos=<8568.7, 13921.6, 200.9>) regained consciousness
+13:55:48 | AI "Gabi" (group=144 faction="East" pos=<8603.5, 13983.8, 199.3>) is unconscious
+13:55:49 | AI "Keiko" (group=140 faction="Mercenaries" pos=<8627, 14003.8, 196.2>) is unconscious
+13:55:56 | AI "Keiko" (group=140 faction="Mercenaries" pos=<8626.5, 14003, 196.2>) regained consciousness
+13:56:18 | AI "Taiki" (group=140 faction="Mercenaries" pos=<8696.8, 14009.3, 194.6>) is unconscious
+13:56:32 | AI "Taiki" (group=140 faction="Mercenaries" pos=<8697.0, 14008.5, 194.4>) regained consciousness
+13:57:14 | AI "Manua" (group=144 faction="East" pos=<8548.1, 14000.7, 203.5>) is unconscious
+13:57:28 | AI "Manua" (group=144 faction="East" pos=<8547.4, 14001.2, 203.5>) regained consciousness
+13:58:37 | AI "Judy" (group=129 faction="Mercenaries" pos=<8603.5, 14014.7, 196.5>) is unconscious
+13:58:47 | AI "Judy" (DEAD) (group=129 faction="Mercenaries" pos=<8602.4, 14014.5, 196.9>) bled out
+14:00:57 | AI "Eva" (group=129 faction="Mercenaries" pos=<8473.0, 13914.8, 204.3>) is unconscious
+14:21:46 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<7955.0, 14665.1, 339.5>)[HP: 97.9685] hit by CombatKnife with InediaInfectedAI_ThrowingProjectile
+14:24:04 | AI "Irena" (group=178 faction="West" pos=<7745.9, 14682.2, 346.9>) is unconscious
+14:24:15 | AI "Irena" (group=178 faction="West" pos=<7745.5, 14681.4, 346.8>) regained consciousness
+14:24:16 | AI "Denis" (group=178 faction="West" pos=<7742.9, 14684.8, 347.3>) is unconscious
+14:24:28 | AI "Denis" (group=178 faction="West" pos=<7742.5, 14684, 347.2>) regained consciousness
+14:26:12 | Chat("Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=)): test
+14:34:49 | AI "Oliver" (group=180 faction="West" pos=<6830.4, 14503.2, 374.0>) is unconscious
+14:35:02 | AI "Oliver" (group=180 faction="West" pos=<6829.5, 14502.9, 374.0>) regained consciousness
+14:35:18 | AI "Keiko" (group=180 faction="West" pos=<6801.4, 14506.6, 375.0>) is unconscious
+14:35:30 | AI "Keiko" (group=180 faction="West" pos=<6801.1, 14507.4, 375.0>) regained consciousness
+14:35:33 | AI "Keiko" (group=180 faction="West" pos=<6801.8, 14507.6, 374.9>) is unconscious
+14:35:35 | AI "Helga" (group=192 faction="West" pos=<6929.1, 14510.9, 365.3>) is unconscious
+14:35:37 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<6794.2, 14479.4, 376.8>)[HP: 98.7569] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+14:35:46 | AI "Keiko" (group=180 faction="West" pos=<6802.0, 14508, 374.9>) regained consciousness
+14:35:49 | AI "Helga" (group=192 faction="West" pos=<6929.7, 14511.4, 365.2>) regained consciousness
+14:36:19 | AI "Linda" (group=180 faction="West" pos=<6816.7, 14589, 372.3>) is unconscious
+14:36:39 | AI "Niki" (group=192 faction="West" pos=<6809.3, 14581, 371.6>) is unconscious
+14:36:43 | AI "Linda" (group=180 faction="West" pos=<6817.5, 14590.3, 372.7>) regained consciousness
+14:36:53 | AI "Eva" (group=172 faction="East" pos=<6719.7, 14512.4, 377.1>) is unconscious
+14:36:55 | AI "Niki" (group=192 faction="West" pos=<6809.5, 14581.9, 371.6>) regained consciousness
+14:37:28 | AI "Seth" (group=172 faction="East" pos=<6788.1, 14459.6, 377.0>) is unconscious
+14:37:38 | AI "Seth" (group=172 faction="East" pos=<6789.2, 14459, 376.9>) regained consciousness
+14:37:57 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<6721.8, 14541.4, 379.7>)[HP: 92.7927] hit by AI "Linda" (group=180 faction="West" pos=<6744.4, 14576.8, 379.4>) into RightLeg(3) for 28.8291 damage (Bullet_556x45) with M4-A1 from 41.9779 meters 
+14:37:59 | AI "Cyril" (group=172 faction="East" pos=<6719.7, 14529.7, 378.1>) is unconscious
+14:37:59 | Player "Vex" (id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= pos=<6722.6, 14539.8, 379.6>)[HP: 85.601] hit by AI "Linda" (group=180 faction="West" pos=<6742.5, 14577.5, 379.7>) into RightLeg(3) for 28.7671 damage (Bullet_556x45) with M4-A1 from 42.603 meters 
+14:38:41 | AI "Frida" (group=192 faction="West" pos=<6821.0, 14476.8, 373.2>) is unconscious
+14:39:06 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<6797.9, 14482.1, 376.8>)[HP: 92.5111] hit by AI "Mirek" (group=180 faction="West" pos=<6804.9, 14489.8, 375.2>) into Torso(1) for 7.48893 damage (Bullet_556x45) with M4-A1 from 10.5348 meters 
+14:39:06 | Player "Bonesaw" (id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk= pos=<6797.9, 14482.1, 376.8>)[HP: 85.0245] hit by AI "Mirek" (group=180 faction="West" pos=<6804.9, 14489.8, 375.2>) into Torso(1) for 7.48661 damage (Bullet_556x45) with M4-A1 from 10.5348 meters 
+14:39:23 | AI "Linda" (DEAD) (group=180 faction="West" pos=<6831.4, 14593.7, 375.0>) bled out
+14:42:13 | AI "Niki" (group=192 faction="West" pos=<6963.7, 14470.1, 358.7>) is unconscious
+14:42:47 | AI "Niki" (group=192 faction="West" pos=<6963.4, 14469.4, 358.8>) regained consciousness
+14:47:01 | AI "Niki" (group=192 faction="West" pos=<7061.9, 14677.1, 363.5>) is unconscious
+14:47:34 | AI "Niki" (group=192 faction="West" pos=<7062.7, 14676.8, 363.3>) regained consciousness
+14:51:29 | Player "Bonesaw"(id=kZmDG5V1xt8RA9DlvZVz3gbDXP3ssq0wloKGk3vRwwk=) has been disconnected
+14:52:15 | AI "Niki" (group=192 faction="West" pos=<6890.9, 14929.5, 448.7>) is unconscious
+14:52:46 | AI "Niki" (group=192 faction="West" pos=<6891.5, 14928.9, 448.6>) regained consciousness
+15:03:40 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) has been disconnected

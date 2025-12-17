@@ -1,0 +1,52 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\crash_2025-12-10_20-28-09.log started at 10.12. 20:28:45
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 10.12 2025 20:28:45
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:BasicMap\ServerMarkers.json":
+JSON ERROR:
+The document is empty.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+BasicMap/scripts/3_Game/basicmapcontroller.c:168 Function LoadServerMarkers
+BasicMap/scripts/3_Game/basicmapcontroller.c:44 Function Init
+BasicMap/scripts/5_Mission/mission\missionserver.c:4 Function MissionServer@4396#1
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 10.12 2025 20:33:59
+Unhandled exception
+
+Program: C:\Users\grand\Desktop\servers\Dayz\DayZServer_x64.exe
+Reason: Access violation. Illegal read by 0x7ff77cec017e at 0x2418963b2e8
+
+SymGetSymFromAddr:487, addr:0x7ff77cec017e
+SymGetSymFromAddr:487, addr:0x7ff77cec0324
+SymGetSymFromAddr:487, addr:0x7ff77ceb671b
+SymGetSymFromAddr:487, addr:0x7ff77ce5d864
+SymGetSymFromAddr:487, addr:0x7ff77cd9f128
+SymGetSymFromAddr:487, addr:0x7ff77cd35d7d
+SymGetSymFromAddr:487, addr:0x7ff77cd37959
+[CDPCreateServer]: ??? addr:0x7ff77d566ec0
+[CDPCreateServer]: ??? addr:0x7ff77d5681b7
+SymGetSymFromAddr:487, addr:0x7ff77cfbb77b
+[CDPCreateServer]: ??? addr:0x7ff77d56a4d8
+SymGetSymFromAddr:487, addr:0x7ff77cfbb6cf
+[CDPCreateServer]: ??? addr:0x7ff77d56adfd
+SymGetSymFromAddr:487, addr:0x7ff77d0e737e
+[CDPCreateServer]: ??? addr:0x7ff77d6c96fe
+[BaseThreadInitThunk]: ??? addr:0x7ffbdc917374
+[RtlUserThreadStart]: ??? addr:0x7ffbddcdcc91
+[RtlUserThreadStart]: ??? addr:0x7ffbddcdcc91
+
+
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  

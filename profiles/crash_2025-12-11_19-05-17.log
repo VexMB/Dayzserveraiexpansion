@@ -1,0 +1,168 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\crash_2025-12-11_19-05-17.log started at 11.12. 19:05:48
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 11.12 2025 19:05:48
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:BasicMap\ServerMarkers.json":
+JSON ERROR:
+The document is empty.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+BasicMap/scripts/3_Game/basicmapcontroller.c:168 Function LoadServerMarkers
+BasicMap/scripts/3_Game/basicmapcontroller.c:44 Function Init
+BasicMap/scripts/5_Mission/mission\missionserver.c:4 Function MissionServer@372#1
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 11.12 2025 19:05:49
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\BanditLoadout.json":
+JSON ERROR:
+Invalid value.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:35 Function Init
+DayZExpansion/SpawnSelection/Scripts/5_Mission/dayzexpansion_spawnselection\mission\missionserver.c:31 Function MissionServer@548#16
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 11.12 2025 19:05:49
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\EastLoadout.json":
+JSON ERROR:
+Invalid value.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:35 Function Init
+DayZExpansion/SpawnSelection/Scripts/5_Mission/dayzexpansion_spawnselection\mission\missionserver.c:31 Function MissionServer@548#16
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 11.12 2025 19:05:49
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\HumanLoadout.json":
+JSON ERROR:
+Invalid value.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:35 Function Init
+DayZExpansion/SpawnSelection/Scripts/5_Mission/dayzexpansion_spawnselection\mission\missionserver.c:31 Function MissionServer@548#16
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 11.12 2025 19:05:49
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\Loadouts.json":
+JSON ERROR:
+Invalid value.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:35 Function Init
+DayZExpansion/SpawnSelection/Scripts/5_Mission/dayzexpansion_spawnselection\mission\missionserver.c:31 Function MissionServer@548#16
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 11.12 2025 19:05:49
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\WestLoadout.json":
+JSON ERROR:
+Invalid value.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:35 Function Init
+DayZExpansion/SpawnSelection/Scripts/5_Mission/dayzexpansion_spawnselection\mission\missionserver.c:31 Function MissionServer@548#16
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97 Function CreateCustomMission
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 11.12 2025 19:06:58
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\WestLoadout.json":
+JSON ERROR:
+Invalid value.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:3209 Function Apply
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaicommandmanagerclient.c:367 Function SpawnAIEx
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaicommandmanagerclient.c:380 Function SpawnAI_Sentry
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaicommandmanagerclient.c:462 Function RPC_SpawnAI
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionrpcmanager.c:558 Function OnRPC#439082
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionrpcmanager.c:523 Function OnRPC
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268 Function OnRPC
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 11.12 2025 19:07:05
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\EastLoadout.json":
+JSON ERROR:
+Invalid value.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:3209 Function Apply
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaicommandmanagerclient.c:367 Function SpawnAIEx
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaicommandmanagerclient.c:380 Function SpawnAI_Sentry
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaicommandmanagerclient.c:462 Function RPC_SpawnAI
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionrpcmanager.c:558 Function OnRPC#439082
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionrpcmanager.c:523 Function OnRPC
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268 Function OnRPC
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 11.12 2025 19:07:08
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:ExpansionMod\Loadouts\WestLoadout.json":
+JSON ERROR:
+Invalid value.
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\prefab\expansionprefab.c:36 Function Load
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:3209 Function Apply
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaicommandmanagerclient.c:367 Function SpawnAIEx
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaicommandmanagerclient.c:380 Function SpawnAI_Sentry
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaicommandmanagerclient.c:462 Function RPC_SpawnAI
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionrpcmanager.c:558 Function OnRPC#439082
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\expansionrpcmanager.c:523 Function OnRPC
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268 Function OnRPC
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@FlipTransport;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@Server_Information_Panel;@SimpleAutorun;@Mortys Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod;@MedicalAttentionUpdated-DepHelper-Vanilla dologs  adminlog  

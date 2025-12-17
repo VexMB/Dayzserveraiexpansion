@@ -1,0 +1,63 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-15 at 09:49:38
+09:52:19 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) is connected
+09:52:51 | AI "Maria" (group=3 faction="West" pos=<7054.6, 7266.6, 268.4>) is unconscious
+09:52:51 | AI "Irena" (group=3 faction="West" pos=<7052.6, 7268.6, 268.4>) is unconscious
+09:53:42 | AI "Irena" (group=3 faction="West" pos=<7053, 7267.9, 268.5>) regained consciousness
+09:53:42 | AI "Maria" (group=3 faction="West" pos=<7055, 7265.9, 268.5>) regained consciousness
+09:53:55 | AI "Maria" (group=3 faction="West" pos=<7054.1, 7273.0, 267.7>) is unconscious
+09:54:19 | AI "Baty" (group=2 faction="Mercenaries" pos=<6348.5, 7727.5, 300.7>) is unconscious
+09:54:20 | AI "Maria" (group=3 faction="West" pos=<7054.6, 7272.4, 267.7>) regained consciousness
+09:54:31 | AI "Maria" (group=3 faction="West" pos=<7054.3, 7268.2, 268.3>) is unconscious
+09:55:00 | AI "Maria" (group=3 faction="West" pos=<7054.0, 7268.7, 268.2>) regained consciousness
+09:55:08 | AI "Maria" (group=3 faction="West" pos=<7053.8, 7273.3, 267.7>) is unconscious
+09:55:42 | AI "Maria" (group=3 faction="West" pos=<7054.3, 7272.7, 267.7>) regained consciousness
+09:55:52 | AI "Maria" (group=3 faction="West" pos=<7054.1, 7269.0, 268.2>) is unconscious
+09:56:19 | AI "Maria" (group=3 faction="West" pos=<7053.5, 7269.7, 268.2>) regained consciousness
+09:56:22 | Player "Vex"(id=6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=) has been disconnected
+09:56:30 | AI "Maria" (group=3 faction="West" pos=<7053.6, 7273.8, 267.6>) is unconscious
+09:57:02 | AI "Maria" (group=3 faction="West" pos=<7054.2, 7273.1, 267.7>) regained consciousness
+09:57:12 | AI "Maria" (group=3 faction="West" pos=<7054.0, 7269.8, 268.1>) is unconscious
+09:57:49 | AI "Maria" (group=3 faction="West" pos=<7053.5, 7270.5, 268.1>) regained consciousness
+09:58:01 | AI "Maria" (group=3 faction="West" pos=<7053.3, 7275.8, 267.4>) is unconscious
+09:58:22 | AI "Irena" (group=3 faction="West" pos=<7132.8, 7586.4, 287.9>) is unconscious
+09:58:30 | AI "Maria" (group=3 faction="West" pos=<7053.8, 7275.1, 267.5>) regained consciousness
+09:58:41 | AI "Maria" (group=3 faction="West" pos=<7052.8, 7280.3, 266.9>) is unconscious
+09:58:47 | AI "Irena" (group=3 faction="West" pos=<7132.5, 7585.6, 287.9>) regained consciousness
+09:58:56 | AI "Irena" (group=3 faction="West" pos=<7132.6, 7583.8, 287.7>) is unconscious
+09:59:18 | AI "Maria" (group=3 faction="West" pos=<7053.3, 7279.6, 267.0>) regained consciousness
+09:59:26 | AI "Maria" (group=3 faction="West" pos=<7052.1, 7284.4, 266.5>) is unconscious
+09:59:30 | AI "Irena" (group=3 faction="West" pos=<7132.9, 7583.0, 287.6>) regained consciousness
+09:59:40 | AI "Irena" (group=3 faction="West" pos=<7132.0, 7578.5, 287.0>) is unconscious
+10:00:00 | AI "Maria" (group=3 faction="West" pos=<7052.6, 7283.7, 266.5>) regained consciousness
+10:00:09 | AI "Irena" (group=3 faction="West" pos=<7131.2, 7578.9, 287.1>) regained consciousness
+10:00:14 | AI "Maria" (group=3 faction="West" pos=<7050.9, 7290.6, 266.0>) is unconscious
+10:00:19 | AI "Irena" (group=3 faction="West" pos=<7136.2, 7575.4, 286.6>) is unconscious
+10:00:41 | AI "Maria" (group=3 faction="West" pos=<7051.4, 7289.9, 266.0>) regained consciousness
+10:00:49 | AI "Maria" (group=3 faction="West" pos=<7050.4, 7296.0, 265.5>) is unconscious
+10:00:53 | AI "Irena" (group=3 faction="West" pos=<7135.4, 7575.6, 286.6>) regained consciousness
+10:01:04 | AI "Irena" (group=3 faction="West" pos=<7133.2, 7575.5, 286.6>) is unconscious
+10:01:16 | AI "Maria" (group=3 faction="West" pos=<7050.9, 7295.4, 265.5>) regained consciousness
+10:01:28 | AI "Maria" (group=3 faction="West" pos=<7049.9, 7301.9, 265.1>) is unconscious
+10:01:42 | AI "Irena" (group=3 faction="West" pos=<7133.3, 7574.7, 286.5>) regained consciousness
+10:01:51 | AI "Irena" (group=3 faction="West" pos=<7130.7, 7573.5, 286.3>) is unconscious
+10:01:54 | AI "Maria" (group=3 faction="West" pos=<7050.3, 7301.2, 265.1>) regained consciousness
+10:02:03 | AI "Maria" (group=3 faction="West" pos=<7050.0, 7307.3, 264.7>) is unconscious
+10:02:20 | AI "Irena" (group=3 faction="West" pos=<7131.4, 7573.9, 286.4>) regained consciousness
+10:02:30 | AI "Irena" (group=3 faction="West" pos=<7128.9, 7575.5, 286.6>) is unconscious
+10:02:32 | AI "Maria" (group=3 faction="West" pos=<7050.4, 7306.6, 264.7>) regained consciousness
+10:02:45 | AI "Maria" (group=3 faction="West" pos=<7050.1, 7312.8, 264.5>) is unconscious
+10:03:01 | AI "Irena" (group=3 faction="West" pos=<7129.2, 7574.7, 286.5>) regained consciousness
+10:03:13 | AI "Irena" (group=3 faction="West" pos=<7122.1, 7581.0, 288.1>) is unconscious
+10:03:19 | AI "Maria" (group=3 faction="West" pos=<7050.5, 7312.0, 264.5>) regained consciousness
+10:03:27 | AI "Maria" (group=3 faction="West" pos=<7050.0, 7318.6, 264.4>) is unconscious
+10:03:42 | AI "Irena" (group=3 faction="West" pos=<7122.9, 7580.9, 287.9>) regained consciousness
+10:03:51 | AI "Irena" (group=3 faction="West" pos=<7116.2, 7585.3, 289.1>) is unconscious
+10:03:55 | AI "Maria" (group=3 faction="West" pos=<7050.4, 7317.9, 264.4>) regained consciousness
+10:04:07 | AI "Maria" (group=3 faction="West" pos=<7050.3, 7327.0, 264.3>) is unconscious
+10:04:20 | AI "Irena" (group=3 faction="West" pos=<7117.1, 7585.2, 289.2>) regained consciousness
+10:04:34 | AI "Irena" (group=3 faction="West" pos=<7116.7, 7584.0, 289.1>) is unconscious
+10:04:35 | AI "Maria" (group=3 faction="West" pos=<7050.6, 7326.2, 264.3>) regained consciousness
+10:04:46 | AI "Maria" (group=3 faction="West" pos=<7050.2, 7335.0, 264.5>) is unconscious

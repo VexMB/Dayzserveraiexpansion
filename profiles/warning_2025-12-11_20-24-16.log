@@ -1,0 +1,115 @@
+---------------------------------------------
+Log warning_2025-12-11_20-24-16.log started at 2025-12-11 20:36:30
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-11
+20:36:30.575 [ZmbM_FarmerFat_Base<31ab11d0>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: AK74<aa9ea370>)
+Class:      'ZmbM_FarmerFat_Base'
+Entity id:2999377
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-11
+20:36:31.508 [ZmbM_FarmerFat_Base<31aab660>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: AK74<aa9ea370>)
+Class:      'ZmbM_FarmerFat_Base'
+Entity id:2999375
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-11
+20:36:33.241 [ZmbF_MilkMaidOld_Base<31aadd90>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: AK74<aa9ea370>)
+Class:      'ZmbF_MilkMaidOld_Base'
+Entity id:2999373
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-11
+20:36:40.576 [ZmbF_MilkMaidOld_Base<31ab4610>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: AK74<aa9ea370>)
+Class:      'ZmbF_MilkMaidOld_Base'
+Entity id:2999382
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-11
+20:36:41.376 [ZmbM_VillagerOld_Base<31ab2bf0>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: AK74<aa9ea370>)
+Class:      'ZmbM_VillagerOld_Base'
+Entity id:2999380
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-11
+20:36:43.942 [ZmbM_Jacket_Base<31ab1ee0>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: AK74<aa9ea370>)
+Class:      'ZmbM_Jacket_Base'
+Entity id:2999378
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-11
+20:36:49.675 [ZmbM_Jacket_Base<d85fad90>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: AK74<aa9ea370>)
+Class:      'ZmbM_Jacket_Base'
+Entity id:2999388
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 2025-12-11
+20:37:46.076 [ZmbM_PatrolNormal_Base<d8603030>::ProcessDamage] :: [WARNING] :: Damage was not processed (source: AK74<aa9ea370>)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:2999406
+Function: 'ProcessDamage'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaidamagehandler.c:488
+scripts/3_Game/dayzgame.c:2919
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213

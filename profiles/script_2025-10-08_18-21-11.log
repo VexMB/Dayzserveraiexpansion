@@ -1,0 +1,651 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\script_2025-10-08_18-21-11.log started at 08.10. 18:21:11
+
+SCRIPT       : Registered 367 temporary action enum(s), UAN==367
+SCRIPT    (W): @"Nine\compass\scripts\3_Game/ninerpc.c,3": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"Nine\compass\scripts\3_Game/json\nine_config.c,75": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SpawnerBubaku/scripts/3_Game/bubakconfig.c,41": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SpawnerBubaku/scripts/3_Game/bubakconfig.c,78": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"CodeLock/scripts/3_game/dayzgame.c,13": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,305": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,447": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,453": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SchanaModParty/scripts/3_Game/schanamodparty\basicmapintegration\basicmapcontroller.c,4": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SchanaModParty/scripts/3_Game/schanamodparty\basicmapintegration\basicmapcontroller.c,17": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Notifications/scripts/3_Game/client\notifications\notificationui.c,13": FIX-ME: Overriding function 'AddNotification' but not marked as 'override'
+SCRIPT    (W): @"Notifications/scripts/3_Game/client\notifications\notificationui.c,46": FIX-ME: Overriding function 'UpdateTargetHeight' but not marked as 'override'
+SCRIPT    (W): @"Notifications/scripts/3_Game/client\notifications\notificationui.c,81": FIX-ME: Overriding function 'RemoveNotification' but not marked as 'override'
+SCRIPT    (W): @"BasicMap/scripts/3_Game/gui\basicmapmenu.c,556": FIX-ME: Overriding function 'LockControls' but not marked as 'override'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT    (W): @"Nine\compass\scripts\4_World/compasshud.c,84": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"Nine\compass\scripts\4_World/watcheshud.c,335": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"TM/Trader/scripts/4_World/wallet.c,9": Missing ';' at the end of line
+SCRIPT    (W): @"script_a/Scripts/4_World/entities\creatures\infected\zombiebase.c,280": FIX-ME: Unmatched brackets detected!
+SCRIPT    (W): @"MuchCarKey/Scripts/4_World/muchcarkey\actions\actioncraftduplicatekey.c,60": Missing ';' at the end of line
+SCRIPT    (W): @"CodeLock/scripts/4_world/entities\codelock.c,308": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"MuchCarKey/Scripts/4_World/muchcarkey\modded\carscript.c,267": FIX-ME: Overriding function 'SynchronizeValues' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m14_dmr.c,151": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/4_World/dna_keycards\entities\itembase\container_base\crates\base\legacy\dna_crate_colourbase.c,302": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"CodeLock/scripts/4_world/pluginmanager\pluginbase\permissions\codelockpermissionmanager.c,46": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"script_a/Scripts/4_World/classes\useractionscomponent\actions\singleuse\action.c,180": Possible variable name conflict 'second_item_health'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\anzio20.c,321": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\ak105_bullpup.c,48": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m249.c,27": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,112": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\pkm.c,105": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m14_dmr.c,86": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\pkm.c,252": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/entities\itembase\tf_burningshard.c,115": FIX-ME: Overriding function 'IsTakeable' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/entities\itembase\tf_burningshard.c,120": FIX-ME: Overriding function 'CanHaveTemperature' but not marked as 'override'
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,64": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,64": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,64": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,84": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,84": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,84": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,102": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m240.c,27": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,93": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+SCRIPT    (W): @"CompassHH/scripts/4_World/Classes/UserActionsComponent/Actions/SingleUse/аСж?ибУшё.wss,3": FIX-ME: Overriding function 'SetCloseAnimation' but not marked as 'override'
+SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,84": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,47": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,47": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,47": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,57": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,57": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,57": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,75": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,75": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,75": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/4_World/dna_keycards\entities\itembase\container_base\workbench\dna_workbench.c,235": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"Bicycle/Scripts/4_World/environment.c,4": FIX-ME: Overriding function 'IsInsideVehicle' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockontent.c,73": Possible variable name conflict '_Health'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockonfence.c,67": Possible variable name conflict '_Health'
+SCRIPT    (W): @"Nine\compass\scripts\4_World/watcheshud.c,343": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,151": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"rag/rag_hunting_cabin/scripts/4_World/rag_hunting_cabin\actions\codelock\actions\actionraidcodelockonhuntingcabin.c,90": Possible variable name conflict '_Health'
+SCRIPT    (W): @"Bloody_Rabbit/scripts/4_world/head_trigger.c,129": FIX-ME: Unsafe down-casting, use 'Land_Bunny_Bench_Head.Cast' for safe down-casting
+SCRIPT    (W): @"Bloody_Rabbit/scripts/4_world/bunny_trigger.c,137": FIX-ME: Unsafe down-casting, use 'Land_Bunny_Bench2.Cast' for safe down-casting
+SCRIPT       : 18:21:23.714 [WARNING]	: Cannot open file "" for reading
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\missionserver.c,26": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\missiongameplay.c,7": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missionserver.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missionserver.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missionserver.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Icons/Data/Icons/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\icons.c.c,43": FIX-ME: Overriding function 'LosingConnectionDelay' but not marked as 'override'
+SCRIPT    (W): @"DNA_Keycards_Icons/Data/Icons/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\icons.c.c,50": FIX-ME: Overriding function 'LosingConnection' but not marked as 'override'
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missiongameplay.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missiongameplay.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"Notifications/scripts/5_Mission/mission\missiongameplay.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,20": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,20": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,20": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,35": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,35": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,35": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,43": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,43": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,43": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,51": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,51": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DNA_Keycards_Scripts/Scripts/5_Mission/dna_keycards\dna_keycards_client.c,51": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'year'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'month'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'day'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'hour'
+SCRIPT    (W): @"scripts/5_Mission/mission\missionbenchmark.c,397": Possible variable name conflict 'minute'
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : Initializing plugin: PluginTraderServerLog<b9141ae0>
+SCRIPT       : Initializing plugin: PluginTraderTradesLog<b91412a0>
+SCRIPT       : Init: PluginMCKLogs
+SCRIPT       : [MCK_Config] '$profile:MuchCarKey/MCK_Config.json' found, loading existing config!
+SCRIPT       : [Nine] 'Nine_Settings' found, loading
+SCRIPT       : 08.10.2025 18:21:31 [ServerPanelLogger]: Switching to logfile: $profile:/ServerPanel/Logs/ServerPanel_08-10-2025_18-21-31.log
+SCRIPT       : [ServerPanel] 'ServerPanelConfigManager' Configuration file found...
+SCRIPT       : [ServerPanel] 'ServerPanelConfigManager' Configuration loaded.
+SCRIPT       : [BasicMap] Init Server
+SCRIPT       : [MedicalAttention] $profile:RaG_MedicalAttention/config.txt does not exist
+SCRIPT       : [SchanaParty] BasicMap Register RPCs
+SCRIPT       : [SchanaParty] BasicMap Server Init
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [SchanaParty] OnInit
+SCRIPT       : [SchanaParty] Server Init 1.4.0
+SCRIPT       : [SchanaParty] PartyMarker Server Init
+SCRIPT       : [MCK_Config] '$profile:MuchCarKey/MCK_Config.json' found, loading existing config!
+SCRIPT       : [Notifications] OnInit
+SCRIPT       : [Notifications] Loading Config
+SCRIPT       : [RaGHunting_Cabin_Codelock_Config] '$profile:\CodeLock\RaG_Hunting_Cabin_CodeLockConfig.json' found, loading existing config!
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'BathtubBallersTest'
+SCRIPT       : [DNA DEBUG] - {Main System} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {Container System Settings} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA_Keycards Mob System Settings} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards General Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards Clothing Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards Weapon Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Settings Description found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Yellow Config Found.... Loading 
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Green Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Blue Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Purple Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Red Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Base Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Alarm Settings} - Alarm Settings Config Found.... Loading 
+SCRIPT       : [DNA DEBUG] - {Reset Timer} - Timer Settings found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Reset Timer} - Not in use.
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any crates!
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any smol crates!
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any strongrooms!
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [RaG Wheel of Fortune]:: [InvokeOnConnect]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Wheel of Fortune]:: [InvokeOnConnect]:: id: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Wheel of Fortune]:: [InvokeOnConnect]:: data sent
+SCRIPT       : [RaG Immersive Vehicles]:: [InvokeOnConnect]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Immersive Vehicles]:: [InvokeOnConnect]:: id: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Immersive Vehicles]:: [InvokeOnConnect]:: data sent
+SCRIPT       : [RaG Baseitems]:: [InvokeOnConnect]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Baseitems]:: [InvokeOnConnect]:: id: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Baseitems]:: [InvokeOnConnect]:: data sent
+SCRIPT       : [VPPAT] Player "Vex" (steamId=76561198040522771) connected to server!
+SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<19779d20>
+SCRIPT       : [Permissions Manager] Admin (Vex) (76561198040522771) Successfully Logged in!
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponCharging<df1933f0> closes stable state=RBF_CLO_BU1_MA1<da738200> id=3
+SCRIPT    (E): [wpnfsm] M249:28193 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=M249<9d9c1cf0> type=M249
+Class:      'M249'
+Entity id:3007328
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\weapon_base.c:576 Function SaveCurrentFSMState
+VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\itemmanager\itemmanager.c:179 Function CreateEntity
+VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\itemmanager\itemmanager.c:380 Function SpawnItem
+VPPAdminTools/3_Game/communityframework\rpc\rpcmanager.c:86 Function VOnRPC
+VPPAdminTools/3_Game/communityframework\rpc\dayzgame.c:7 Function OnRPC
+WRDG/FlipTransport/Scripts/3_Game/fliptransport\dayzgame.c:5 Function OnRPC
+rag/rag_hunting_cabin/scripts/3_Game/rag_hunting_cabin\codelock\dayzgame.c:42 Function OnRPC
+rag_baseitems/rag_baseitems_scripts/3_Game/rag_baseitems_scripts\codelock\dayzgame.c:42 Function OnRPC
+SCRIPT    (E): [wpnfsm] M249:28193 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=M249<9d9c1cf0> type=M249
+Class:      'M249'
+Entity id:3007328
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\weapon_base.c:576 Function SaveCurrentFSMState
+VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\itemmanager\itemmanager.c:179 Function CreateEntity
+VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\itemmanager\itemmanager.c:380 Function SpawnItem
+VPPAdminTools/3_Game/communityframework\rpc\rpcmanager.c:86 Function VOnRPC
+VPPAdminTools/3_Game/communityframework\rpc\dayzgame.c:7 Function OnRPC
+WRDG/FlipTransport/Scripts/3_Game/fliptransport\dayzgame.c:5 Function OnRPC
+rag/rag_hunting_cabin/scripts/3_Game/rag_hunting_cabin\codelock\dayzgame.c:42 Function OnRPC
+rag_baseitems/rag_baseitems_scripts/3_Game/rag_baseitems_scripts\codelock\dayzgame.c:42 Function OnRPC
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:276 Function GetCurrentState
+scripts/4_World/classes\weapons\weaponmanager.c:1056 Function RefreshAnimationState
+scripts/4_World/classes\weapons\weaponmanager.c:915 Function Update
+scripts/4_World/entities\manbase\playerbase.c:2928 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:276 Function GetCurrentState
+scripts/4_World/classes\weapons\weaponmanager.c:1056 Function RefreshAnimationState
+scripts/4_World/entities\manbase\playerbase.c:4002 Function OnJumpEnd
+scripts/4_World/entities\dayzplayerimplementjumpclimb.c:73 Function CheckAndFinishJump
+scripts/4_World/entities\dayzplayerimplement.c:2497 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:276 Function GetCurrentState
+scripts/4_World/classes\weapons\weaponmanager.c:1056 Function RefreshAnimationState
+scripts/4_World/entities\manbase\playerbase.c:3887 Function OnCommandFallFinish
+scripts/4_World/entities\dayzplayerimplement.c:2364 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/classes\weapons\weaponmanager.c:489 Function Fire
+script_a/Scripts/4_World/weapons\anzio20.c:385 Function Fire
+scripts/4_World/entities\dayzplayerimplement.c:1132 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): NULL pointer to instance
+Class:      'M249'
+Entity id:3007328
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:276 Function GetCurrentState
+scripts/4_World/classes\weapons\weaponmanager.c:1056 Function RefreshAnimationState
+scripts/4_World/classes\weapons\weaponmanager.c:915 Function Update
+scripts/4_World/entities\manbase\playerbase.c:2928 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT       : [RaG Wheel of Fortune]:: [InvokeOnConnect]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Wheel of Fortune]:: [InvokeOnConnect]:: id: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Wheel of Fortune]:: [InvokeOnConnect]:: skipping data
+SCRIPT       : [RaG Immersive Vehicles]:: [InvokeOnConnect]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Immersive Vehicles]:: [InvokeOnConnect]:: id: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Immersive Vehicles]:: [InvokeOnConnect]:: skipping data
+SCRIPT       : [RaG Baseitems]:: [InvokeOnConnect]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Baseitems]:: [InvokeOnConnect]:: id: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Baseitems]:: [InvokeOnConnect]:: skipping data
+SCRIPT    (E): [wpnfsm] M249:28193 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=M249<9d9c1cf0> type=M249
+Class:      'M249'
+Entity id:3007328
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\weapon_base.c:576 Function SaveCurrentFSMState
+SCRIPT    (E): [wpnfsm] M79:28223 WeaponChambering ShowBullet, error - cannot take cartridge from magazine
+Class:      'WeaponChambering_Cartridge'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:98 Function ShowBullet
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:270 Function OnEntry
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:294 Function OnEntry
+scripts/4_World/entities\firearms\weaponfsm.c:50 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/4_World/entities\firearms\weaponfsm.c:289 Function ProcessEvent
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83 Function ProcessEvent
+scripts/4_World/entities\firearms\weaponfsm.c:243 Function ProcessEvent
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:390 Function HandleWeaponEvents
+scripts/4_World/entities\dayzplayerimplement.c:987 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): [wpnfsm] M79:28223 WeaponChambering ShowBullet, error - cannot take cartridge from magazine
+Class:      'WeaponChambering_Cartridge'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:98 Function ShowBullet
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:270 Function OnEntry
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:294 Function OnEntry
+scripts/4_World/entities\firearms\weaponfsm.c:50 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/4_World/entities\firearms\weaponfsm.c:289 Function ProcessEvent
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83 Function ProcessEvent
+scripts/4_World/entities\firearms\weaponfsm.c:243 Function ProcessEvent
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:390 Function HandleWeaponEvents
+scripts/4_World/entities\dayzplayerimplement.c:987 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT    (E): [wpnfsm] TF_M79:27267 WeaponChambering ShowBullet, error - cannot take cartridge from magazine
+Class:      'WeaponChambering_Cartridge'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:98 Function ShowBullet
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:270 Function OnEntry
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:294 Function OnEntry
+scripts/4_World/entities\firearms\weaponfsm.c:50 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/4_World/entities\firearms\weaponfsm.c:289 Function ProcessEvent
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83 Function ProcessEvent
+scripts/4_World/entities\firearms\weaponfsm.c:243 Function ProcessEvent
+scripts/4_World/entities\firearms\weapon_base.c:306 Function ProcessWeaponEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:390 Function HandleWeaponEvents
+scripts/4_World/entities\dayzplayerimplement.c:987 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+ServerPanel/Scripts/4_World/serverpanel\dayzplayerimplement.c:8 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+rag/RaG_MedicalAttention/scripts/4_World/rag_medicalattention\entities\manbase\playerbase.c:567 Function CommandHandler
+rag/rag_thunderstruck/scripts/4_World/rag_thunderstruck\playerbase.c:232 Function CommandHandler
+SCRIPT       : Array count: 0
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponAttachMagazine<e891eae0> closes stable state=RBF_CLO_BU0_MA0<e9c1a650> id=1
+SCRIPT       : [Logout]: New player 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= with logout time 15
+SCRIPT       : Player "Vex" (steamid=76561198040522771) initiated disconnect process...
+SCRIPT       : [RaG Baseitems]:: [PlayerDisconnected]:: uid: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'PlayerDisconnected'
+Stack trace:
+rag_baseitems/rag_baseitems_scripts/5_Mission/rag_baseitems_scripts\missionserver.c:47 Function PlayerDisconnected
+scripts/5_Mission/mission\missionserver.c:244 Function UpdateLogoutPlayers
+scripts/5_Mission/mission\missionserver.c:99 Function OnUpdate
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:58 Function OnUpdate
+TM/Trader/scripts/5_Mission/mission\missionserver.c:87 Function OnUpdate
+ServerPanel/Scripts/5_Mission/serverpanel\missionserver.c:25 Function OnUpdate
+scripts/3_Game/dayzgame.c:2905 Function OnUpdate
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46 Function OnUpdate
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213 Function OnUpdate
+SCRIPT       : [RaG Baseitems]:: [PlayerDisconnected]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Baseitems]:: [PlayerDisconnected]:: id removed
+SCRIPT       : [RaG Immersive Vehicles]:: [PlayerDisconnected]:: uid: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'PlayerDisconnected'
+Stack trace:
+rag/rag_immersive_vehicles/scripts/5_Mission/rag_immersive_vehicles\config\missionserver.c:47 Function PlayerDisconnected
+rag_baseitems/rag_baseitems_scripts/5_Mission/rag_baseitems_scripts\missionserver.c:66 Function PlayerDisconnected
+scripts/5_Mission/mission\missionserver.c:244 Function UpdateLogoutPlayers
+scripts/5_Mission/mission\missionserver.c:99 Function OnUpdate
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:58 Function OnUpdate
+TM/Trader/scripts/5_Mission/mission\missionserver.c:87 Function OnUpdate
+ServerPanel/Scripts/5_Mission/serverpanel\missionserver.c:25 Function OnUpdate
+scripts/3_Game/dayzgame.c:2905 Function OnUpdate
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46 Function OnUpdate
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213 Function OnUpdate
+SCRIPT       : [RaG Immersive Vehicles]:: [PlayerDisconnected]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Immersive Vehicles]:: [PlayerDisconnected]:: id removed
+SCRIPT       : [RaG Wheel of Fortune]:: [PlayerDisconnected]:: uid: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'PlayerDisconnected'
+Stack trace:
+rag_wheel_of_fortune/scripts/5_Mission/rag_wheel_of_fortune\missionserver.c:46 Function PlayerDisconnected
+rag/rag_immersive_vehicles/scripts/5_Mission/rag_immersive_vehicles\config\missionserver.c:66 Function PlayerDisconnected
+rag_baseitems/rag_baseitems_scripts/5_Mission/rag_baseitems_scripts\missionserver.c:66 Function PlayerDisconnected
+scripts/5_Mission/mission\missionserver.c:244 Function UpdateLogoutPlayers
+scripts/5_Mission/mission\missionserver.c:99 Function OnUpdate
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:58 Function OnUpdate
+TM/Trader/scripts/5_Mission/mission\missionserver.c:87 Function OnUpdate
+ServerPanel/Scripts/5_Mission/serverpanel\missionserver.c:25 Function OnUpdate
+scripts/3_Game/dayzgame.c:2905 Function OnUpdate
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46 Function OnUpdate
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213 Function OnUpdate
+SCRIPT       : [RaG Wheel of Fortune]:: [PlayerDisconnected]:: identity: 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M=
+SCRIPT       : [RaG Wheel of Fortune]:: [PlayerDisconnected]:: id removed
+SCRIPT       : [Logout]: Player 6ZR6jg8ii-k-yNsuz745gya8XHU7vZ-Sv_nUgBA2b2M= finished
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : ~PluginMCKLogs Closed
+SCRIPT       : PluginTraderTradesLog<b91412a0> Closed
+SCRIPT       : PluginTraderServerLog<b9141ae0> Closed
+SCRIPT       : ~DayZGame()

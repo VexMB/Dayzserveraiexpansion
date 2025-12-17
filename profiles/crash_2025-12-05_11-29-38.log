@@ -1,0 +1,147 @@
+---------------------------------------------
+Log C:\Users\grand\Desktop\servers\Dayz\profiles\crash_2025-12-05_11-29-38.log started at 05.12. 11:30:35
+
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:30:35
+Failed to read modstorage for entity Type=PotatoSeed, Position=<1227.709839, 280.640808, 8708.137695>
+Class:      'CF_ModStorageObject<ItemBase>'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+JM/CF/Scripts/3_Game/communityframework\communityframework.c:124 Function FormatError
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:142 Function OnStoreLoad_CF
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:115 Function OnStoreLoad
+JM/CF/Scripts/4_World/communityframework\entities\itembase.c:19 Function OnStoreLoad
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:116 Function OnStoreLoad
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:30:47
+Failed to read modstorage for entity Type=MiniDress_PinkChecker, Position=<535.020813, 421.971497, 11077.375977>
+Class:      'CF_ModStorageObject<ItemBase>'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+JM/CF/Scripts/3_Game/communityframework\communityframework.c:124 Function FormatError
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:142 Function OnStoreLoad_CF
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:115 Function OnStoreLoad
+JM/CF/Scripts/4_World/communityframework\entities\itembase.c:19 Function OnStoreLoad
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:116 Function OnStoreLoad
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:31:07
+Failed to read modstorage for entity Type=HunterPants_Autumn, Position=<1071.936768, 153.198441, 6648.284180>
+Class:      'CF_ModStorageObject<ItemBase>'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+JM/CF/Scripts/3_Game/communityframework\communityframework.c:124 Function FormatError
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:142 Function OnStoreLoad_CF
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:115 Function OnStoreLoad
+JM/CF/Scripts/4_World/communityframework\entities\itembase.c:19 Function OnStoreLoad
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:116 Function OnStoreLoad
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:31:37
+Failed to read modstorage for entity Type=Ushanka_Black, Position=<690.667847, 6.556673, 1848.467041>
+Class:      'CF_ModStorageObject<ItemBase>'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+JM/CF/Scripts/3_Game/communityframework\communityframework.c:124 Function FormatError
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:142 Function OnStoreLoad_CF
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:115 Function OnStoreLoad
+JM/CF/Scripts/4_World/communityframework\entities\itembase.c:19 Function OnStoreLoad
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:116 Function OnStoreLoad
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:31:58
+Failed to read modstorage for entity Type=Offroad_02_Door_2_2_Rust, Position=<341.848877, 295.910492, 9401.588867>
+Class:      'CF_ModStorageObject<ItemBase>'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+JM/CF/Scripts/3_Game/communityframework\communityframework.c:124 Function FormatError
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:142 Function OnStoreLoad_CF
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:115 Function OnStoreLoad
+JM/CF/Scripts/4_World/communityframework\entities\itembase.c:19 Function OnStoreLoad
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:116 Function OnStoreLoad
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:32:15
+Failed to read modstorage for entity Type=FieldShovel, Position=<1130.833008, 185.327072, 7242.070801>
+Class:      'CF_ModStorageObject<ItemBase>'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+JM/CF/Scripts/3_Game/communityframework\communityframework.c:124 Function FormatError
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:142 Function OnStoreLoad_CF
+JM/CF/Scripts/4_World/communityframework\modstorage\cf_modstorageobject.c:115 Function OnStoreLoad
+JM/CF/Scripts/4_World/communityframework\entities\itembase.c:19 Function OnStoreLoad
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:116 Function OnStoreLoad
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:32:19
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "IodineTincture".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:32:19
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "IodineTincture".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  
+
+
+------------------------------------
+DESKTOP-6P7DMDG, 05.12 2025 11:32:19
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "TetracyclineAntibiotics".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config C:\Users\grand\Desktop\servers\Dayz\serverDZ.cfg port 2302 profiles C:\Users\grand\Desktop\servers\Dayz\profiles mod @CF;@Dabs Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@DayZ-Expansion-AI;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Bundle;@AI Raids;@AI War Zones;@AnimatedDynamicHelicopters;@Base Fortifications;@Basic Map;@Better Medical Pouch;@BetterDrinks;@BuilderItems;@CarCover;@Dayz Navigation;@Ear-Plugs;@EU Gear;@FlipTransport;@Free Helicopters;@InediaInfectedAI;@Jills Collection;@Knock Knock AI;@Mag Obfuscation;@MedicalAttentionUpdated;@MedicalAttentionUpdated-Core;@MMG Base Storage;@MMG Civilian Clothing;@Realistic Suppressors;@Realistic Weapons;@RUSForma_vehicles;@Server_Information_Panel;@SimpleAutorun;@SNAFU Weapons;@TF-UAZ3151;@VPPAdminTools;@WindstridesClothingPack;@Zens Sleeping Mod dologs  adminlog  
