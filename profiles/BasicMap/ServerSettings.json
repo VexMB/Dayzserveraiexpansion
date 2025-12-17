@@ -53,9 +53,9 @@
         "DZ\\gear\\navigation\\data\\map_waterpump_ca.paa",
         "DZ\\gear\\navigation\\data\\map_watertower_ca.paa"
     ],
-    "AllowPlayerMarkers": 1,
-    "Allow3dMarkers": 1,
-    "ShowSelfOnMap": 1,
+    "AllowPlayerMarkers": 0,
+    "Allow3dMarkers": 0,
+    "ShowSelfOnMap": 0,
     "RequireMapItemInInventory": 0,
     "OnlyOnOpenAction": 0,
     "RequirePenToMark": 0,
