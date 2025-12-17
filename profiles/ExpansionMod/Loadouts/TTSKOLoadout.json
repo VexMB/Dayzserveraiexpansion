@@ -8246,8 +8246,8 @@
     "ClassName": "Ammo_308Win",
     "Chance": 0.15000000596046449,
     "Quantity": {
-      "Min": 0.100,
-      "Max": 0.4
+      "Min": 0.1,
+      "Max": 0.3
     },
     "Health": [
       {
@@ -8262,11 +8262,49 @@
     "Sets": []
   },
   {
+    "ClassName": "hatchet",
+    "Chance": 0.1,
+    "Quantity": {
+      "Min": 1,
+      "Max": 1
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
+    "ClassName": "HandSaw",
+    "Chance": 0.1,
+    "Quantity": {
+      "Min": 1,
+      "Max": 1
+    },
+    "Health": [
+      {
+        "Min": 0.699999988079071,
+        "Max": 1,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
+  {
     "ClassName": "Ammo_308WinTracer",
     "Chance": 0.15000000596046449,
     "Quantity": {
-      "Min": 0.100,
-      "Max": 0.4
+      "Min": 0.1,
+      "Max": 0.3
     },
     "Health": [
       {
@@ -8343,8 +8381,8 @@
         },
         "Health": [
           {
-            "Min": 0.699999988079071,
-            "Max": 1.0,
+            "Min": 0.199999988079071,
+            "Max": 0.6,
             "Zone": ""
           }
         ],
@@ -8499,8 +8537,8 @@
     },
     "Health": [
       {
-        "Min": 0.7,
-        "Max": 1,
+        "Min": 0.1,
+        "Max": 0.6,
         "Zone": ""
       }
     ],
