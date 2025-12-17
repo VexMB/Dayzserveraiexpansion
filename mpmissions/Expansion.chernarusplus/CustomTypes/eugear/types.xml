@@ -4,7 +4,7 @@
 <!-- Generated on 2025-12-16 19:27:29 -->
 <types>
     <type name="RF_CargoPants_ABL">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -18,7 +18,7 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_CargoPants_M84">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -32,7 +32,7 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_CargoPants_DPM">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -46,7 +46,7 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_CargoPants_FLT">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -60,7 +60,7 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_CargoPants_PADDY">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -264,7 +264,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_ABL">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -276,7 +276,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_M84">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -288,7 +288,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_DPM">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -300,7 +300,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_FLT">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -312,7 +312,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_PADDY">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -482,10 +482,10 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_ABL_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -495,10 +495,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_M84_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -508,10 +508,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_DPM_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -521,10 +521,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_FLT_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -534,10 +534,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_PADDY_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -547,10 +547,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_ABL_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -560,10 +560,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_M84_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -573,10 +573,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_DPM_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -586,10 +586,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_FLT_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -599,10 +599,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_PADDY_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1081,7 +1081,7 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_CargoPants_CE">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1095,7 +1095,7 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_CargoPants_M90">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1109,7 +1109,7 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_CargoPants_M98">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1237,7 +1237,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_CE">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -1249,7 +1249,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_M90">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -1261,7 +1261,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_M98">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -1273,7 +1273,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_ChDKZ">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -1363,10 +1363,10 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_CE_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1376,10 +1376,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_M90_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1389,10 +1389,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_M98_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1402,10 +1402,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_CE_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1415,10 +1415,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_M90_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1428,10 +1428,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_M98_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1684,7 +1684,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_vegi">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -1720,7 +1720,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_CargoPants_vegi">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1746,10 +1746,10 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_vegi_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1759,10 +1759,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_vegi_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1845,7 +1845,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_Lizard">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -1881,7 +1881,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_CargoPants_Lizard">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1907,10 +1907,10 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_Lizard_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1920,10 +1920,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_Lizard_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2018,7 +2018,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_UKAssVest_m05">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -2054,7 +2054,7 @@
         <usage name="Military"/>
     </type>
     <type name="RF_CargoPants_m05">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2080,10 +2080,10 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_m05_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2093,10 +2093,10 @@
         <usage name="Military"/>
     </type>
     <type name="RF_m05_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2241,7 +2241,7 @@
         <value name="Tier1"/>
     </type>
     <type name="RF_UKAssVest_leaf">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -2280,7 +2280,7 @@
         <value name="Tier1"/>
     </type>
     <type name="RF_CargoPants_leaf">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2307,10 +2307,10 @@
         <value name="Tier1"/>
     </type>
     <type name="RF_leaf_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2321,10 +2321,10 @@
         <value name="Tier1"/>
     </type>
     <type name="RF_leaf_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2538,7 +2538,7 @@
         <value name="Tier1"/>
     </type>
     <type name="RF_UKAssVest_olive">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
@@ -2577,7 +2577,7 @@
         <value name="Tier1"/>
     </type>
     <type name="RF_CargoPants_olive">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2603,10 +2603,10 @@
         <value name="Tier1"/>
     </type>
     <type name="RF_olive_Holster">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2617,10 +2617,10 @@
         <value name="Tier1"/>
     </type>
     <type name="RF_olive_Pouches">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2724,7 +2724,7 @@
         <value name="Tier4"/>
     </type>
     <type name="RF_PressVest_AN">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>4</min>
