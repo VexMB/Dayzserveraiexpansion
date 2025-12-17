@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 		<type name="Nomadbackpack_v3_BaseColor">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -18,7 +18,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Nomadbackpack_v3_Blue">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -35,7 +35,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Nomadbackpack_v3_Teal">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -52,7 +52,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Nomadbackpack_v3_Green">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -69,7 +69,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Nomadbackpack_v3_Grey">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -86,7 +86,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Nomadbackpack_v3_Red">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -103,7 +103,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Nomadbackpack_v3_Yellow">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -120,7 +120,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Nomadbackpack_v3_Black">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -137,7 +137,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Nomadbackpack_v3_AoR2">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -154,7 +154,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Nomadbackpack_v3_Woodland">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -171,7 +171,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Nomadbackpack_v3_Winter">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -188,7 +188,7 @@
         <value name="Tier4"/>
     </type>	
 		<type name="Kits_Bottle_v3_ArmyGreen">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -205,7 +205,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Kits_Bottle_v3_Black">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -222,7 +222,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Kits_Bottle_v3_Brown">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -239,7 +239,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Kits_Bottle_v3_Teal">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -256,7 +256,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Kits_Bottle_v3_Weed">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -273,7 +273,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Kits_Bottle_v3_White">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -290,7 +290,7 @@
         <value name="Tier4"/>
     </type>
 		<type name="Kits_Bottle_v3_Yellow">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
