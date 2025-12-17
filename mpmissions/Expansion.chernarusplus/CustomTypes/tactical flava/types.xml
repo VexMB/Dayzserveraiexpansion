@@ -1349,25 +1349,24 @@
     <!-- HELMETS AND COVERS -->    
 
     <type name="TF_6B47Helmet">
-        <nominal>8</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        
         <value name="Tier4"/>
     </type>
     <type name="TF_6B47HelmetCover_EMR">
-        <nominal>15</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1376,7 +1375,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+       
     </type>
     <type name="TF_6B47HelmetCover_Syrian"><!-- You can return this to the spawn -->
         <nominal>0</nominal>
@@ -1391,13 +1390,13 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+        
     </type>
     <type name="TF_LSHZHelmet_OD">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1406,13 +1405,13 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+       
     </type>
     <type name="TF_MICH2000Helmet">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1421,7 +1420,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+        
     </type>
     <type name="TF_MICH2000Helmet_Khaku">
         <nominal>3</nominal>
@@ -1436,7 +1435,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+        
     </type>
     <type name="TF_MICH2000Helmet_Black">
         <nominal>3</nominal>
@@ -1451,13 +1450,13 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+        
     </type>
     <type name="TF_MICH2000HelmetCover_Woodland">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1466,13 +1465,13 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+        
     </type>
     <type name="TF_WeldingMask_Tagilla">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1480,13 +1479,13 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
-        <value name="Tier4"/>
+        
     </type>
     <type name="TF_WeldingMask">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1495,13 +1494,13 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+       
     </type>
     <type name="TF_Maska1Helmet">
         <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1511,7 +1510,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+       
     </type>
     <type name="TF_Maska1Visor">
         <nominal>4</nominal>
@@ -1527,7 +1526,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+      
     </type>
     <type name="TF_Maska1SchVisor">
         <nominal>4</nominal>
@@ -1543,13 +1542,13 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+       
     </type>
 
     <!-- VESTS -->    
 
   <type name="TF_PlateCarrierVest_EMR"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1561,7 +1560,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PlateCarrierVest_Coyote"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -1585,7 +1584,7 @@
         <usage name="Military"/>
     </type>
      <type name="TF_6sh112_Syrian"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -1645,10 +1644,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B23Vest_GFlora">
-        <nominal>7</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1659,10 +1658,10 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_6B23Vest_EMR">
-        <nominal>7</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1673,7 +1672,7 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_6B43Vest_EMR">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -1769,7 +1768,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+        
     </type>
     <type name="TF_AVSVest_Coyote">
         <nominal>1</nominal>
@@ -1784,7 +1783,7 @@
         <usage name="Military"/>
        <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+       
     </type>
     <type name="TF_AVSVest_Tagilla">
         <nominal>1</nominal>
@@ -1799,7 +1798,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+        
     </type>
     <type name="TF_JPCVest_MC">
         <nominal>1</nominal>
@@ -1814,7 +1813,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+        
     </type>
     <type name="TF_JPCVest_Coyote">
         <nominal>1</nominal>
@@ -1829,7 +1828,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+       
     </type>
     <type name="TF_LVMBAVVest_KH">
         <nominal>1</nominal>
@@ -1844,7 +1843,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+       
     </type>
  
     <!-- POUCHES -->   
@@ -2360,10 +2359,10 @@
     <!-- BAGS -->    
 
  <type name="TF_CamelBakBag_Black">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2373,10 +2372,10 @@
         <usage name="Village"/>
     </type>
     <type name="TF_CamelBakBag_Brown">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2483,7 +2482,7 @@
         <category name="clothes"/>
         <usage name="Military"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+        
     </type>
     <type name="TF_PMK4GasMask_OD">
         <nominal>5</nominal>
@@ -2497,7 +2496,7 @@
         <category name="clothes"/>
         <usage name="Military"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
+        
     </type>
     <type name="TF_6sh122Pants_Spring"> 
         <nominal>5</nominal>
