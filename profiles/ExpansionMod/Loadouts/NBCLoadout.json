@@ -3089,7 +3089,7 @@
                 "SlotName": "Magazine",
                 "Items": [
                     {
-                        "ClassName": "TTC_",
+                        "ClassName": "TTC_300Cmag",
                         "Include": "",
                         "Chance": 1,
                         "Quantity": {
