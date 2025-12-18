@@ -33,10 +33,10 @@ AlcoholicLiquid				= Vodka = 2
 
 
 ZoneType = Biohazard
-ZoneChance (percent) = 100
-ZoneCenter (X Y Z) = 1695.40 0 14042.22
-ZoneRadiusMin = 675
-ZoneRadiusMax = 725
+ZoneChance (percent) = 0
+ZoneCenter (X Y Z) = 168 0 15000
+ZoneRadiusMin = 0
+ZoneRadiusMax = 0
 ZoneMsgIn = CAUTION: YOU ARE IN A BIOHAZARD ZONE
 ZoneMsgOut = YOU LEFT THE BIOHAZARD ZONE
 
