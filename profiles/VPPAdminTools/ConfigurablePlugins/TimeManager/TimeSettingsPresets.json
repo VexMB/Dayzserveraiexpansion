@@ -1,3 +1,12 @@
 {
-    "timeSettings": []
+    "timeSettings": [
+        {
+            "hour": 11,
+            "minute": 54,
+            "month": 10,
+            "day": 5,
+            "year": 2025,
+            "name": "10/5/2025 11:54"
+        }
+    ]
 }

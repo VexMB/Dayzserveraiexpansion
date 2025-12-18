@@ -3,7 +3,7 @@
 	<!-- Packed - default despawn time is 8 hours like backpacks -->
     <type name="ZenSleepingBag_Black">
         <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>33200</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -16,7 +16,7 @@
     </type>
 	<type name="ZenSleepingBag_Blue">
         <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>33200</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -30,7 +30,7 @@
     </type>
 	<type name="ZenSleepingBag_Green">
         <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>33200</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -43,7 +43,7 @@
     </type>
 	<type name="ZenSleepingBag_Grey">
         <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>33200</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -57,7 +57,7 @@
     </type>
 	<type name="ZenSleepingBag_Red">
         <nominal>7</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>33200</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -123,7 +123,7 @@
 	<!-- Consumables -->
 	<type name="ZenSleep_Anesthetic">
         <nominal>5</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>33200</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -136,7 +136,7 @@
     </type>
 	<type name="ZenSleep_Amphetamine">
         <nominal>5</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>33200</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>

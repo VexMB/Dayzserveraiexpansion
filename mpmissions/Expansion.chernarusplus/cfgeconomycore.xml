@@ -78,8 +78,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</ce>
 	
 
-	<ce folder="CustomTypes/tysonbaseitems">
-     <file name="rag_baseitems.xml" type="types" />
+	<ce folder="CustomTypes/ragbase">
+		<file name="types.xml" type="types"/>
 	</ce>
 
 	<ce folder="CustomTypes/BMfirstaid">
@@ -90,14 +90,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
      <file name="types.xml" type="types" />
 	</ce>
 
-
-
-	
-	
 	<ce folder="CustomTypes/nomad">
      <file name="types_nomadbackpack.xml" type="types" />
 	</ce>
-
 
 
 	<ce folder="CustomTypes/tysonvics">
