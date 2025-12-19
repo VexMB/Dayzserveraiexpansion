@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
     <territory color="1124502272">
+	
+	
+	<zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="4030" z="10582.8" r="110"/>
+	<zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="4416.43" z="10223.8" r="110"/>
+	<zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="3969" z="10664" r="110"/>
+	<zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="4231" z="10175" r="110"/>
+	<zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="4180" z="110262" r="110"/>
+	
+	
+	<zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="12160" z="12554" r="110"/>
+	<zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="11875" z="12736" r="110"/>
+	
+	
+	
+	
+	
+	
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="7971.43" z="14642.8" r="110"/>
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="14" x="7781.25" z="14780.3" r="120"/>
         <zone name="InfectedArmyHard" smin="6" smax="8" dmin="8" dmax="12" x="1684.51" z="14254.8" r="160"/>

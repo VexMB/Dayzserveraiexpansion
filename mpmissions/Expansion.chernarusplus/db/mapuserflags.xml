@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<islands>
+    <island name="chernarusplus"> <!-- Use 'enoch' if playing on Livonia -->
+        <usage name="CustomT4"/>
+    </island>
+</islands>

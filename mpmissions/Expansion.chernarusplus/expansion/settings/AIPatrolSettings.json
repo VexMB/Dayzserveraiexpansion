@@ -450,7 +450,7 @@
              "DespawnRadius": -2.0,
             "MinSpreadRadius": 0,
             "MaxSpreadRadius": 0,
-			"Chance": 0.40,
+			"Chance": 0.10,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
@@ -1903,7 +1903,7 @@
              "DespawnRadius": -2.0,
             "MinSpreadRadius": 0,
             "MaxSpreadRadius": 0,
-			"Chance": 0.40,
+			"Chance": 0.10,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
@@ -1947,7 +1947,7 @@
              "DespawnRadius": -2.0,
             "MinSpreadRadius": 0,
             "MaxSpreadRadius": 0,
-			"Chance": 0.40,
+			"Chance": 0.10,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
@@ -2001,7 +2001,7 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1892.56201171875,
+                    5000.56201171875,
                     0,
                     13472.98828125
                 ]
@@ -2045,7 +2045,7 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2091.194580078125,
+                    7091.194580078125,
                     0,
                     14258.490234375
                 ]
@@ -3321,7 +3321,7 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    928.5031127929688,
+                    4300.5031127929688,
                     0,
                     12446.45703125
                 ]
@@ -31268,6 +31268,536 @@
                 ]
             ]
         },
+		{
+            "Name": "tisy",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    1269.288818, 457.035248, 14497.262695
+                ]
+            ]
+        },
+		{
+            "Name": "tisy2",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    1255.204468, 454.218445, 14506.174805
+                ]
+            ]
+        },
+		{
+            "Name": "tisy3",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    1227.862915, 454.243805, 14505.883789
+                ]
+            ]
+        },
+		{
+            "Name": "tisy4",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    1238.734863, 454.220001, 14524.959961
+                ]
+            ]
+        },
+		{
+            "Name": "tisy5",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    1206.790039, 457.209778, 14494.265625
+                ]
+            ]
+        },
+		{
+            "Name": "tisy6",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    1143.025635, 464.243439, 14540.848633
+                ]
+            ]
+        },
+		{
+            "Name": "tisy7",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    1163.034790, 464.113464, 14587.326172
+                ]
+            ]
+        },
+		{
+            "Name": "tisy8",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    1133.823730, 454.176819, 14559.035156
+                ]
+            ]
+        },
+		{
+            "Name": "tisy9",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    1054.490479, 454.084808, 14601.236328
+                ]
+            ]
+        },
+		{
+            "Name": "tisy10",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                    1034.000732, 454.019989, 14610.726563
+                ]
+            ]
+        },
+		{
+            "Name": "tisy11",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                   957.392334, 462.014435, 14702.039063
+                ]
+            ]
+        },
+		{
+            "Name": "tisy12",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                   951.493225, 462.014435, 14689.485352
+                ]
+            ]
+        },
+		{
+            "Name": "tisy13",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                   940.217773, 453.957245, 14701.172852
+                ]
+            ]
+        },
+		{
+            "Name": "tisy14",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                   898.802490, 455.610870, 14737.086914
+                ]
+            ]
+        },
+		{
+            "Name": "tisy15",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                   899.121765, 459.626434, 14736.496094
+                ]
+            ]
+        },
+		{
+            "Name": "tisy15",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                   869.301392, 454.868622, 14735.841797
+                ]
+            ]
+        },
+		{
+            "Name": "tisyroaming",
+            "Persist": 1,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "LoadoutFile": "Loadout",
+			"LootingBehaviour": "CLOTHING_IDENTICAL",
+			"ThreatDistanceLimit": 500,
+            "NumberOfAI": -4,
+            "Behaviour": "LOOP",
+            "Speed": "RANDOM",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": 0.7,
+            "AccuracyMax": 0.9,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 400.0,
+            "Chance": 0.7,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "Waypoints": [
+                [
+                   949.575745, 453.946014, 14664.682617
+                ],
+				[
+				1314.434814, 454.659729, 14499.650391
+				]
+            ]
+        },
         {
             "Name": "",
             "Persist": 1,
@@ -31275,7 +31805,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
             "NumberOfAI": 1,
-            "Behaviour": "ROAMING",
+            "Behaviour": "RANDOM",
             "Speed": "RANDOM",
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
@@ -31293,10 +31823,9 @@
             "RespawnTime": -2.0,
             "Waypoints": [
                 [
-                    9530.5556640625,
-                    0,
-                    4832.375
+                  632, 0, 4000
                 ]
+			
             ]
         }
     ]
