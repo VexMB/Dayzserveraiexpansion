@@ -11,13 +11,15 @@ void main()
 
 	if ( year < 2025 )
 	{
-		year = 2015;
-		month = 4;
-		day = 8;
+		year = 2025;
+		month = 12;
+		day = 20;
 		hour = 12;
 		minute = 0;
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
 	}
+
+
 }
 
 class CustomMission: MissionServer
@@ -29,11 +31,9 @@ class CustomMission: MissionServer
 
 	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
 	{
-		Entity playerEnt;
-		playerEnt = GetGame().CreatePlayer(identity, characterName, pos, 0, "NONE");
+		Entity playerEnt = GetGame().CreatePlayer(identity, characterName, pos, 0, "NONE");
 		Class.CastTo(m_player, playerEnt);
 
-		// FIX: Only use two parameters (identity, playerObject)
 		GetGame().SelectPlayer(identity, m_player);
 
 		return m_player;
@@ -42,11 +42,11 @@ class CustomMission: MissionServer
 	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
 	{
 		player.RemoveAllItems();
-		// Note: Expansion handles loadouts in DayZExpansion/Settings/SpawnSettings.json
 	}
 };
 
 Mission CreateCustomMission(string path)
 {
-	return new CustomMission();
+	// FIXED: Removed (path) from the constructor call to fix the "too many parameters" error
+	return new CustomMission(); 
 }

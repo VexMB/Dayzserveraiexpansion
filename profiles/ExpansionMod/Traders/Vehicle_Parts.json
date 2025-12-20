@@ -13,7 +13,8 @@
     "DisplayCurrencyName": "",
     "UseCategoryOrder": 0,
     "Categories": [
-        "Vehicle_Parts"
+        "Vehicle_Parts",
+		"Rag_Vehicle_Parts"
     ],
     "Items": {
         "truckbattery": 1,

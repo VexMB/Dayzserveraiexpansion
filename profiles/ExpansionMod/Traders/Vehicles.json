@@ -15,6 +15,7 @@
     "Categories": [
         "Cars",
         "Vehicle_Parts:3",
+		"RaG_Vehicles",
         "Batteries:3"
     ],
     "Items": {}
