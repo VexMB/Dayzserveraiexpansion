@@ -4957,6 +4957,25 @@
         "ConstructionPartsBuilt": [],
         "Sets": []
     },
+	{
+    "ClassName": "ExpansionBanknoteHryvnia",
+    "Chance": 0.8,
+    "Quantity": {
+      "Min": 0.1,
+      "Max": 1
+    },
+    "Health": [
+      {
+        "Min": 1,
+        "Max": 1,
+        "Zone": ""
+      }
+    ],
+    "InventoryAttachments": [],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+  },
     {
         "ClassName": "FlashbangGrenade",
         "Chance": 0.03,

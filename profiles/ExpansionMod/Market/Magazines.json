@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "mag_ij70_8rnd",
-            "MaxPriceThreshold": 705,
-            "MinPriceThreshold": 425,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

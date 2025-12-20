@@ -3579,9 +3579,6 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="CustomT4"/>
-		
-		
-		
     </type>
     <type name="TTC_AWM_Magazine_5rnd">
         <nominal>5</nominal>

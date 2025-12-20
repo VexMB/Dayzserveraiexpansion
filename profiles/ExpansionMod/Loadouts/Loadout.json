@@ -8739,14 +8739,14 @@
   },
   {
     "ClassName": "ExpansionBanknoteHryvnia",
-    "Chance": 0.05,
+    "Chance": 0.4,
     "Quantity": {
-      "Min": 10,
-      "Max": 30
+      "Min": 0.1,
+      "Max": 1
     },
     "Health": [
       {
-        "Min": 0.7,
+        "Min": 1,
         "Max": 1,
         "Zone": ""
       }

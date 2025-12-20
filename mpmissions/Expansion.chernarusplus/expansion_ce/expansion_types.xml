@@ -4296,17 +4296,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ExpansionBanknoteEuro">
-        <nominal>15</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>3</min>
-        <quantmin>10</quantmin>
-        <quantmax>30</quantmax>
-        <cost>100</cost>
-        <usage name="CustomT4"/>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ExpansionBanknoteHryvnia">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
@@ -4314,7 +4303,24 @@
         <quantmin>10</quantmin>
         <quantmax>30</quantmax>
         <cost>100</cost>
+       
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="ExpansionBanknoteHryvnia">
+        <nominal>45</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>0.5</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
 		<usage name="CustomT4"/>
+		<usage name="Military"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ExpansionTemporaryOwnedContainer">

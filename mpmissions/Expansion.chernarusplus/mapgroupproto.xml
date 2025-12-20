@@ -18264,7 +18264,7 @@
 		
 		
 <group name="Land_Mil_Fortified_Nest_Watchtower_t4" lootmax="10">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="5">
         <tag name="floor" />
         <tag name="shelves" />
@@ -18285,7 +18285,7 @@
     </container>
 </group>
 <group name="Land_Mil_Barracks3_t4" lootmax="15">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="8">
         <tag name="floor" />
         <!-- Points remain the same -->
@@ -18368,7 +18368,7 @@
     </container>
 </group>
 <group name="Land_Mil_Barracks2_t4" lootmax="15">
-    <usage name="CustomT4" />
+    <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="8">
         <tag name="floor" />
         <point pos="-1.251345 -1.098541 5.743109" range="0.252197" height="0.630493" />
@@ -18432,7 +18432,7 @@
     </container>
 </group>
 <group name="Land_Mil_Barracks_Round_t4" lootmax="10">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="5">
         <tag name="floor" />
         <tag name="shelves" />
@@ -18466,7 +18466,7 @@
     </container>
 </group>
 <group name="Land_Mil_Tent_Big1_3_t4" lootmax="10">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="8">
         <tag name="floor" />
         <tag name="shelves" />
@@ -18495,7 +18495,7 @@
     </container>
 </group>
 <group name="Land_Mil_Tent_Big1_2_t4" lootmax="10">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="8">
         <tag name="floor" />
         <tag name="shelves" />
@@ -18519,7 +18519,7 @@
     </container>
 </group>
 <group name="Land_Mil_Airfield_HQ_t4" lootmax="30">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="15">
         <tag name="floor" />
         <point pos="-2.717287 -0.891541 3.522704" range="1.199951" height="2.000000" />
@@ -18623,7 +18623,7 @@
     </container>
 </group>
 <group name="Land_Mil_Tent_Big1_5_t4" lootmax="10">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="8">
         <tag name="floor" />
         <tag name="shelves" />
@@ -18646,7 +18646,7 @@
     </container>
 </group>
 <group name="Land_Mil_Guardhouse2_t4" lootmax="8">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="3">
         <tag name="floor" />
         <point pos="-2.946045 -1.128838 -2.535400" range="0.299805" height="0.749512" />
@@ -18682,7 +18682,7 @@
     </container>
 </group>
 <group name="Land_Mil_GuardShed_t4" lootmax="4">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="3">
         <tag name="floor" />
         <tag name="shelves" />
@@ -18692,7 +18692,7 @@
     </container>
 </group>
 <group name="Land_Mil_Barracks5_t4" lootmax="15">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="6">
         <tag name="floor" />
         <point pos="0.104305 -5.003021 6.747262" range="0.729492" height="1.823730" />
@@ -18741,7 +18741,7 @@
     </container>
 </group>
 <group name="Land_Airfield_Hangar_Green_t4" lootmax="15">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="10">
         <tag name="floor" />
         <tag name="shelves" />
@@ -18775,7 +18775,7 @@
     </container>
 </group>
 <group name="Land_Tisy_HQ_t4" lootmax="25">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="15">
         <tag name="floor" />
         <!-- Points remain same as original -->
@@ -18847,7 +18847,7 @@
     </container>
 </group>
 <group name="Land_Mil_Barracks1_t4" lootmax="15">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="8">
         <tag name="floor" />
         <point pos="2.491173 -1.948364 -1.281744" range="0.532229" height="1.330566" />
@@ -18926,7 +18926,7 @@
     </container>
 </group>
 <group name="Land_Mil_GuardTower_t4" lootmax="4">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="4">
         <tag name="floor" />
         <tag name="shelves" />
@@ -18937,7 +18937,7 @@
     </container>
 </group>
 <group name="Land_Tisy_RadarB_Base_t4" lootmax="20">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="10">
         <tag name="floor" />
         <point pos="-3.900442 0.966492 -13.346486" range="0.452637" height="1.131592" />
@@ -19040,7 +19040,7 @@
     </container>
 </group>
 <group name="Land_Mil_Tent_Big2_3_t4" lootmax="10">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="8">
         <tag name="floor" />
         <tag name="shelves" />
@@ -19076,7 +19076,7 @@
     </container>
 </group>
 <group name="Land_Mil_Barracks4_t4" lootmax="15">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="5">
         <tag name="floor" />
         <point pos="-2.389683 -1.465946 -3.167737" range="0.599707" height="1.499268" />
@@ -19108,7 +19108,7 @@
     </container>
 </group>
 <group name="Land_Mil_Tent_Big1_1_t4" lootmax="5">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="5">
         <tag name="floor" />
         <point pos="-1.538054 0.849678 -0.824310" range="0.340625" height="0.851563" />
@@ -19132,7 +19132,7 @@
     </container>
 </group>
 <group name="Land_Mil_Tent_Big3_t4" lootmax="8">
-    <usage name="CustomT4" />
+   <usage name="CustomT4"/>
     <container name="lootFloor" lootmax="8">
         <tag name="floor" />
         <point pos="2.209146 -0.498138 -3.114650" range="0.203125" height="0.507813" />

@@ -1,32 +1,37 @@
 void main()
 {
-	// --- ECONOMY INITIALIZATION ---
+	// ONLY the Hive/Economy should be here. 
+	// Do NOT put Expansion checks or Date logic in main().
 	Hive ce = CreateHive();
-	if ( ce )
+	if (ce)
 		ce.InitOffline();
-
-	// --- DATE AND TIME (DECEMBER 2025) ---
-	int year, month, day, hour, minute;
-	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
-
-	if ( year < 2025 )
-	{
-		year = 2025;
-		month = 12;
-		day = 20;
-		hour = 12;
-		minute = 0;
-		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
-	}
-
-
 }
 
 class CustomMission: MissionServer
 {
+	// Note: We use the inherited m_player; do not redeclare it.
+
 	override void OnInit()
 	{
+		// 1. Initialize core systems
 		super.OnInit();
+		
+		// 2. Safely run Expansion logic here
+		if (GetGame().IsServer() && GetExpansionSettings()) 
+		{
+			Print("Expansion Settings Loaded Successfully");
+		}
+
+		// 3. Set Date (December 2025)
+		int year, month, day, hour, minute;
+		GetGame().GetWorld().GetDate(year, month, day, hour, minute);
+		
+		if (year < 2025)
+		{
+			year = 2025; month = 12; day = 20;
+			hour = 12; minute = 0;
+			GetGame().GetWorld().SetDate(year, month, day, hour, minute);
+		}
 	}
 
 	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
@@ -34,7 +39,8 @@ class CustomMission: MissionServer
 		Entity playerEnt = GetGame().CreatePlayer(identity, characterName, pos, 0, "NONE");
 		Class.CastTo(m_player, playerEnt);
 
-		GetGame().SelectPlayer(identity, m_player);
+		if (m_player)
+			GetGame().SelectPlayer(identity, m_player);
 
 		return m_player;
 	}
@@ -47,6 +53,5 @@ class CustomMission: MissionServer
 
 Mission CreateCustomMission(string path)
 {
-	// FIXED: Removed (path) from the constructor call to fix the "too many parameters" error
 	return new CustomMission(); 
 }

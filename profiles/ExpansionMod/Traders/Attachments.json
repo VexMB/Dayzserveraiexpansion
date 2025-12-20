@@ -13,12 +13,15 @@
     "DisplayCurrencyName": "",
     "UseCategoryOrder": 0,
     "Categories": [
-        "Magazines",
         "Muzzles",
         "Bayonets",
         "Optics",
         "Buttstocks",
-        "Handguards"
+        "Handguards",
+		"Mortys_buttstocks",
+		"Mortys_suppressors",
+		"Mortys_attachments",
+		"Mortys_optics"
     ],
     "Items": {
         "universallight": 1,
