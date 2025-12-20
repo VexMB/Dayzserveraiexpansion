@@ -460,7 +460,7 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    700.6136474609375,
+                    2700.6136474609375,
                     0,
                     14426.6669921875
                 ]
@@ -505,7 +505,7 @@
                 [
                     100.9836654663086,
                     0,
-                    14763.703125
+                    13193.703125
                 ]
             ]
         },
@@ -549,7 +549,7 @@
                 [
                     1094.8111572265626,
                     0,
-                    14806.9130859375
+                    13606.9130859375
                 ]
             ]
         },
@@ -1869,9 +1869,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    104.86634826660156,
+                    700.86634826660156,
                     0,
-                    14249.4619140625
+                    13349.4619140625
                 ]
             ]
         },
@@ -1959,7 +1959,7 @@
                 [
                     1116.08837890625,
                     0,
-                    14249.4619140625
+                    10249.4619140625
                 ]
             ]
         },
@@ -3367,7 +3367,7 @@
                 [
                     1052.3082275390626,
                     0,
-                    13329.5986328125
+                    13029.5986328125
                 ]
             ]
         },
@@ -11054,7 +11054,7 @@
                 [
                     100.98188018798828,
                     0,
-                    14763.7021484375
+                    12763.7021484375
                 ]
             ]
         },
@@ -11098,7 +11098,7 @@
                 [
                     1094.81103515625,
                     0,
-                    14806.91796875
+                    9806.91796875
                 ]
             ]
         },
@@ -25837,7 +25837,7 @@
                 [
                     1514.6715087890626,
                     0,
-                    14657.93359375
+                    11657.93359375
                 ]
             ]
         },
@@ -26419,7 +26419,7 @@
                 [
                     514.0133056640625,
                     0,
-                    13818.6806640625
+                    12118.6806640625
                 ]
             ]
         },
@@ -26450,7 +26450,7 @@
                 [
                     1433.97607421875,
                     0,
-                    13794.466796875
+                    13394.466796875
                 ]
             ]
         },
@@ -31275,7 +31275,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31287,9 +31287,9 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
-            "Chance": 0.7,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
+            "Chance": 0.9,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
@@ -31306,7 +31306,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31318,9 +31318,9 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
-            "Chance": 0.7,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
+            "Chance": 0.9,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
@@ -31337,7 +31337,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31349,9 +31349,9 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
-            "Chance": 0.7,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
+            "Chance": 0.8,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
@@ -31368,7 +31368,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31380,9 +31380,9 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
-            "Chance": 0.7,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
+            "Chance": 0.9,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
@@ -31399,7 +31399,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31411,8 +31411,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31430,7 +31430,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31442,8 +31442,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31461,7 +31461,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31473,8 +31473,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31492,7 +31492,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31504,8 +31504,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31523,7 +31523,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31535,8 +31535,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31554,7 +31554,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31566,8 +31566,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31585,7 +31585,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31597,8 +31597,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31616,7 +31616,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31628,8 +31628,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31647,7 +31647,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31659,8 +31659,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31678,7 +31678,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31690,8 +31690,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31709,7 +31709,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31721,8 +31721,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31740,7 +31740,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": 1,
             "Behaviour": "HALT",
             "Speed": "RANDOM",
@@ -31752,8 +31752,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31771,7 +31771,7 @@
             "Formation": "RANDOM",
             "LoadoutFile": "Loadout",
 			"LootingBehaviour": "CLOTHING_IDENTICAL",
-			"ThreatDistanceLimit": 500,
+			"ThreatDistanceLimit": 350,
             "NumberOfAI": -4,
             "Behaviour": "LOOP",
             "Speed": "RANDOM",
@@ -31783,8 +31783,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
             "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.7,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
@@ -31815,8 +31815,8 @@
             "MinDistRadius": -2.0,
             "MaxDistRadius": -2.0,
              "DespawnRadius": -2.0,
-            "MinSpreadRadius": 1.0,
-            "MaxSpreadRadius": 400.0,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
             "Chance": 0.3,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,

@@ -59,7 +59,7 @@
     "RequireMapItemInInventory": 0,
     "OnlyOnOpenAction": 0,
     "RequirePenToMark": 0,
-    "SaveMarkersToMapItem": 1,
+    "SaveMarkersToMapItem": 0,
     "RequireCompassToSeeSelf": 0,
     "RequireCompassToSee3d": 0
 }
