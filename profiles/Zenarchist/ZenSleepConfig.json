@@ -52,8 +52,8 @@
             "MorphineMdfr": -1.0
         },
         "ModifierActivatedPercent": {
-            "SodaCan_ColorBase": 1.0,
-            "ZenSleep_Amphetamine": 100.0
+            "ZenSleep_Amphetamine": 100.0,
+            "SodaCan_ColorBase": 1.0
         },
         "ModifierPausesSeconds": {
             "EpinephrineMdfr": 300.0,
@@ -61,8 +61,8 @@
         },
         "StaminaRecoveryModifiers": {
             "Yellow": 0.800000011920929,
-            "RedFlashing": 0.4000000059604645,
-            "Red": 0.6000000238418579
+            "Red": 0.6000000238418579,
+            "RedFlashing": 0.4000000059604645
         }
     },
     "ServerEffectsConfig": {
