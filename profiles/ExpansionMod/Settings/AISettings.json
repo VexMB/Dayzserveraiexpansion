@@ -1,12 +1,16 @@
 {
-    "m_Version": 18,
-    "AccuracyMin": 0.65,
-    "AccuracyMax": 0.85,
+    "m_Version": 19,
+    "AccuracyMin": 0.6499999761581421,
+    "AccuracyMax": 0.8500000238418579,
     "ThreatDistanceLimit": 700.0,
     "NoiseInvestigationDistanceLimit": 900.0,
-    "DamageMultiplier": 1,
+    "MaxFlankingDistance": 200.0,
+    "EnableFlankingOutsideCombat": 0,
+    "DamageMultiplier": 1.0,
     "DamageReceivedMultiplier": 1.0,
-    "Admins": ["76561198040522771"],
+    "Admins": [
+        "76561198040522771"
+    ],
     "Vaulting": 1,
     "SniperProneDistanceThreshold": 0.0,
     "AggressionTimeout": 120.0,
@@ -18,7 +22,9 @@
     "MaxRecruitableAI": 0,
     "PreventClimb": [],
     "FormationScale": 1.0,
-    "PlayerFactions": ["Raiders"],
+    "PlayerFactions": [
+        "Raiders"
+    ],
     "LogAIHitBy": 1,
     "LogAIKilled": 1,
     "EnableZombieVehicleAttackHandler": 0,

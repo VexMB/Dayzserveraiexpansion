@@ -283,8 +283,8 @@
         },
         {
             "ClassName": "blowtorch",
-            "MaxPriceThreshold": 1000000,
-            "MinPriceThreshold": 1000000,
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 40000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

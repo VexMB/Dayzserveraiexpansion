@@ -105,18 +105,18 @@
         "lightingConfig": 0,
         "objectSpawnersArr": [],
         "environmentMinTemps": [
-             -2,
-             -2,
-             -2,
-             -2,
-             -2,
-             -2,
-             -2,
-             -2,
-             -2,
-             -2,
-             -2,
-             -2
+             1,
+             1,
+             1,
+             1,
+             1,
+             1,
+             1,
+             1,
+             1,
+             1,
+             1,
+             1
         ],
         "environmentMaxTemps": [
             15,
@@ -181,7 +181,7 @@
 	},
 	"MapData":
 	{
-		"ignoreMapOwnership": false,
+		"ignoreMapOwnership": true,
 		"ignoreNavItemsOwnership": true,
 		"displayPlayerPosition": true,
 		"displayNavInfo": true
