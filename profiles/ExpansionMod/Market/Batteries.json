@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "battery9v",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 155,
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "carbattery",
-            "MaxPriceThreshold": 810,
-            "MinPriceThreshold": 485,
+            "MaxPriceThreshold": 55000,
+            "MinPriceThreshold": 55000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "truckbattery",
-            "MaxPriceThreshold": 895,
-            "MinPriceThreshold": 535,
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -44,8 +44,8 @@
             "MaxPriceThreshold": 1095,
             "MinPriceThreshold": 735,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []

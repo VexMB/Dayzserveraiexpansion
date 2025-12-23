@@ -50,6 +50,57 @@
 			"dynamicMode": 1
 		}
 	},
+	"CarimData": {
+    "adminIds": [],
+    "CarimAutorunData": {
+        "enabled": false
+    },
+    "CarimChatData": {
+        "enabled": false,
+        "colorDirect": -328966,
+        "colorGlobal": -16121,
+        "colorServer": -16537100,
+        "colorAlert": -43230
+    },
+    "CarimCompassData": {
+        "enabled": false,
+        "requireNavItem": false,
+        "color": -769226
+    },
+    "CarimMapData": {
+        "enabled": true,
+        "colorText": -1,
+        "colorIconDefault": -769226,
+        "distanceHideLessThan": -1,
+        "distanceHideGreaterThan": -1,
+        "showDistance": true,
+        "requireLineOfSight": false,
+        "icons": [],
+        "serverMarkers": []
+    },
+    "CarimNametagData": {
+        "enabled": false,
+        "zones": []
+    },
+    "CarimPartyData": {
+        "enabled": true,
+        "maxPartySize": -1,
+        "maxPings": 3,
+        "colorPingIconLocal": -5317,
+        "colorPingIconServer": -26624,
+        "colorPingTextLocal": -1,
+        "colorPingTextServer": -1,
+        "colorPlayerText": -1,
+        "distancePingHideLessThan": -1,
+        "distancePingHideGreaterThan": -1,
+        "distancePlayerHideLessThan": -1,
+        "distancePlayerHideGreaterThan": -1,
+        "showDistancePing": true,
+        "showDistancePlayer": true,
+        "requirePingLineOfSight": false,
+        "requirePlayerLineOfSight": false
+    }
+},
  "WorldsData": {
         "lightingConfig": 0,
         "objectSpawnersArr": [],
@@ -131,8 +182,8 @@
 	"MapData":
 	{
 		"ignoreMapOwnership": false,
-		"ignoreNavItemsOwnership": false,
-		"displayPlayerPosition": false,
+		"ignoreNavItemsOwnership": true,
+		"displayPlayerPosition": true,
 		"displayNavInfo": true
 	},
 	"VehicleData":
