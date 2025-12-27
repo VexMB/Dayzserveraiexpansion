@@ -2169,7 +2169,7 @@
         {
             "ClassName": "BalaclavaMask_Black",
             "Include": "",
-            "Chance": 0.1,
+            "Chance": 1,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -2189,7 +2189,7 @@
 		{
         "ClassName": "BalaclavaMask_Black",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2249,7 +2249,7 @@
     {
         "ClassName": "BalaclavaMask_Pink",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2269,7 +2269,7 @@
     {
         "ClassName": "Balaclava3Holes_Black",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2289,7 +2289,7 @@
     {
         "ClassName": "Balaclava3Holes_Green",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2309,7 +2309,7 @@
     {
         "ClassName": "SurgicalMask",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2329,7 +2329,7 @@
     {
         "ClassName": "HockeyMask",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2349,7 +2349,7 @@
     {
         "ClassName": "WeldingMask",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2369,7 +2369,7 @@
     {
         "ClassName": "MouthRag",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2389,7 +2389,7 @@
     {
         "ClassName": "BandanaMask_BlackPattern",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2409,7 +2409,7 @@
     {
         "ClassName": "BandanaMask_CamoPattern",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2429,7 +2429,7 @@
     {
         "ClassName": "BandanaMask_GreenPattern",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2449,7 +2449,7 @@
     {
         "ClassName": "BandanaMask_RedPattern",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2469,7 +2469,7 @@
     {
         "ClassName": "BandanaMask_PolkaPattern",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2489,7 +2489,7 @@
     {
         "ClassName": "GreatHelm",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2509,7 +2509,7 @@
     {
         "ClassName": "DallasMask",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2529,7 +2529,7 @@
     {
         "ClassName": "HoxtonMask",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2549,7 +2549,7 @@
     {
         "ClassName": "WolfMask",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2569,7 +2569,7 @@
     {
         "ClassName": "ChainMask",
         "Include": "",
-        "Chance": 0.1,
+        "Chance": 1,
         "Quantity": {
             "Min": 0,
             "Max": 0
@@ -2993,8 +2993,7 @@
     ]
 },
 		
-		
-		
+			
 		
          {
             "SlotName": "Back",
@@ -4817,91 +4816,12 @@
                 }
             ]
         },
+        
         {
-            "SlotName": "Melee",
+          "SlotName": "Shoulder",
             "Items": [
-                {
-                    "ClassName": "BaseballBat",
-                    "Include": "",
-                    "Chance": 0.1,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-				 {
-                    "ClassName": "Crowbar",
-                    "Include": "",
-                    "Chance": 0.1,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-				 {
-                    "ClassName": "SledgeHammer",
-                    "Include": "",
-                    "Chance": 0.1,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-				 {
-                    "ClassName": "Pitchfork",
-                    "Include": "",
-                    "Chance": 0.1,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-				 {
-                    "ClassName": "FarmingHoe",
-                    "Include": "",
-                    "Chance": 0.1,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
-        },
-        {
-            "SlotName": "Shoulder",
-            "Items": [
-             {
-    "Name": "AKM_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
         {
             "ClassName": "AKM",
-            "SlotName": "Shoulder",
             "Chance": 1.0,
             "InventoryAttachments": [
                 {
@@ -4913,1683 +4833,20 @@
                 {
                     "SlotName": "weaponButtstockAK",
                     "Items": [
-                        { "ClassName": "AK_PlasticBttstck", "Chance": 0.5 },
-                        { "ClassName": "AK_WoodBttstck", "Chance": 0.5 }
-                    ]
-                },
-                {
-                    "SlotName": "weaponHandguardAK",
-                    "Items": [
-                        { "ClassName": "AK_PlasticHndgrd", "Chance": 0.5 },
-                        { "ClassName": "AK_WoodHndgrd", "Chance": 0.5 }
-                    ]
-                },
-                {
-                    "SlotName": "weaponOptics",
-                    "Items": [
-                        { "ClassName": "KashtanOptic", "Chance": 0.1 },
-                        { "ClassName": "KobraOptic", "Chance": 0.2 }
+                        { "ClassName": "AK_WoodBttstck", "Chance": 1.0 }
                     ]
                 }
-            ]
-        },
-        {
-            "ClassName": "Mag_AKM_30Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_M14_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_M14",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
+            ],
+            "InventoryCargo": [
                 {
-                    "SlotName": "weaponOptics",
-                    "Items": [
-                        { "ClassName": "KashtanOptic", "Chance": 0.1 },
-                        { "ClassName": "KobraOptic", "Chance": 0.9 }
-                    ]
-                },
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_Buttstock_Morty", "Chance": 0.6 },
-                        { "ClassName": "TTC_Buttstock3", "Chance": 0.4 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_M14_Mag_20rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_M14_Mag_20rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_AK12_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_AK12",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponOptics",
-                    "Items": [
-                        { "ClassName": "KashtanOptic", "Chance": 0.1 },
-                        { "ClassName": "KobraOptic", "Chance": 0.3 }
-                    ]
-                },
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_Buttstock_AK12", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_AK12_Drum_90rnd", "Chance": 0.2 },
-                        { "ClassName": "Mag_AK74_30Rnd", "Chance": 0.8 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_AK74_30Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_M14_Set_Updated",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_M14",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponOptics",
-                    "Items": [
-                        { "ClassName": "KashtanOptic", "Chance": 0.1 },
-                        { "ClassName": "KobraOptic", "Chance": 0.9 }
-                    ]
-                },
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_Buttstock_Morty", "Chance": 0.6 },
-                        { "ClassName": "TTC_Buttstock3", "Chance": 0.4 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_M14_Mag_20rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_M14_Mag_20rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_M16A4_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_M16A4",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponOptics",
-                    "Items": [
-                        { "ClassName": "KashtanOptic", "Chance": 0.15 },
-                        { "ClassName": "KobraOptic", "Chance": 0.25 }
-                    ]
-                },
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_Buttstock_CAR15", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_DMR_556Stanag_30rnd", "Chance": 0.7 },
-                        { "ClassName": "TTC_DMR_556Pmag_30rnd", "Chance": 0.3 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_DMR_556Stanag_30rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "M4A1_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "M4A1",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponHandguardM4",
-                    "Items": [
-                        { "ClassName": "M4_RISHandguard", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "weaponButtstockM4",
-                    "Items": [
-                        { "ClassName": "M4_CQBBattlestock", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_STANAG_30Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_STANAG_30Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "SVD_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "SVD",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_SVD_10Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_SVD_10Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "FAL_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "FAL",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstockFal",
-                    "Items": [
-                        { "ClassName": "Fal_OeButtstock", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_FAL_20Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_FAL_20Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "FAL_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "FAL",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstockFal",
-                    "Items": [
-                        { "ClassName": "Fal_OeButtstock", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_FAL_20Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_FAL_20Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "SV98_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "SV98",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_SV98_10Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_SV98_10Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "Vikhr_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "Vikhr",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_Vikhr_30Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_Vikhr_30Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "AK74_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "AK74",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponHandguardAK",
-                    "Items": [
-                        { "ClassName": "AK74_Hndgrd", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "weaponButtstockAK",
-                    "Items": [
-                        { "ClassName": "AK74_WoodButtstock", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_AK74_30Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_AK74_30Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "AKS74U_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "AKS74U",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstockAK",
-                    "Items": [
-                        { "ClassName": "AKS74U_Bttstck", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_AK74_30Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_AK74_30Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "AUG_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "AUG",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_Aug_30Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_Aug_30Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "FAMAS_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "FAMAS",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_Famas_25Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_Famas_25Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "M16A2_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "M16A2",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_STANAG_30Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_STANAG_30Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "ASVAL_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "ASVAL",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_VAL_20Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_VAL_20Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "VSS_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "VSS",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_VSS_10Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_VSS_10Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "Winchester70_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "Winchester70",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponOpticsHunting",
-                    "Items": [
-                        { "ClassName": "HuntingOptic", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Ammo_308Win",
-            "Chance": 1.0,
-            "Quantity": { "Min": 40.0, "Max": 40.0 }
-        }
-    ]
-},
-{
-    "Name": "Mosin9130_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "Mosin9130",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponOpticsMosina",
-                    "Items": [
-                        { "ClassName": "PUScopeOptic", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Ammo_762x54",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "SKS_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "SKS",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": []
-        },
-        {
-            "ClassName": "Ammo_762x39",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "MP5K_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "MP5K",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstockMP5",
-                    "Items": [
-                        { "ClassName": "MP5_PlasticBttstck", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_MP5_30Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_MP5_30Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "UMP45_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "UMP45",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_UMP_25Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_UMP_25Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "PP19_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "PP19",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_PP19_64Rnd", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "PP19_Bttstck", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_PP19_64Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "CZ61_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "CZ61",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_CZ61_20Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_CZ61_20Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "Saiga_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "Saiga",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstockAK",
-                    "Items": [
-                        { "ClassName": "Saiga_Bttstck", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_Saiga_8Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_Saiga_8Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "Mp133Shotgun_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "Mp133Shotgun",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": []
-        },
-        {
-            "ClassName": "Ammo_12gaBuck",
-            "Chance": 1.0,
-            "Quantity": { "Min": 20.0, "Max": 40.0 }
-        }
-    ]
-},
-{
-    "Name": "Colt1911_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "Colt1911",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_1911_7Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_1911_7Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "Glock19_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "Glock19",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_Glock_15Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_Glock_15Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "CZ75_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "CZ75",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_CZ75_15Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_CZ75_15Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "FNX45_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "FNX45",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_FNX45_15Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_FNX45_15Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "Deagle_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "Deagle",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_Deagle_9Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_Deagle_9Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "Magnum_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "Magnum",
-            "Chance": 1.0,
-            "InventoryAttachments": []
-        },
-        {
-            "ClassName": "Ammo_357",
-            "Chance": 1.0,
-            "Quantity": { "Min": 20.0, "Max": 40.0 }
-        }
-    ]
-},
-{
-    "Name": "MKII_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "MKII",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_MKII_10Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_MKII_10Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_AEK973_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_AEK973",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponOptics",
-                    "Items": [
-                        { "ClassName": "KashtanOptic", "Chance": 0.7 },
-                        { "ClassName": "KobraOptic", "Chance": 0.3 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_AKM_30Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_AKM_30Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "ClassName": "TTC_HK416Black",
-    "Include": "",
-    "Chance": 1,
-    "Quantity": { "Min": 0, "Max": 0 },
-    "Health": [],
-    "InventoryAttachments": [
-        {
-            "SlotName": "weaponButtstock",
-            "Items": [
-                { "ClassName": "TTC_ButtstockHK", "Include": "", "Chance": 1, "Quantity": { "Min": 0, "Max": 0 }, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
-            ]
-        },
-        {
-            "SlotName": "Magazine",
-            "Items": [
-                {
-                    "ClassName": "TTC_DMR_556Pmag_30rnd",
-                    "Include": "",
-                    "Chance": 1,
-                    "Quantity": { "Min": 0, "Max": 0 },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
+                    "ClassName": "Mag_AKM_30Rnd",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 2, "Max": 2 }
                 }
             ]
         }
-    ],
-    "InventoryCargo": [
-        {
-            "ClassName": "TTC_DMR_556Pmag_30rnd",
-            "Include": "",
-            "Chance": 1,
-            "Quantity": { "Min": 0, "Max": 0 },
-            "Health": [],
-            "InventoryAttachments": [],
-            "InventoryCargo": [],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        }
-    ],
-    "ConstructionPartsBuilt": [],
-    "Sets": []
-},
-{
-    "Name": "TTC_HK416Tan_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_HK416Tan",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_Buttstock_Tan", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_DMR_556Pmag_30rnd_Tan", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_DMR_556Pmag_30rnd_Tan",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_HK416OD_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_HK416OD",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_Buttstock_Camo", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_DMR_556Pmag_30rnd_camo", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_DMR_556Pmag_30rnd_camo",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_MCX_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_MCX",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_MPXMCX1_Bttstck", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_556Stanag_30rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_556Stanag_30rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_MCX_Tan_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_MCX_Tan",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_MPXMCX1_Bttstck2", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_556Stanag_30rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_556Stanag_30rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_MPX_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_MPX",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_MPXMCX1_Bttstck", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_MPX_Mag_30rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_MPX_Mag_30rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTCSR25_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTCSR25",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_308Stanag", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_308Stanag",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_SCARHBlack_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_SCARHBlack",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_SCARHMag", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_SCARHMag",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_M110_Black_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_M110_Black",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_308Stanag", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_308Stanag",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_M4DMR_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_M4DMR",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_308Stanag", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_308Stanag",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_M4DMR_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_M4DMR",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_308Stanag", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_308Stanag",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_XM2010_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_XM2010",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_XM2010_10rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_XM2010_10rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_MRAD_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_MRAD",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_338mag_5rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_338mag_5rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_FD338_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_FD338",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_338mag_10rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_338mag_10rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_G3_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_G3",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_G3_Magazine_20rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_G3_Magazine_20rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_FAL_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_FAL",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_FAL_Wood_Bttstck", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_FAL_Magazine", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_FAL_Magazine",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_MP7A1_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_MP7A1",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_MP7A1_Mag_40rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_MP7A1_Mag_40rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_PP91_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_PP91",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_PP91_Mag_20rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_PP91_Mag_20rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_TAVOR_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_TAVOR",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_TAVOR_Magazine_30rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_TAVOR_Magazine_30rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_SG552_Black_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_SG552_Black",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "Mag_SG_30Rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "Mag_SG_30Rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_M1A_Black_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_M1A_Black",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_M14_Mag_20rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_M14_Mag_20rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_SVT40_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_SVT40",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_Mag_SVT40_10rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_Mag_SVT40_10rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_MK18_Black_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_MK18_Black",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_Buttstock_Morty", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_DMR_556Pmag_30rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_DMR_556Pmag_30rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_AACHoney_B_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_AACHoney_B",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_Buttstock_Honey", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_300Cmag", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_300Cmag",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
-{
-    "Name": "TTC_Beowulf_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_Beowulf",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_Buttstock2", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_50Beo_mag", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_50Beo_mag",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-},
- {
-        "ClassName": "TTCSR25_Desert",
-        "Include": "",
-        "Chance": 1,
-        "Quantity": { "Min": 0, "Max": 0 },
-        "Health": [],
-        "InventoryAttachments": [
-            {
-                "SlotName": "weaponButtstock",
-                "Items": [
-                    { "ClassName": "TTC_Buttstock_Tan", "Include": "", "Chance": 1, "Quantity": { "Min": 0, "Max": 0 }, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
-                ]
-            },
-            {
-                "SlotName": "Magazine",
-                "Items": [
-                    { "ClassName": "TTC_308Stanag", "Include": "", "Chance": 1, "Quantity": { "Min": 0, "Max": 0 }, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
-                ]
-            }
-        ],
-        "InventoryCargo": [
-            {
-                "ClassName": "TTC_308Stanag",
-                "Include": "",
-                "Chance": 1,
-                "Quantity": { "Min": 0, "Max": 0 },
-                "Health": [],
-                "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": []
-            }
-        ],
-        "ConstructionPartsBuilt": [],
-        "Sets": []
-    },				
-{
-    "Name": "TTC_M4Tac_Black_Set",
-    "Chance": 0.0166666666666667,
-    "Items": [
-        {
-            "ClassName": "TTC_M4Tac_Black",
-            "SlotName": "Shoulder",
-            "Chance": 1.0,
-            "InventoryAttachments": [
-                {
-                    "SlotName": "weaponButtstock",
-                    "Items": [
-                        { "ClassName": "TTC_Buttstock3", "Chance": 1.0 }
-                    ]
-                },
-                {
-                    "SlotName": "Magazine",
-                    "Items": [
-                        { "ClassName": "TTC_DMR_556Pmag_30rnd", "Chance": 1.0 }
-                    ]
-                }
-            ]
-        },
-        {
-            "ClassName": "TTC_DMR_556Pmag_30rnd",
-            "Chance": 1.0,
-            "Quantity": { "Min": 2.0, "Max": 2.0 }
-        }
-    ]
-}
+    
+
 
 
 	 
@@ -6799,25 +5056,6 @@
   },
   {
     "ClassName": "hatchet",
-    "Chance": 0.1,
-    "Quantity": {
-      "Min": 1,
-      "Max": 1
-    },
-    "Health": [
-      {
-        "Min": 0.699999988079071,
-        "Max": 1,
-        "Zone": ""
-      }
-    ],
-    "InventoryAttachments": [],
-    "InventoryCargo": [],
-    "ConstructionPartsBuilt": [],
-    "Sets": []
-  },
-  {
-    "ClassName": "HandSaw",
     "Chance": 0.1,
     "Quantity": {
       "Min": 1,
@@ -7988,25 +6226,6 @@
             {
                 "Min": 0.4,
                 "Max": 0.8,
-                "Zone": ""
-            }
-        ],
-        "InventoryAttachments": [],
-        "InventoryCargo": [],
-        "ConstructionPartsBuilt": [],
-        "Sets": []
-    },
-    {
-        "ClassName": "HandSaw",
-        "Chance": 0.07,
-        "Quantity": {
-            "Min": 1,
-            "Max": 1
-        },
-        "Health": [
-            {
-                "Min": 0.3,
-                "Max": 0.6,
                 "Zone": ""
             }
         ],
