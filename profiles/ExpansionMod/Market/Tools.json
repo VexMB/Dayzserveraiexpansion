@@ -50,39 +50,6 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		 {
-            "ClassName": "SewingKit",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 15000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		 {
-            "ClassName": "LeatherSewingKit",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		 {
-            "ClassName": "WeaponCleaningKit",
-            "MaxPriceThreshold": 100000,
-            "MinPriceThreshold": 60000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
         {
             "ClassName": "hammer",
             "MaxPriceThreshold": 10000,

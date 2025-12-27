@@ -14,21 +14,7 @@ void main()
 	int reset_month = 9;
 	int reset_day = 20;
 	
-	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
-
-	// Simplified check: If not September or October, or if too early/late in those months, reset.
-	if (month != reset_month && month != (reset_month + 1))
-	{
-		GetGame().GetWorld().SetDate(2025, reset_month, reset_day, hour, minute);
-	}
-	else if (month == reset_month && day < reset_day)
-	{
-		GetGame().GetWorld().SetDate(2025, reset_month, reset_day, hour, minute);
-	}
-	else if (month == (reset_month + 1) && day > reset_day)
-	{
-		GetGame().GetWorld().SetDate(2025, reset_month, reset_day, hour, minute);
-	}
+	
 }
 
 class CustomMission: MissionServer
@@ -42,13 +28,25 @@ class CustomMission: MissionServer
 		{
 			Print("Expansion Settings Loaded Successfully");
 		}
-	}
 
-	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
-	{
-		player.RemoveAllItems();
+		// SAFE DATE RESET (Moved from main)
+		int year, month, day, hour, minute;
+		int reset_month = 9;
+		int reset_day = 20;
+		
+		World world = GetGame().GetWorld();
+		if (world)
+		{
+			world.GetDate(year, month, day, hour, minute);
+			if (month != reset_month)
+			{
+				world.SetDate(2025, reset_month, reset_day, hour, minute);
+			}
+		}
 	}
+    // ... rest of your code
 };
+
 
 Mission CreateCustomMission(string path)
 {
