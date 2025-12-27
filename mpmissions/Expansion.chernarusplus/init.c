@@ -1,21 +1,23 @@
 void main()
 {
-	// 1. INIT WEATHER (Required to prevent memory access violations during Hive init)
-	Weather weather = GetGame().GetWeather();
-	weather.MissionWeather(false);
+    // 1. INIT ECONOMY FIRST (Ensures the Hive is ready before scripts touch it)
+    Hive ce = CreateHive();
+    if ( ce )
+    {
+        ce.InitOffline();
+    }
 
-	// 2. INIT ECONOMY
-	Hive ce = CreateHive();
-	if ( ce )
-		ce.InitOffline();
-
-	// 3. DATE RESET (September 20th, 2025)
-	int year, month, day, hour, minute;
-	int reset_month = 9;
-	int reset_day = 20;
-	
-	
+    // 2. INIT WEATHER SAFELY (Only if GetGame() is ready)
+    if ( GetGame() )
+    {
+        Weather weather = GetGame().GetWeather();
+        if ( weather )
+        {
+            weather.MissionWeather(false);
+        }
+    }
 }
+
 
 class CustomMission: MissionServer
 {

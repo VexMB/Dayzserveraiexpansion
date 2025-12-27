@@ -4,9 +4,9 @@
     "FormationScale": -1.0,
     "DespawnTime": 600.0,
     "RespawnTime": -1.0,
-    "MinDistRadius": 2000.0,
-    "MaxDistRadius": 3000.0,
-    "DespawnRadius": 4500.0,
+    "MinDistRadius": 800.0,
+    "MaxDistRadius": 4000.0,
+    "DespawnRadius": 5500.0,
     "AccuracyMin": -1.0,
     "AccuracyMax": -1.0,
     "ThreatDistanceLimit": -1.0,
@@ -34,7 +34,7 @@
             {
                 "MinPlayers": 0,
                 "MaxPlayers": 255,
-                "MaxPatrols": 5
+                "MaxPatrols": 25
             }
         ],
         "HelicopterWreck": [
@@ -48,7 +48,7 @@
             {
                 "MinPlayers": 0,
                 "MaxPlayers": 10,
-                "MaxPatrols": 25
+                "MaxPatrols": 30
             },
             {
                 "MinPlayers": 11,

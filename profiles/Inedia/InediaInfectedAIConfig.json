@@ -1758,7 +1758,7 @@
     "LightInHouseMultiplier": 0.20000000298023225,
     "SoundInHouseMultiplier": 0.5,
     "SuppressorShotCooldownSeconds": 5.0,
-    "SuppressorShotOverfireDistanceMeters": 80.0,
+    "SuppressorShotOverfireDistanceMeters": 15.0,
     "BloodParticlesLimit": 1000.0,
     "BloodParticleDurationSeconds": 600.0,
     "SaveConfigAfterInit": 0
